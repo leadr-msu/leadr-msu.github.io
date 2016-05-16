@@ -13,7 +13,9 @@ Because Neatline is a plugin for Omeka, you'll be doing work in both the Omeka a
 ###Setting up an Exhibit
 1. Log in to your Omeka account 
 1. Click on 'Exhibit'
-2. 
+
+
+
 ###Adding items to Omeka
 ###Adding items to Neatline
 ###Adding text to Neatline
