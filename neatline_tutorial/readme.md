@@ -42,17 +42,18 @@ All content (images, text, etc.) added to the exhibit must be added as a 'Record
 
 On the Neatline editor page, click 'New Record.' This will bring up a record editing bar on the left side of the page with four tabs: Text, Item, Map, Style. There are 'Save' buttons at the bottom of each tabbed page, and it's recommended that you use them often.
 
-####Text
+####Tabs for adding records
+#####Text
 Here you can assign the record a Title and you have the option to add text (or customized HTML) to the record.
 
 - Slug: A plain­text ID for the record, used to reference the record from TEI or HTML. Eg: war­and­peace This is not required - Neatline will generate its own slug.
 - Title: A top­level, human­readable identifier. Used as a label for the record. Eg: "War and Peace"
 - Body: The main content of the record. Could be a short blurb, a long­format essay, a video, etc. If you decide to add an item from Omeka, this will appear about the item information.
 
-####Item
+#####Item
 This is where you can include an Omeka item as a record. You'll need to create it before you can use it in Neatline, but any later edits to the Omeka item will be reflected. Click in the 'Search Omeka items' box and start to type in the name of the item. It will return results as you type.
 
-####Map
+#####Map
 Here you can add your record to the map as one or more points, lines, or polygons.
 
 - Navigate - This allows you to 'grab' the map and move around. It effectively turns off all of the drawing tools.
@@ -64,7 +65,7 @@ Here you can add your record to the map as one or more points, lines, or polygon
 Before you begin placing records on the map, you may want to set a default map location. The default window goes to [Null Island](https://en.wikipedia.org/wiki/Null_Island), but you can recenter it by clicking on the 'Styles' tab at the exhibit home page, moving the window to where you'd like it, and then clicking 'Use Current Viewport as Default'.
 
 
-####Style
+#####Style
 - Tags: A string of comma­delimited tags used to slice and dice the collection into related
 subgroups.
 - Widgets: Which of the "viewports" the record is visible in (timeline, waypoints browser,
@@ -102,12 +103,26 @@ selected.
 - Default Zoom: The zoom level that the map zooms to when the record is selected.
 
 
-###Pulling Everything Together
+
 ###Using the Timeline function
 
-###Using the other Time thing idk
-###Using the Waypoints Function
-###Customizing
+####Activate SIMILE Timeline
+The timeline that appears at the bottom of the Neatline Viewer must be activated in the Omeka Plugins page (it is called 'Neatline Widget ~ SIMILE Timeline).
+
+####Add record to the Timeline
+To place a record on the timeline, go to the 'Style' tab for the record and add SIMILE Timeline to the Widgets field. The record's placement is dependent upon the record's 'Start Date' and 'End Date'.
+
+An item's color on the timeline can be customized by adjusting the Fill and Stroke color options on the Style tab.
+
+####Customize the Timeline
+At the Neatline dashboard, click on the 'Plugins' tab and then select SIMILE Timeline. You will have 5 fields for customization.
+
+- Default Date: This sets the date that appears at the center of the timeline by default
+- Interval Unit: Decide how large or small the intervals will be on the timeline - this can range between one second and a millenium
+- Interval Pixels: Set the distance (on the screen) between the intervals on the timeline
+- Track Height: Set the height of the space used to show the event's 'tape' and label on the timeline
+- Tape Height: Set the height of an object on the timeline
+
 ##Sources for this Guide
 - [Tobias Hrynick, The Haskins Society](http://www.haskinssociety.org/omeka-neatline-1)
 - [Alicia Peaker, Building Digital Exhibits in the Classroom with Omeka and Neatline](https://aliciapeaker.wordpress.com/2014/04/28/building-digital-exhibits/)
