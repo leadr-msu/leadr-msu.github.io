@@ -2,7 +2,7 @@
 
 Like any academic project, your webpages need to properly acknowledge your sources. The most straightforward way to do this is to provide a bracketed number ([1]) after the text being cited, and to manually insert the citation at the bottom of your document (1. Your Citation). Unlike a printed document from a static word processor, however, your web citations can easily be made interactive. The examples below offer three different ways of presenting online citations, with increasing complexity.
 
-CLICKABLE FOOTNOTES 
+##CLICKABLE FOOTNOTES 
 Rather than using plain text as you would in a word processor, you can take advantage of the interactive dynamics of HTML to make footnotes in your web writing clickable. In order to do this, you will first need to name each of your footnotes in html.  The basic script to accomplish this follows. You will replace “footnote1” with your own information. 
     
     
@@ -18,7 +18,7 @@ This functions as an anchor tag, not a link. After your footnotes are named, you
     <a href="#footnote1">[1]</a>
     </p>
 
-CLICKABLE FOOTNOTES WITH RETURN 
+##CLICKABLE FOOTNOTES WITH RETURN 
 It is also possible to write HTML that will return your reader to the place in the text where they clicked down to your footnote. The script to accomplish this modifies the HTML in the main text body as well that that surrounding the footnote itself. To do this, you will replace the code you used in the previous example. This first block of code is what you will use in the main text of your writing to link to your footnotes."Text to footnote mark" is your writing to the point where you wish to insert your own footnote mark. You will replace “_ftnref1” with your own information. 
     
     
@@ -39,7 +39,7 @@ It is also possible to write HTML that will return your reader to the place in t
     Text of footnote
     </p> 
 
-ADDING POP OVER DESCRIPTIONS FOR BIBLIOGRAPHIC TEXT 
+##ADDING POP OVER DESCRIPTIONS FOR BIBLIOGRAPHIC TEXT 
 This requires an active Javascript Framework, which LEADR staff will construct for you. Be sure to request this before attempting to use the following code. This pop over will appear over a parenthetical citation at the end of a sentence of referenced material. At this point in your writing, insert the following code. You will replace “bibliographic entry” and “Author, p#” with your own information. 
     
     
@@ -49,7 +49,7 @@ This requires an active Javascript Framework, which LEADR staff will construct f
     (Author, p#).
     </a>.
 
-APA (AMERICAN PSYCHOLOGICAL ASSOCIATION) STYLE TIPS
+##APA (AMERICAN PSYCHOLOGICAL ASSOCIATION) STYLE TIPS
 This is the preferred citation method for those working in the social and natural sciences, including but not limited to Sociology, Anthropology, Psychology, Political Science, and much more. If a field tends to generate rapid publications and the need to cite by publication date is significant, this is the best tool. All sample citations are drawn from Purdue University's Online Writing Lab: [here](https://owl.english.purdue.edu/owl/section/2/10/). "When using APA format, follow the author-date method of in-text citation. This means that the author's last name and the year of publication for the source should appear in the text, for example, (Jones, 1998), and a complete reference should appear in the reference list at the end of the paper.If you are referring to an idea from another work but **NOT** directly quoting the material, or making reference to an entire book, article or other work, you only have to make reference to the author and year of publication and not the page number in your in-text reference. All sources that are cited in the text must appear in the reference list at the end of the paper." 
 
 ##### SINGLE AUTHOR
@@ -94,11 +94,11 @@ Author, A. A., & Author, B. B. (Date of publication). Title of article. Title of
 
 Kenneth, I. A. (2000). A Buddhist response to the nature of human rights. Journal of Buddhist Ethics, 8. Retrieved from http://www.cac.psu.edu/jbe/twocont.html
 
-CHICAGO STYLE TIPS
+##CHICAGO STYLE TIPS
 
 This is the preferred citation method for those working in the field of history. Examples of some of the most commonly used items are listed below. This style is ideal for hard to locate and unique sources, such as those found in archives. All sample citations are drawn verbatim from the Chicago Manual of Style Online, 16th Edition. The full electronic style guide is available through the MSU library: here.
 
-BOOK WITH SINGLE AUTHOR OR EDITOR
+##### BOOK WITH SINGLE AUTHOR OR EDITOR
 For a book with a single author, invert the name in the bibliography but not in the notes. Punctuate and capitalize as shown. Note the shortened form in the second note. Note also that actual page numbers cited are usually included in a note but not in a bibliography entry, unless the entry is for a chapter, in which case the page range in which the item appears is included.
 
 Footnote:
@@ -108,7 +108,7 @@ Footnote:
 Bibliography:
 Pollan, Michael. The Omnivore’s Dilemma: A Natural History of Four Meals. New York: Penguin, 2006.
 
-BOOK WITH MULTIPLE AUTHORS
+##### BOOK WITH MULTIPLE AUTHORS
 For a book with two authors, note that only the first-listed name is inverted in the bibliography entry.
 
 Footnote:
@@ -117,7 +117,7 @@ Footnote:
 Bibliography:
 Ward, Geoffrey C., and Ken Burns. The War: An Intimate History, 1941–1945. New York: Knopf, 2007.
 
-JOURNAL ARTICLE
+##### JOURNAL ARTICLE
 Citations of journals include the volume and issue number and date of publication. The volume number follows the italicized journal title in roman and with no intervening punctuation. A specific page reference is included in the notes; the page range for an article is included in the bibliography. In the full citation, page numbers are preceded by a colon. If a journal is paginated consecutively across a volume or if the month or season appears with the year, the issue number may be omitted (as in the second and third sets of examples below).
 
 Footnote:
