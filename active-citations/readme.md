@@ -127,6 +127,8 @@ Footnote:
 Bibliography:
 Blair, Walter. “Americanized Comic Braggarts.” Critical Inquiry 4, no. 2 (1977): 331–49.
 
+##### ARTICLE WITH DOI ASSIGNED
+
 The DOI in the following example indicates that the article was consulted online; it is preferred to a URL (see also 14.5, 14.6). Note that DOI, so capitalized when mentioned in running text, is lowercased and followed by a colon (with no space after) in source citations. Shortened citations for subsequent references to an online source follow the forms for printed books and journals.
 
 Footnote:
@@ -135,6 +137,8 @@ Footnote:
 
 Bibliography:
 Novak, William J. “The Myth of the ‘Weak’ American State.” American Historical Review 113 (June 2008): 752–72. doi:10.1086/ahr.113.3.752.
+
+##### ARTICLE WITHOUT DOI ASSIGNED
 
 For articles that have not been assigned a DOI (or if the DOI cannot be determined), include a URL. The URL in the following example—consulted through the academic journals archive JSTOR—was listed along with the article as a more stable (and shorter) alternative to the URL that appeared in the browser’s address bar. For access dates (not shown here), see 14.185.
 
