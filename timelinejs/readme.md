@@ -2,7 +2,7 @@
 
 # TimelineJS Template:
 
->   * <http://bit.ly/1jjDevY>
+>   * Save [this template](<http://bit.ly/1jjDevY>) to your own Google drive to begin your own TimelineJS project.
 
 # TimelineJS Resources
 
