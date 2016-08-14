@@ -1,15 +1,3 @@
-title: TimelineJS Tutorial Resources
-link: http://leadr.msu.edu/resources/timelinejs/
-author: ltimbs
-description: 
-post_id: 578
-created: 2015/01/20 19:13:38
-created_gmt: 2015/01/20 19:13:38
-comment_status: closed
-post_name: timelinejs
-status: publish
-post_type: page
-
 # TimelineJS Tutorial Resources
 
 # TimelineJS Template:
