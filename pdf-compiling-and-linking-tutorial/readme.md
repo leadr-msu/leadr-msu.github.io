@@ -1,4 +1,5 @@
 # PDF Compiling and Linking Tutorial
+Prepared by Brian Geyer.
 
 This tutorial will cover the basics of merging several documents into one pdf and creating links within that pdf that lead to various sections. For a full example, please see this [pdf example file](wp-content/uploads/2016/04/Louie-example-pdf-linked.pdf). 
 
