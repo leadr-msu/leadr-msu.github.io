@@ -1,6 +1,7 @@
 # Active Citations
+Prepared by Sara Bijani
 
-Like any academic project, your webpages need to properly acknowledge your sources. The most straightforward way to do this is to provide a bracketed number ([1]) after the text being cited, and to manually insert the citation at the bottom of your document (1. Your Citation). Unlike a printed document from a static word processor, however, your web citations can easily be made interactive. The examples below offer three different ways of presenting online citations, with increasing complexity.
+Like any academic project, your webpages need to properly acknowledge your sources. The most straightforward way to do this is to provide a bracketed number ([1]) after the text being cited, and to manually insert the citation at the bottom of your document (1. Your Citation). Unlike a printed document from a static word processor, however, your web citations can easily be made interactive. The examples below offer three different ways of presenting online citations, with increasing complexity.
 
 ##CLICKABLE FOOTNOTES 
 Rather than using plain text as you would in a word processor, you can take advantage of the interactive dynamics of HTML to make footnotes in your web writing clickable. In order to do this, you will first need to name each of your footnotes in html.  The basic script to accomplish this follows. You will replace “footnote1” with your own information. 
