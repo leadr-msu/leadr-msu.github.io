@@ -1,4 +1,5 @@
 # GitHub Use Tutorial
+Prepared by Brian Geyer
 
 ## Forking a Repository
 
