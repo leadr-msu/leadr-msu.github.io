@@ -1,10 +1,5 @@
 #Visualizing Public Data
 
-##Before Class
-1. Take a look at [The Changing American Diet](http://flowingdata.com/2016/05/17/the-changing-american-diet), which does an excellent job of visualizing the data we're going to be looking at in class.
-1. Visit [Tableau Public](https://public.tableau.com/) and create a free account.
-2. Download Tableau Public on a laptop you will have in the classroom: [https://public.tableau.com/en-us/s/download](https://public.tableau.com/en-us/s/download) You'll also need Excel, or a program that can open and edit an .xls file. Tablets, phones, and netbooks will not work. There will be computers in LEADR for you to use if you don't have a laptop that will work for this.
-
 ##In Class
 ###Finding and Evaluating Data
 There are datasets available all over the web, especially from governmental departments, non-profits, and similar organizations. Since we're interested in food, the US Department of Agriculture (USDA) is a good place to start. They have a [Food Availability (Per Capita) Data System](http://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/), with some data that will help us look at the changing American diet.
