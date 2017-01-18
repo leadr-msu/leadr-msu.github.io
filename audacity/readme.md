@@ -32,3 +32,8 @@ The SD card will have three folders on it: 4CH, MTR, STEREO. Your files will be 
 <li>Each of these folders will have ‘FOLDER01-FOLDER10’ in them. Your files should be in ‘FOLDER01.’</li>
 <li>Drag the files to your computer to save a copy of them. You can import these into the editing software you prefer.</li>
 </ol></p>
+
+
+<h2>Yeti Mic</h2>
+<p>Before you begin recording, plug in the Yeti Mic’s USB cable to a USB port on your computer.
+**Note that if you open Audacity before plugging in the microphone, you will not be able to select the Yeti Mic as your audio source.**</p>
