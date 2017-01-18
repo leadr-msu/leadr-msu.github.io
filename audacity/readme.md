@@ -7,7 +7,7 @@ The H4n Zoom Handy Recorder is a versatile and easy to use recorder for intervie
 
 
 
-##Optional Accessories
+###Optional Accessories
 * Windscreen
 * Table stand
 * Power cord
