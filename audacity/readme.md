@@ -38,15 +38,15 @@ The H4n Zoom Handy Recorder is a versatile and easy to use recorder for intervie
 Before you begin recording, plug in the Yeti Mic’s USB cable to a USB port on your computer.
 **Note that if you open Audacity before plugging in the microphone, you will not be able to select the Yeti Mic as your audio source.**
 
-<img src="http://leadr.msu.edu/wp-content/uploads/2016/10/Screen-Shot-2016-10-20-at-1.30.40-PM.png" width="40%">
+<img src="img/micpatterns.png" width="40%">
 
 Be sure to choose the right microphone pattern for the type of audio you will be recording. The “Cardioid” mode is best for almost all applications where only one person is speaking, while the “bidirectional” mode is best for a situation where you wish to record two speakers in conversation with one another. The “stereo” mode should never be used to record voice audio, but is the best choice for recording music. The “omnidirectional” mode is a good choice for ambient room sound, but similarly is not ideal for recording voice tracks.
 
-<img src="http://leadr.msu.edu/wp-content/uploads/2016/10/Screen-Shot-2016-10-20-at-1.34.19-PM.png" width="40%">
+<img src="img/yetidodont.png" width="40%">
 
 Be sure that your microphone is positioned correctly. It should be about one foot away from the person speaking, and oriented so that the person is speaking toward the side rather than the top of the microphone as shown in the image to the left.
 
-<img src="http://leadr.msu.edu/wp-content/uploads/2016/10/Screen-Shot-2016-10-20-at-1.33.42-PM.png" width="40%">
+<img src="img/audacity1.png" width="40%">
 
 After your microphone is plugged into your USB port and you’ve selected the correct microphone pattern, open Audacity and change the audio source from the “Built-In Microphone” to the “Yeti Stereo Microphone.”   **Be sure that the microphone isn’t muted. When the microphone is muted, the button will flash red. When the microphone is not muted, the button will glow solid red.**
 
@@ -54,7 +54,7 @@ After your microphone is plugged into your USB port and you’ve selected the co
 
 Audacity is an accessible multi-track audio recording and editing software with a number of important features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the [Audacity Manual](http://manual.audacityteam.org/) for more tutorials or assistance.
 
-<img src="http://leadr.msu.edu/wp-content/uploads/2016/10/Audacity.Screenshot.png" width="50%">
+<img src="img/audacityedit.png" width="50%">
 
 **SETUP**: To  get started, you’ll need to download the Audacity app. First, head over to their site. Downloads are available for Mac, Windows, and Linux. If you are going to be recording audio with audacity, you’ll want to plug in your Yeti mic into the USB port before opening audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon (1) and select the Yeti mic.
 
