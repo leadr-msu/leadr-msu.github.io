@@ -52,7 +52,7 @@ After your microphone is plugged into your USB port and you’ve selected the co
 
 #Editing Audio in Audacity
 
-Audacity is an accessible multi-track audio recording and editing software with a number of important features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the Audacity Manual for more tutorials or assistance.
+Audacity is an accessible multi-track audio recording and editing software with a number of important features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the [Audacity Manual](http://manual.audacityteam.org/) for more tutorials or assistance.
 
 <img src="http://leadr.msu.edu/wp-content/uploads/2016/10/Audacity.Screenshot.png" width="50%">
 
