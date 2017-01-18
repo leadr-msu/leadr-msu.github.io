@@ -66,7 +66,7 @@ Audacity is an accessible multi-track audio recording and editing software with 
 
 **SAVING & EXPORTING**: To export your file, go to File > Export Audio. You’ll want to select a WAV file type if you still plan on editing the audio some more. If your work is completely done, you can save it as an MP3. You should also fill in the metadata information for at least the artist and track name. This information will always stay with the MP3 file and can be useful when looking for information on it later.
 
-**OTHER KEY POINTS: **
+**OTHER KEY POINTS:**
 * Editing cannot be done while the tracks are playing, you’ll need to stop them completely to edit.
 * If your Yeti mic doesn’t show up, go to System Preferences > Sound > Input > Stereo Mic. (For Macs)
 * When recording, make sure to give yourself enough time on both ends. You can edit out any extra material later.
