@@ -24,3 +24,11 @@
 <li>Press the ‘REC/⚫’ button again to start recording. The indicator ring around the button should be red, and the time indicator on the screen should be counting up.</li>
 <li>When you’re done, press ‘◼’. You can record as many clips as are necessary.</li>
 </ol></p>
+
+<p><h4>Exporting Files</h4>
+<ol>
+<li>When you’re done recording, press in on the SD card to eject it, and put the card into a computer.
+The SD card will have three folders on it: 4CH, MTR, STEREO. Your files will be in the folder that corresponds to the recording setting you used. STEREO is the default.</li>
+<li>Each of these folders will have ‘FOLDER01-FOLDER10’ in them. Your files should be in ‘FOLDER01.’</li>
+<li>Drag the files to your computer to save a copy of them. You can import these into the editing software you prefer.</li>
+</ol></p>
