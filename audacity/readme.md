@@ -1,7 +1,7 @@
-<h2>Recording Audio</h2>
+#Recording Audio
 
-<h4>H4n Zoom Handy Mic</h4>
-<p>The H4n Zoom Handy Recorder is a versatile and easy to use recorder for interviews, oral histories, or monologues. If you are interested in features or functions not mentioned in this brief introduction, please see the <a href="https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/Zoom_H4nPro_English.pdf">H4n Operation Manual</a>.</p>
+##Hn4 Zoom Handy Mic
+The H4n Zoom Handy Recorder is a versatile and easy to use recorder for interviews, oral histories, or monologues. If you are interested in features or functions not mentioned in this brief introduction, please see the <a href="https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/Zoom_H4nPro_English.pdf">H4n Operation Manual</a>.
 
 <img src="http://leadr.msu.edu/wp-content/uploads/2016/10/handymicoff-anno-3.png" alt="handymic1" style="width:40px; height:60px;">
 
