@@ -2,7 +2,7 @@
 
 <h4>H4n Zoom Handy Mic</h4>
 <p>The H4n Zoom Handy Recorder is a versatile and easy to use recorder for interviews, oral histories, or monologues. If you are interested in features or functions not mentioned in this brief introduction, please see the <a href="https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/Zoom_H4nPro_English.pdf">H4n Operation Manual</a>.</p>
-<p>Optional Accessories
+<p><u>Optional Accessories</u>
 <ul>
 <li>Windscreen</li>
 <li>Table stand</li>
@@ -10,7 +10,7 @@
 <li>Lapel mic (plugs into bottom of recorder)</li>
 </ul>
 </p>
-<p>Setup
+<p><u>Setup</u>
 <ol>
 <li>Confirm there is an SD memory card inserted on the right side of the recorder</li>
 <li>Turn the mic on by sliding the power button (left side of the recorder) down and holding for a second.</li>
