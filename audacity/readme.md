@@ -3,7 +3,7 @@
 ##Hn4 Zoom Handy Mic
 The H4n Zoom Handy Recorder is a versatile and easy to use recorder for interviews, oral histories, or monologues. If you are interested in features or functions not mentioned in this brief introduction, please see the [H4n Operation Manual.](https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/Zoom_H4nPro_English.pdf)
 
-<img src="handymicoff.png" width="40%"> <img src="handymicon.png" width="40%">
+<img src="img/handymicoff.png" width="40%"> <img src="img/handymicon.png" width="40%">
 
 
 
