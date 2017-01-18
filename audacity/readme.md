@@ -19,3 +19,8 @@
 <li>Speak as you will during your recording and watch the sound level. Adjust the recording level using buttons on the right side to set the level to the middle of the range.</li>
 </ol>
 </p>
+<p><h4>Recording</h4>
+<ol>
+<li>Press the ‘REC/⚫’ button again to start recording. The indicator ring around the button should be red, and the time indicator on the screen should be counting up.</li>
+<li>When you’re done, press ‘◼’. You can record as many clips as are necessary.</li>
+</ol></p>
