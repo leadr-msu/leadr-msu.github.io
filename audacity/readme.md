@@ -9,3 +9,13 @@
 <li>Power cord</li>
 <li>Lapel mic (plugs into bottom of recorder)</li>
 </ul>
+</p>
+<p>Setup
+<ol>
+<li>Confirm there is an SD memory card inserted on the right side of the recorder</li>
+<li>Turn the mic on by sliding the power button (left side of the recorder) down and holding for a second.</li>
+<li>It will likely take a moment to load. If it says “NO DATA,” try removing the card and putting it back in.</li>
+<li>Press the record button (REC / ⚫) once to check the status. The recording indicator around the button will start flashing.</li>
+<li>Speak as you will during your recording and watch the sound level. Adjust the recording level using buttons on the right side to set the level to the middle of the range.</li>
+</ol>
+</p>
