@@ -13,15 +13,14 @@ The H4n Zoom Handy Recorder is a versatile and easy to use recorder for intervie
 * Power cord
 * Lapel mic (plugs into bottom of recorder)
 
-<p><h4>Setup</h4>
-<ol>
-<li>Confirm there is an SD memory card inserted on the right side of the recorder</li>
-<li>Turn the mic on by sliding the power button (left side of the recorder) down and holding for a second.</li>
-<li>It will likely take a moment to load. If it says “NO DATA,” try removing the card and putting it back in.</li>
-<li>Press the record button (REC / ⚫) once to check the status. The recording indicator around the button will start flashing.</li>
-<li>Speak as you will during your recording and watch the sound level. Adjust the recording level using buttons on the right side to set the level to the middle of the range.</li>
-</ol>
-</p>
+###Setup
+1. Confirm there is an SD memory card inserted on the right side of the recorder
+1. Turn the mic on by sliding the power button (left side of the recorder) down and holding for a second.</li>
+1. It will likely take a moment to load. If it says “NO DATA,” try removing the card and putting it back in.</li>
+1. Press the record button (REC / ⚫) once to check the status. The recording indicator around the button will start flashing.</li>
+1. Speak as you will during your recording and watch the sound level. Adjust the recording level using buttons on the right side to set the level to the middle of the range.
+
+
 <p><h4>Recording</h4>
 <ol>
 <li>Press the ‘REC/⚫’ button again to start recording. The indicator ring around the button should be red, and the time indicator on the screen should be counting up.</li>
