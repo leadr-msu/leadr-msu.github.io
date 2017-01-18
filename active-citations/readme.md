@@ -11,7 +11,7 @@ Rather than using plain text as you would in a word processor, you can take adva
     Footnote 1
     </a>
     
-![alt text](http://leadr.msu.edu/wp-content/uploads/2016/10/handymicoff-anno-3.png "Logo Title Text 1" =20%)
+![alt text](http://leadr.msu.edu/wp-content/uploads/2016/10/handymicoff-anno-3.png "Logo Title Text 1" ){:height="30%"}
 
 
 This functions as an anchor tag, not a link. After your footnotes are named, you will need to make the footnote marker (for example: “[1]”) into a tag that refers to the appropriate named section. The basic script to accomplish this uses the # sign, as follows: 
