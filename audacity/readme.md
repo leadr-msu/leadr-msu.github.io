@@ -38,7 +38,7 @@ The H4n Zoom Handy Recorder is a versatile and easy to use recorder for intervie
 Before you begin recording, plug in the Yeti Mic’s USB cable to a USB port on your computer.
 **Note that if you open Audacity before plugging in the microphone, you will not be able to select the Yeti Mic as your audio source.**
 
-<img src="img/micpatterns.png" width="40%">
+<img src="img/micpattern.png" width="40%">
 
 Be sure to choose the right microphone pattern for the type of audio you will be recording. The “Cardioid” mode is best for almost all applications where only one person is speaking, while the “bidirectional” mode is best for a situation where you wish to record two speakers in conversation with one another. The “stereo” mode should never be used to record voice audio, but is the best choice for recording music. The “omnidirectional” mode is a good choice for ambient room sound, but similarly is not ideal for recording voice tracks.
 
