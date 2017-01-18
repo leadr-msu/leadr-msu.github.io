@@ -6,7 +6,7 @@ The H4n Zoom Handy Recorder is a versatile and easy to use recorder for intervie
 
 ![](http://leadr.msu.edu/wp-content/uploads/2016/10/handymicoff-anno-3.png)
 
-
+<img src="http://leadr.msu.edu/wp-content/uploads/2016/10/handymicoff-anno-3.png" width="48">
 
 
 
