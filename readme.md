@@ -1,4 +1,7 @@
 #LEADR Tutorials
+- [Active Citations](https://github.com/leadr-msu/active-citations)
+- [Recording Audio (Audacity)](https://github.com/leadr-msu/audacity)
+- [Using GitHub](https://github.com/leadr-msu/github-use-tutorial)
 - [Neatline](https://github.com/leadr-msu/neatline-tutorial)
 - [PDF Compiling and Linking Tutorial](https://github.com/leadr-msu/pdf-compiling-and-linking-tutorial)
 - [Reusing and Attributing Media](https://github.com/leadr-msu/reusing-attributing-media)
