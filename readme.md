@@ -8,6 +8,7 @@
 - [Digital Starter Guide](https://github.com/leadr-msu/starter-guide)
 - [TimelineJS](https://github.com/leadr-msu/timelinejs)
 - [Wikipedia Editing](https://github.com/leadr-msu/wikipedia-editing)
+- [iMovie Tutorial] (https://github.com/leadr-msu/imovie)
 
 -----
 #LEADR Course Guides
