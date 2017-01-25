@@ -8,5 +8,5 @@
 
 -----
 #LEADR Course Guides
-- [Oral Histories - TE991](https://github.com/leadr-msu/oral-history-publishing-te991)
+- [Oral Histories - TE991](https://github.com/leadr-msu/oral-history-publication-te991)
 - [Visualizing Public Data - Eating Industrial](https://github.com/leadr-msu/visualizing-public-data-eating-industrial)
