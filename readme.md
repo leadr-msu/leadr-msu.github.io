@@ -6,6 +6,7 @@
 - [TimelineJS](https://github.com/leadr-msu/timelinejs)
 - [Wikipedia Editing](https://github.com/leadr-msu/wikipedia-editing)
 
+-----
 #LEADR Course Guides
 - [Oral Histories - TE991](https://github.com/leadr-msu/oral-history-publishing-te991)
 - [Visualizing Public Data - Eating Industrial](https://github.com/leadr-msu/visualizing-public-data-eating-industrial)
