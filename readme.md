@@ -13,4 +13,4 @@
 #LEADR Course Guides
 - [Oral Histories - TE991](https://github.com/leadr-msu/oral-history-publication-te991)
 - [Visualizing Public Data - Eating Industrial](https://github.com/leadr-msu/visualizing-public-data-eating-industrial)
-- [TimelineJS](https://github.com/leadr-msu/timelinejs-hst390-international-relations)
+- [TimelineJS - HST 390 History of International Relations](https://github.com/leadr-msu/timelinejs-hst390-international-relations)
