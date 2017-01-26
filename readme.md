@@ -5,7 +5,6 @@
 - [Neatline](https://github.com/leadr-msu/neatline-tutorial)
 - [PDF Compiling and Linking Tutorial](https://github.com/leadr-msu/pdf-compiling-and-linking-tutorial)
 - [Reusing and Attributing Media](https://github.com/leadr-msu/reusing-attributing-media)
-- [Digital Starter Guide](https://github.com/leadr-msu/starter-guide)
 - [Wikipedia Editing](https://github.com/leadr-msu/wikipedia-editing)
 - [iMovie] (https://github.com/leadr-msu/imovie)
 
