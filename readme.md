@@ -7,6 +7,7 @@
 - [Reusing and Attributing Media](https://github.com/leadr-msu/reusing-attributing-media)
 - [Wikipedia Editing](https://github.com/leadr-msu/wikipedia-editing)
 - [iMovie] (https://github.com/leadr-msu/imovie)
+- [Omeka]
 
 -----
 #LEADR Course Guides
