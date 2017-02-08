@@ -8,6 +8,7 @@
 - [Wikipedia Editing](https://github.com/leadr-msu/wikipedia-editing)
 - [iMovie] (https://github.com/leadr-msu/imovie)
 - [Omeka] (https://github.com/leadr-msu/omeka)
+- [Markdown] (https://github.com/leadr-msu/markdown)
 
 -----
 #LEADR Course Guides
