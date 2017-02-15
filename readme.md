@@ -9,6 +9,7 @@
 - [iMovie] (https://github.com/leadr-msu/imovie)
 - [Omeka] (https://github.com/leadr-msu/omeka)
 - [Markdown] (https://github.com/leadr-msu/markdown)
+- [Czurtech Scanner Guide] (https://github.com/leadr-msu/czurtech-scanner-guide)
 
 -----
 #LEADR Course Guides
