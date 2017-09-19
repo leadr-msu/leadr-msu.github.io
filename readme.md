@@ -15,6 +15,7 @@
 
 -----
 # LEADR Course Guides
+- [HST 201 - Data Visualization with East African Slave Voyages](https://github.com/leadr-msu/data-visualization-east-african-slave-voyages)
 - [Topic Modeling - HST 251 Doing Digital History](https://github.com/leadr-msu/topicmodeling-hst251)
 - [Oral Histories - TE 991](https://github.com/leadr-msu/oral-history-publication-te991)
 - [Visualizing Public Data - Eating Industrial](https://github.com/leadr-msu/visualizing-public-data-eating-industrial)
