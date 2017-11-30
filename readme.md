@@ -13,6 +13,7 @@
 - [Czurtech Scanner Guide](https://github.com/leadr-msu/czurtech-scanner-guide)
 - [Citations - Best Practices](https://github.com/leadr-msu/Citations-Best-Practices/blob/master/README.md)
 - [WordPress Introductory Resources](https://github.com/leadr-msu/wordpress)
+- [Zoom](https://github.com/leadr-msu/zoom)
 
 -----
 # LEADR Course Guides
