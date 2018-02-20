@@ -29,6 +29,7 @@
 - [HST 251 Geospatial Data](https://github.com/leadr-msu/hst251-geospatialdata)
 - [HST 251 Numismatic Visualization](https://github.com/leadr-msu/hst251-NumismaticViz)
 - [HST 390 TimelineJS](https://github.com/leadr-msu/timelinejs-hst390-international-relations)
+- [HST 251 Topic Modeling](https://github.com/leadr-msu/topicmodeling-hst251)
 
 -----
 ### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
