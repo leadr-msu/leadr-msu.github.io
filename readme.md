@@ -1,6 +1,7 @@
 # LEADR Tutorials
 - [Active Citations](https://github.com/leadr-msu/active-citations)
-- [Citations - Best Practices](https://github.com/leadr-msu/Citations-Best-Practices/blob/master/README.md)
+- [Audio Recording (Audacity)](https://github.com/leadr-msu/audacity)
+- [Citations - Best Practices](https://github.com/leadr-msu/Citations-Best-Practices)
 - [Czurtech Scanner Guide](https://github.com/leadr-msu/czurtech-scanner-guide)
 - [Digital Public Writing](https://github.com/leadr-msu/digitalpublicwriting)
 - [Google My Maps](https://github.com/leadr-msu/google-my-maps)
@@ -12,7 +13,6 @@
 - [Omeka](https://github.com/leadr-msu/omeka)
 - [Omeka S](https://github.com/leadr-msu/Omeka-S)
 - [PDF Compiling and Linking Tutorial](https://github.com/leadr-msu/pdf-compiling-and-linking-tutorial)
-- [Recording Audio (Audacity)](https://github.com/leadr-msu/audacity)
 - [Reusing and Attributing Media](https://github.com/leadr-msu/reusing-attributing-media)
 - [Using GitHub](https://github.com/leadr-msu/github-use-tutorial/wiki)
 - [Wikipedia Editing](https://github.com/leadr-msu/wikipedia-editing)
