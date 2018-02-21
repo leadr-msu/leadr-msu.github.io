@@ -18,6 +18,7 @@
 - [3D Printing Guide](https://github.com/leadr-msu/3D-Printing-Guide)
 - [MediaSpace](https://github.com/leadr-msu/MediaSpace)
 - [Digital Public Writing](https://github.com/leadr-msu/digitalpublicwriting)
+- [Google My Maps](https://github.com/leadr-msu/google-my-maps)
 
 -----
 # LEADR Course Guides
