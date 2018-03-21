@@ -1,7 +1,7 @@
 # LEADR Tutorials
 - [Active Citations](https://github.com/leadr-msu/active-citations)
 - [Audio Recording (Audacity)](https://github.com/leadr-msu/audacity)
-- [Citations - Best Practices](https://github.com/leadr-msu/Citations-Best-Practices)
+- [Citations - Best Practices](https://github.com/leadr-msu/citations-best-practices)
 - [Czurtech Scanner Guide](https://github.com/leadr-msu/czurtech-scanner-guide)
 - [Digital Public Writing](https://github.com/leadr-msu/digitalpublicwriting)
 - [Google My Maps](https://github.com/leadr-msu/google-my-maps)
