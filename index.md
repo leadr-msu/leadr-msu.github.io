@@ -18,7 +18,7 @@
 - [Wikipedia Editing](https://leadr-msu.github.io/wikipedia-editing)
 - [WordPress Introductory Resources](https://leadr-msu.github.io/wordpress)
 - [Zoom](https://leadr-msu.github.io/zoom)
-- [3D Printing Guide](https://leadr-msu.github.io/3D-Printing-Guide)
+- [3D Printing Guide](https://leadr-msu.github.io/3d-printing-guide)
 
 -----
 # LEADR Course Guides
