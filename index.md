@@ -6,7 +6,7 @@
 - [Digital Public Writing](https://leadr-msu.github.io/digitalpublicwriting)
 - [Google My Maps](https://leadr-msu.github.io/google-my-maps)
 - [iMovie: Green Screen](https://leadr-msu.github.io/imovie_greenscreen)
-- [iMovie: Overview](https://leadr-msu.github.io/iMovieTutorial)
+- [iMovie: Overview](https://leadr-msu.github.io/imovietutorial)
 - [Markdown](https://leadr-msu.github.io/markdown)
 - [MediaSpace](https://leadr-msu.github.io/MediaSpace)
 - [Neatline](https://leadr-msu.github.io/neatline-tutorial)
