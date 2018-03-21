@@ -8,7 +8,7 @@
 - [iMovie: Green Screen](https://leadr-msu.github.io/imovie_greenscreen)
 - [iMovie: Overview](https://leadr-msu.github.io/imovietutorial)
 - [Markdown](https://leadr-msu.github.io/markdown)
-- [MediaSpace](https://leadr-msu.github.io/MediaSpace)
+- [MediaSpace](https://leadr-msu.github.io/mediaspace)
 - [Neatline](https://leadr-msu.github.io/neatline-tutorial)
 - [Omeka](https://leadr-msu.github.io/omeka)
 - [Omeka S](https://leadr-msu.github.io/Omeka-S)
