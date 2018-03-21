@@ -11,7 +11,7 @@
 - [MediaSpace](https://leadr-msu.github.io/mediaspace)
 - [Neatline](https://leadr-msu.github.io/neatline-tutorial)
 - [Omeka](https://leadr-msu.github.io/omeka)
-- [Omeka S](https://leadr-msu.github.io/Omeka-S)
+- [Omeka S](https://leadr-msu.github.io/omeka-s)
 - [PDF Compiling and Linking Tutorial](https://leadr-msu.github.io/pdf-compiling-and-linking-tutorial)
 - [Reusing and Attributing Media](https://leadr-msu.github.io/reusing-attributing-media)
 - [Using GitHub](https://github.com/leadr-msu/github-use-tutorial/wiki)
