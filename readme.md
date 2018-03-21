@@ -6,19 +6,19 @@
 - [Digital Public Writing](https://github.com/leadr-msu/digitalpublicwriting)
 - [Google My Maps](https://github.com/leadr-msu/google-my-maps)
 - [iMovie: Green Screen](https://github.com/leadr-msu/imovie_greenscreen)
-- [iMovie: Overview](https://github.com/leadr-msu/iMovieTutorial)
+- [iMovie: Overview](https://github.com/leadr-msu/imovietutorial)
 - [Markdown](https://github.com/leadr-msu/markdown)
-- [MediaSpace](https://github.com/leadr-msu/MediaSpace)
+- [MediaSpace](https://github.com/leadr-msu/mediaspace)
 - [Neatline](https://github.com/leadr-msu/neatline-tutorial)
 - [Omeka](https://github.com/leadr-msu/omeka)
-- [Omeka S](https://github.com/leadr-msu/Omeka-S)
+- [Omeka S](https://github.com/leadr-msu/omeka-s)
 - [PDF Compiling and Linking Tutorial](https://github.com/leadr-msu/pdf-compiling-and-linking-tutorial)
 - [Reusing and Attributing Media](https://github.com/leadr-msu/reusing-attributing-media)
 - [Using GitHub](https://github.com/leadr-msu/github-use-tutorial/wiki)
 - [Wikipedia Editing](https://github.com/leadr-msu/wikipedia-editing)
 - [WordPress Introductory Resources](https://github.com/leadr-msu/wordpress)
 - [Zoom](https://github.com/leadr-msu/zoom)
-- [3D Printing Guide](https://github.com/leadr-msu/3D-Printing-Guide)
+- [3D Printing Guide](https://github.com/leadr-msu/3d-printing-guide)
 
 -----
 # LEADR Course Guides
