@@ -2,6 +2,7 @@
 - [Active Citations](https://leadr-msu.github.io/active-citations)
 - [Audio Recording (Audacity)](https://leadr-msu.github.io/audacity)
 - [Citations - Best Practices](https://leadr-msu.github.io/citations-best-practices)
+- [Conference Posters](https://leadr-msu.github.io/conferenceposters/)
 - [Czurtech Scanner Guide](https://leadr-msu.github.io/czurtech-scanner-guide)
 - [Digital Public Writing](https://leadr-msu.github.io/digitalpublicwriting)
 - [Google My Maps](https://leadr-msu.github.io/google-my-maps)
