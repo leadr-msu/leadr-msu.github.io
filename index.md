@@ -10,7 +10,7 @@
 - [iMovie: Overview](https://leadr-msu.github.io/imovietutorial)
 - [Markdown](https://leadr-msu.github.io/markdown)
 - [MediaSpace](https://leadr-msu.github.io/mediaspace)
-- [Neatline](https://leadr-msu.github.io/neatline-tutorial)
+- [Neatline](https://leadr-msu.github.io/neatline)
 - [Omeka](https://leadr-msu.github.io/omeka)
 - [Omeka S](https://leadr-msu.github.io/omeka-s)
 - [PDF Compiling and Linking Tutorial](https://leadr-msu.github.io/pdf-compiling-and-linking-tutorial)
