@@ -5,7 +5,7 @@
 - [Conference Posters](https://github.com/leadr-msu/conferenceposters)
 - [Czurtech Scanner Guide](https://github.com/leadr-msu/czurtech-scanner-guide)
 - [Digital Public Writing](https://github.com/leadr-msu/digitalpublicwriting)
-- [Google My Maps](https://github.com/leadr-msu/google-my-maps)
+- [Google My Maps](https://www.google.com/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/)
 - [iMovie: Green Screen](https://github.com/leadr-msu/imovie_greenscreen)
 - [iMovie: Overview](https://github.com/leadr-msu/imovietutorial)
 - [Markdown](https://github.com/leadr-msu/markdown)
