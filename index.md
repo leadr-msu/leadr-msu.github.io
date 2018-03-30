@@ -30,6 +30,3 @@
 - [HST 390 - TimelineJS - History of International Relations](https://leadr-msu.github.io/timelinejs-hst390-international-relations)
 - [TE 991 - Oral Histories](https://leadr-msu.github.io/oral-history-publication-te991)
 - [Visualizing Public Data - Eating Industrial](https://leadr-msu.github.io/visualizing-public-data-eating-industrial)
-
------
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
