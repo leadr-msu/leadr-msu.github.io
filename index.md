@@ -20,6 +20,7 @@
 - [WordPress Introductory Resources](https://leadr-msu.github.io/wordpress)
 - [Zoom](https://leadr-msu.github.io/zoom)
 - [3D Printing Guide](https://leadr-msu.github.io/3d-printing-guide)
+- [Kepler.g](https://leadr-msu.github.io/kepler-gl)
 
 -----
 # LEADR Course Guides
