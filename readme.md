@@ -9,5 +9,4 @@ Yes! All resources are licensed under Creative Commons Share Attribution-ShareAl
 ## Something on this site is incorrect or doesn't work.
 Sorry about that! You can let us know by [filing an issue](https://help.github.com/articles/creating-an-issue/) or sending an email to leadr [at] msu [dot] edu.
 
------
-### Return to [LEADR's Resources list](https://github.com/leadr-msu/resources)
+Find all of our tutorials at [http://leadr-msu.github.io/](http://leadr-msu.github.io/). 
