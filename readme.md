@@ -1,7 +1,6 @@
 # LEADR Online Tutorials and Resources
 https://leadr-msu.github.io
 
------
 This is a collection of resources and tutorials created by [LEADR](https://leadr.msu.edu) staff for students. We teach lots of students how to use technology to research and tell stories, and it helps to make our modules and best practices available to everyone on the web.
 
 ## Can I use these?
