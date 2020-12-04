@@ -10,7 +10,7 @@ Here, we will guide you through the basics of conducting research and displaying
 ## Mapping Software
 There are many types of mapping software which attempt to fill different purposes, but they all have the common trait of working with geospatial data. Here we provide a variety of mapping software, including more heavy duty GIS software. For mapping and digital heritage beginners, we recommend ArcGIS StoryMaps or Google My Maps.
 
-#### Web Mapping Software
+#### *Web Mapping Software*
 - [ArcGIS StoryMaps](https://storymaps.arcgis.com/?) (previously known as Esri StoryMaps): focuses on telling blog-like stories with a variety of spatial data visualization tools.
 - [Neatline](https://leadr-msu.github.io/neatline/): a plugin for creating maps in the [Omeka](https://leadr-msu.github.io/omeka/) content management system.
 - [Google My Maps](https://www.google.com/maps/about/mymaps/): a tool for creating and sharing custom maps using Google mapping software.
@@ -18,7 +18,7 @@ There are many types of mapping software which attempt to fill different purpose
 - [Carto](https://leadr-msu.github.io/hst251-geospatialdata/): service that provides GIS, web mapping and spatial data science tool, with many tools not requiring experience with data analysis/visualization or GIS.
 -  [Mapbox](https://www.mapbox.com/): provides an open source JavaScript mapping library  for online mapping applications (requires some familiarity with coding).
 
-#### Geographic Information Systems (GIS)
+#### *Geographic Information Systems (GIS)*
 - ArcGIS: widely used GIS platform service used for geospatial analysis. There is both a [desktop](https://desktop.arcgis.com/en/) and an [online](https://www.arcgis.com/index.html) version.
 - [QGIS](https://www.qgis.org/en/site/): a widely used, open-source alternative to ArcGIS.
 - [Geocommons](http://geocommons.com/): a very useful archive of geospatial data, which is not actually GIS software, but is super useful for finding data.
@@ -26,7 +26,7 @@ There are many types of mapping software which attempt to fill different purpose
 ## Geospatial Data
 Geospatial data refers to data that provides geographic information on the location of particular places. It also usually provides metadata about these location, such as a name or description. Geospatial data can come in a variety of formats, including latitude/longitude data in an excel file, geojson files, and .kml files. Before you begin creating a web map, you will have to think about what your data means.
 
-#### Questions to Ask your Data
+#### *Questions to Ask your Data*
 Here's a list of questions that might be useful to ask about your data when making a map.
 - **What type of dataset are you working with?** Answering this question is the first step to developing a research question or story using mapping.
   - **What do your data represent?** Are you working with the location of buildings, places where events took place, geographic areas with particular attributes, or some other kind of data?

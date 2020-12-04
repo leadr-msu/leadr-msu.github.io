@@ -20,7 +20,7 @@ The first thing you will want to do when you get into Google My Maps is select t
 Map layers give you the ability to organize and categorize your spatial data into different layers. Here are some tips for working with layers in Google My Maps
 - You’ll see your layers in the box on the left
 
-<img src="img/google-my-maps/layers.jpg" width="100%">
+<img src="img/google-my-maps/layers.jpg" width="90%">
 
 - You can Add, Delete or Hide Layers.
   - **Add a layer**: Click Add layer. Then click the title and add a name.
@@ -38,12 +38,12 @@ Map layers give you the ability to organize and categorize your spatial data int
 #### *Importing Data*
 You may import geospatial data to your layers from existing datasets. Google My Maps is able to accept data sets from multiple file types including: Google Sheet, .csv, .kml, and Excel files. **Make sure that your data file has latitude and longitude coordinates in addition to the relevant data that you want to import beforehand**. Some file types (like .kml) will automatically have coordinate data included, but you will have to put the coordinates in yourself for file types utilizing spreadsheets. It is also a good idea to “[clean](https://en.wikipedia.org/wiki/Data_cleansing)” your data thoroughly before uploading it.
 
-<img src="img/google-my-maps/excelFile.jpg" width="100%">
+<img src="img/google-my-maps/excelFile.jpg" width="90%">
 
 To import your data to a Google My Maps layer, follow these steps:
 1. Click the **Import** button in the layer you want to add data to. This will bring up a pop-up for uploading your data. <img src="img/google-my-maps/importButton.jpg" width="40%">
 2. Either upload your file from your computer, or select it from your Google Drive
-3. Click **Select** at the bottom-left <img src="img/google-my-maps/selectData.jpg" width="100%">
+3. Click **Select** at the bottom-left <img src="img/google-my-maps/selectData.jpg" width="90%">
 4. You will then have to confirm which columns give location data by checking the appropriate data (latitude and longitude)
 5. Press **Continue** <img src="img/google-my-maps/latLong.jpg" width="50%">
 6. Then select a column to be used as the title for each of your placemarks
@@ -54,7 +54,7 @@ To import your data to a Google My Maps layer, follow these steps:
 #### *Creating Points*
 In some cases, you may want to add individual points to your map. To do so, follow these steps:
 1. Select the layer that you would like to add the point to by clicking on the layer name.
-2. Determine where to add your point. You may do this in two different ways:
+2. Add your points to the map. You may do this in two different ways:
     1. You may use the **search bar** to Google the location on your map
     2. You may manually add a point by clicking on the marker button under the search bar, and clicking where you want the point to be on the map (you can fine-tune where the point is by editing the latitude and longitude data).
 3. Once your point is on the map, you add the relevant data and images.
@@ -99,6 +99,7 @@ To share a link, click on the share icon located at the top of your legend. This
 Google My Maps Documentation:
 - [Google Documentation](https://support.google.com/mymaps/)
 - [Google Earth Documentation](https://www.google.com/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/)
+
 Map Examples:
 - [HST481 LEADR Classroom run through](https://www.google.com/maps/d/u/0/edit?mid=1tJ415173iGxLr_oYGK8vXw4kaztx0f9B&usp=sharing ) (12/03/2020)
 
