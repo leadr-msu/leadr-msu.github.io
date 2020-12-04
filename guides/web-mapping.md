@@ -1,4 +1,4 @@
-# Web Mapping Guide
+# So You Want to Start Web Mapping?
 
 Created by [Zach Francis](https://redfeather.dev/)
 
