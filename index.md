@@ -30,15 +30,15 @@ To see an alphabetical list of all our guides [click here](/list.md). Otherwise,
 
 <h2 id="mapping">Mapping</h2>
 - [Google My Maps](https://www.google.com/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/ "This link is to an external page") (this link is to an external page)
-- [Neatline](https://leadr-msu.github.io/neatline)
 - [Kepler.gl](https://leadr-msu.github.io/kepler-gl)
+- [Neatline](https://leadr-msu.github.io/neatline)
+- [Web Mapping](/guides/web-mapping.md)
 
 <h2 id="modeling">Modeling (3D)</h2>
 - [3D Printing Guide](https://leadr-msu.github.io/3d-printing-guide)
 - [Photogrammetry - Data Collection](https://leadr-msu.github.io/photogrammetry-data-collection)
 - [Photogrammetry - Data Processing](https://leadr-msu.github.io/photogrammetry-data-processing)
   - [Photogrammetry - Mask Creation](https://leadr-msu.github.io/photogrammetry-mask-creation)
-
 
 <h2 id=programming>Programming</h2>
 - [Active Citations](https://leadr-msu.github.io/active-citations)
