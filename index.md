@@ -2,7 +2,7 @@
 To see an alphabetical list of all our guides [click here](/list.md). Otherwise, you may browse our guides by the following categories:
 
 <a href="#audiovisual">Audiovisual Editing</a> | <a href="#content">Content Management</a> | <a href="#course">Course Guides</a> | <a href="#lab">Lab Equipment</a>
-<a href="#mapping">Mapping</a> | <a href="#modeling">Modeling</a> | <a href="#programming">Programming</a> | <a href="#writing">Writing and Communications</a>
+<a href="#mapping">Mapping</a> | <a href="#modeling">Modeling</a> | <a href="#programming">Data and Coding</a> | <a href="#writing">Writing and Citation</a>
 
 <h2 id="audiovisual">Audiovisual Media</h2>
 - [Audio Recording (Audacity)](https://leadr-msu.github.io/audacity)
@@ -40,7 +40,7 @@ To see an alphabetical list of all our guides [click here](/list.md). Otherwise,
 - [Photogrammetry - Data Processing](https://leadr-msu.github.io/photogrammetry-data-processing)
   - [Photogrammetry - Mask Creation](https://leadr-msu.github.io/photogrammetry-mask-creation)
 
-<h2 id=programming>Programming</h2>
+<h2 id=programming>Data and Coding</h2>
 - [Active Citations](https://leadr-msu.github.io/active-citations)
 - [Markdown](https://leadr-msu.github.io/markdown)
 - [Using GitHub](https://github.com/leadr-msu/github-use-tutorial/wiki)
