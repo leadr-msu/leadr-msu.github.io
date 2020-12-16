@@ -43,6 +43,7 @@ To see an alphabetical list of all our guides [click here](/list.md). Otherwise,
 <h2 id=programming>Data and Coding</h2>
 - [Active Citations](https://leadr-msu.github.io/active-citations)
 - [Markdown](https://leadr-msu.github.io/markdown)
+- [Twitter Archiving Google Sheet(TAGS)](/guides/tags.md)
 - [Using GitHub](https://github.com/leadr-msu/github-use-tutorial/wiki)
 
 <h2 id="writing">Writing and Citation</h2>
