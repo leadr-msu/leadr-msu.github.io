@@ -16,14 +16,14 @@ You will need a Google and Twitter Account. Your MSU account will likely give yo
 
 #### *Creating your TAGS Google Sheet*
 Once you have the necessary accounts, you can create your own TAGS Google Sheet. Follow these steps:
-1. Navigate to the TAGS website and press the Get Tags button on the homepage.<img src="img/google-my-maps/layers.jpg" width="90%">
-2. You'll have the option to select between TAGS v6.0 and TAGS v6.1. Unless you are familiar with version 6.0 already, then we recommend clicking on version TAGS 6.1. <img src="img/google-my-maps/layers.jpg" width="90%">
-3. Clicking TAGS v6.1  will push your google account to ask you if you want to make a copy of the TAGS Google sheet. Click the make a copy. This will create a copy of TAGS in your Google Account as a Google Sheet.<img src="img/google-my-maps/layers.jpg" width="90%">
+1. Navigate to the TAGS website and press the Get Tags button on the homepage.<img src="img/tags/TAGS_1.png" width="90%">
+2. You'll have the option to select between TAGS v6.0 and TAGS v6.1. Unless you are familiar with version 6.0 already, then we recommend clicking on version TAGS 6.1. <img src="img/tags/TAGS_2.png" width="90%">
+3. Clicking TAGS v6.1  will push your google account to ask you if you want to make a copy of the TAGS Google sheet. Click the make a copy. This will create a copy of TAGS in your Google Account as a Google Sheet.<img src="img/tags/TAGS_3.png" width="90%">
 
 #### *Setting Up Twitter and Google Access*
 In order to start collecting tweets, you will have to give your Google Sheet access to your Twitter. Here are the steps:
-1. Select the the TAGS tab in your Menu bar and click Setup Twitter Access <img src="img/google-my-maps/layers.jpg" width="90%">
-2. A pop-up will appear asking you how you would like to set up Twitter authorization. Press **Easy Setup** and follow the prompts. <img src="img/google-my-maps/layers.jpg" width="90%">
+1. Select the the TAGS tab in your Menu bar and click Setup Twitter Access <img src="img/tags/TAGS_5.png" width="90%">
+2. A pop-up will appear asking you how you would like to set up Twitter authorization. Press **Easy Setup** and follow the prompts. <img src="img/tags/TAGS_7.png" width="90%">
   - At some point you will likely be asked to sign into Twitter - do so.
   - Google will ask you if you want to allow TAGS and Twitter to have access to your account. Grant them that access.
     - If you have authorization problems and get a page saying “This app isn’t verified”, you can continue to use TAGS by clicking on Advanced Settings and authorizing TAGS anyways.
@@ -36,7 +36,7 @@ Once you have given all of the proper permissions to TAGS, all you need to do is
 - In the 9th row of TAGS, you may enter search terms.
   - You may enter any search term into the search box, and any tweets containing that search term will appear.
   - You may scrape all tweets for a particular hashtag by typing in “#yoursearchterm”
-  - You may scrape tweets from particular people or tweets sent to particular people using their username in the following formats: “from:username”; or “to:username” <img src="img/google-my-maps/layers.jpg" width="90%">
+  - You may scrape tweets from particular people or tweets sent to particular people using their username in the following formats: “from:username”; or “to:username” <img src="img/tags/TAGS_9.png" width="90%">
 - Alternatively, you may scrape favorited tweets or statuses instead of tweets by using the advanced settings (see next section).
 
 #### *Advanced Settings for Your Search*
@@ -52,15 +52,15 @@ Once you have your search terms and settings in place, follow these steps to scr
   - If you want a one time dataset, select Run Now!
   - If you want to continually take data, say in preparation for some event, select Update Archive every Hour.
     - Twitter only allows you to scrape Tweets from the past 7 days. So, if you want to analyze tweets for an extended period of time, you will have to do some planning.
-    - For instance, if you want to analyze tweets before and after a political event, you could set up TAGS to scrape tweets beforehand. But, be sure to keep an eye on whether or not your TAGS sheet has reached your tweet limit before the event is over. <img src="img/google-my-maps/layers.jpg" width="90%">
-- After running TAGS, tweets that meet your criteria will be found in the Archive tab at the bottom of your Google Sheet. <img src="img/google-my-maps/layers.jpg" width="90%">
+    - For instance, if you want to analyze tweets before and after a political event, you could set up TAGS to scrape tweets beforehand. But, be sure to keep an eye on whether or not your TAGS sheet has reached your tweet limit before the event is over. <img src="img/tags/TAGS_10.png" width="90%">
+- After running TAGS, tweets that meet your criteria will be found in the Archive tab at the bottom of your Google Sheet. <img src="img/tags/TAGS_11.png" width="90%">
 
 ## Downloading Your Data
 Once you’ve scrapped some tweets, TAGS will provide you with a Google Sheet containing the actual Tweets, their creator, creation date and other metadata in the Archives section. Follow these steps to download your data:
 1. Go to the file tab
 2. Select download
 3. Choose the format that you want to download your data in and click on it.
-  - Excel and .csv formats will work well in Voyant. <img src="img/google-my-maps/layers.jpg" width="90%">
+  - Excel and .csv formats will work well in Voyant. <img src="img/tags/TAGS_12.png" width="90%">
 
 ## FAQ
 *How does TAGS work?*
