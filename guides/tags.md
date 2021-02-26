@@ -16,7 +16,8 @@ You will need a Google and Twitter Account. Your MSU account will likely give yo
 
 #### *Creating your TAGS Google Sheet*
 Once you have the necessary accounts, you can create your own TAGS Google Sheet. Follow these steps:
-1. Navigate to the TAGS website and press the Get Tags button on the homepage.<img src="img/tags/TAGS_1.png" width="90%">
+1. Navigate to the TAGS website and press the Get Tags button on the homepage.
+<img class="center" src="img/tags/TAGS_1.png" width="90%">
 2. You'll have the option to select between TAGS v6.0 and TAGS v6.1. Unless you are familiar with version 6.0 already, then we recommend clicking on version TAGS 6.1. <img src="img/tags/TAGS_2.png" width="90%">
 3. Clicking TAGS v6.1  will push your google account to ask you if you want to make a copy of the TAGS Google sheet. Click the make a copy. This will create a copy of TAGS in your Google Account as a Google Sheet.<img src="img/tags/TAGS_3.png" width="90%">
 
