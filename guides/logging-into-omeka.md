@@ -12,6 +12,7 @@ Your instructor will provide a class register to LEADR from which we will send y
 1. Check your MSU email for an automatically generated email from Omeka.
   * **Be sure to check your spam filter** where Omeka emails often end up.
   * Some phone apps filter out Omeka emails; check on a laptop or desktop computer instead of a mobile device if possible.
+  <img style="border:1px solid black" class="center" src="img/logging-into-omeka/omekaInvite.png" width="80%">
 2. Click on the link provided in the email
   * *Note*: this link may expire after a few days. **Accept your invitation as soon as possible**, and contact your GA if you need a new invitation.
 3. This will bring you to the *User Activation* page where you can enter in a secure password for your account. After entering in your password click **Activate** to create your account.
