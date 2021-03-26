@@ -2,7 +2,7 @@
 
 Created by Daniel Fandino, Ashley Highland
 
-*Last Updated: 2/26/2020*
+*Last Updated: 3/26/2021*
 
 ## Overview
 In this handout, you will learn about the Dublin Core metadata scheme. Metadata is data about a data--in this case it is information about the digital items used in Omeka. This will help readers of your exhibit understand the origins of the Items of historical evidence that you include in your exhibit and allow you to properly document your work. This will enable others to follow your research as well as acknowledging the ownership and origins of the items.
@@ -119,7 +119,7 @@ It is important to note that you are not always expected to be able to complete 
 
 
 ## Example
-<img src="img/omekametadata/omekametadataexample1.png" width="90%">
+<img src="img/omekametadata/omekametadataexample1.png" width="45%">
 
 Photograph of the cover of Vision and the Scarlet Witch 1 used for educational purposes. The item used in this example is the physical comic book depicted in the image.
 
