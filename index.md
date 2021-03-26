@@ -13,6 +13,7 @@ To see an alphabetical list of all our guides [click here](/list.md). Otherwise,
 
 <h2 id="content">Content Management</h2>
 - [Omeka](https://leadr-msu.github.io/omeka)
+- [Omeka Metadata](https://leadr-msu.github.io/guides/omekametadata.html)
 - [Omeka S](https://leadr-msu.github.io/omeka-s)
 - [WordPress Introductory Resources](https://leadr-msu.github.io/wordpress)
 
