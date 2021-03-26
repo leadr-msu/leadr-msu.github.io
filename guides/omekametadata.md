@@ -124,16 +124,29 @@ It is important to note that you are not always expected to be able to complete 
 Photograph of the cover of Vision and the Scarlet Witch 1 used for educational purposes. The item used in this example is the physical comic book depicted in the image.
 
 **Title:** Vision and the Scarlet Witch 1
+
 **Subject:** American comics, Superheroes
+
 **Description:** Comic book adventures of the superheroes Vision and Scarlet Witch.
+
 **Creator:** Steve Englehart (writer) and Richard Howell (artist).
+
 **Publisher:** Marvel Comics
+
 **Source:** https://www.marvel.com/comics/issue/18455/vision_and_the_scarlet_witch_1985_1
+
 **Date:** October 1, 1985
+
 **Rights:** Copyright Marvel Worldwide Inc.
+
 **Relation:** Part of a twelve issue limited series. Vision and the Scarlet Witch issues 2-12, 1985.
+
 **Format:** Print, 32 pages. 6-5/8 inches wide by 10-1/4 inches.
+
 **Language:** English
+
 **Type:** Image and text.
+
 **Identifier:** none available.
+
 **Coverage:** United States
