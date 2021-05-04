@@ -14,7 +14,9 @@ This handout will guide you through the basics of creating Items and Exhibits in
 In Omeka, an Item largely consists of any digital resource(s) and its associated metadata. A digital resource typically refers to any audio, image, or video file(s) which is historically or culturally significant to your project. A digital resource on its own, however, is not incredibly useful without some context. In the case of a photograph, we would want to know things like what the title is, the background description, and who the photographer is. This type of data is referred to as metadata. We can go deeper into metadata later, but just for now think about metadata as the necessary context behind your digital content. The following sections will show you the basics of creating, editing and searching for Items in Omeka.
 
 
-#### *Creating Items*
+### *Creating Items*
+*For the purpose of this tutorial, we will be using fossils as an example.*
+
 1. Select the **Items** tab from the admin dashboard to access the Browsing Items page. From the Browse Items page, you may browse, add and search for Items.
 <img src="img/Items-and-exhibits/itemsandexhibits1.png" width="40%">
 2. Click on the **Add an Item** button from the Browse Items page
@@ -23,35 +25,37 @@ In Omeka, an Item largely consists of any digital resource(s) and its associated
   - *Note: this tab is called “Dublin Core” because that is the metadata standard that Omeka uses. A metadata standard refers to the use of the same “entities” for the description of data (digital resources in our case). The “Title” field is an example of an “entity”. Use of the same, standardized entities across multiple collections of data makes it easier to search and compare data (digital resources) across multiple collections. Sometimes the websites that you obtain your content from will have options to specifically format the metadata into the metadata standard we are using.*
 <img src="img/Items-and-exhibits/itemsandexhibits3.png" width="40%">
 4. Once you have added the metadata, click on the Item Type Metadata tab. This tab is usually reserved for describing the type of digital content that you are uploading.
-  - Select **fossil**
+<img src="img/Items-and-exhibits/itemsandexhibits4.png" width="40%">
+  - Select **fossil** from the dropdown menu.
+  - Fill out as much of the metadata as you can.
+5. After you finish entering the Fossil Item Type Metadata, select the Files tab to add a digital resource(s) for your Item.
+  - Click on the **Browse…** button to select and download the digital resource(s) into your Omeka Item.
+6. The final data-entry step is the application of tags to your Omeka Item. For the purposes of this class, you may add in any relevant subject tags you would like, though they are not necessary. Simply enter in the text for your tags (separated by commas) and press the **Add Tags** button.
+7. Now you can add your Item. Before adding your Item, **make sure your item is public** (viewable on the actual website) by checking the **Public** check box under the Add Item button. Finally, Press the **Add Item** button.
+<img src="img/Items-and-exhibits/itemsandexhibits5.png" width="40%">
+8. h.	This will bring you back to the *Browse Items* page where you will receive a message saying that your Item was successfully added.
 
+#### *Viewing, Editing, and Deleting your Item*
+1. You may view the details of, edit or delete an Item at any time by browsing or searching (see next section) for an Item that you have created.
+2. Once you have found the location of your Item click on the button for the corresponding action you want to take.
+  - The “**Details**”, “**Edit**” and “**Delete**” buttons will be located under your Item’s title.
+<img src="img/Items-and-exhibits/itemsandexhibits6.png" width="40%">
 
+#### *Searching for Items*
+1. Navigate to the Browse Items page and click the search button.
+<img src="img/Items-and-exhibits/itemsandexhibits7.png" width="40%">
+2. You may search for an Item using any number of categories, but it will probably be most useful to search by user, using the username you provided.
+3. Once you have entered your search criteria, press the *Search for Items* button.
+4. Results should appear with any Items matching your search criteria.
 
-#### *Creating your TAGS Google Sheet*
-Once you have the necessary accounts, you can create your own TAGS Google Sheet. Follow these steps:
-1. Navigate to the TAGS website and press the Get Tags button on the homepage.
-<br><img style="border:1px solid black" class="center" src="img/tags/TAGS_1.png" width="80%"><br>
-2. You'll have the option to select between TAGS v6.0 and TAGS v6.1. Unless you are familiar with version 6.0 already, then we recommend clicking on version TAGS 6.1. <img src="img/tags/TAGS_2.png" width="90%">
-3. Clicking TAGS v6.1  will push your google account to ask you if you want to make a copy of the TAGS Google sheet. Click the make a copy. This will create a copy of TAGS in your Google Account as a Google Sheet.<img src="img/tags/TAGS_3.png" width="90%">
+## Exhibits
+**Watch the video tutorial introduction to Exhibits. It can be found here:** https://mediaspace.msu.edu/media/LEADR+Omeka+Exhibits+Video+Tutorial/1_9cdxrdim
 
-#### *Setting Up Twitter and Google Access*
-In order to start collecting tweets, you will have to give your Google Sheet access to your Twitter. Here are the steps:
-1. Select the the TAGS tab in your Menu bar and click Setup Twitter Access <img src="img/tags/TAGS_5.png" width="90%">
-2. A pop-up will appear asking you how you would like to set up Twitter authorization. Press **Easy Setup** and follow the prompts. <img src="img/tags/TAGS_7.png" width="90%">
-  - At some point you will likely be asked to sign into Twitter - do so.
-  - Google will ask you if you want to allow TAGS and Twitter to have access to your account. Grant them that access.
-    - If you have authorization problems and get a page saying “This app isn’t verified”, you can continue to use TAGS by clicking on Advanced Settings and authorizing TAGS anyways.
-  - Once you have Twitter and Google access setup, you may now start using TAGS
+In Omeka, Exhibits combine Items and your textual analysis to create a public, online exhibit. Exhibits are composed of pages, typically with a page that serves as the introduction to a project and additional pages which highlight the Items and component text. An Omeka exhibit may be one or more pages in total, depending on the project. The following sections will show you the basics of creating and editing exhibits in Omeka.
 
-## Using TAGS
-Once you have given all of the proper permissions to TAGS, all you need to do is set up your search parameters and run the script. You may then download your data to begin your analysis.
+#### *Creating Exhibits*
+1. On your dashboard, select **Exhibits** on the left hand menu. 
 
-#### *Entering Search Terms*
-- In the 9th row of TAGS, you may enter search terms.
-  - You may enter any search term into the search box, and any tweets containing that search term will appear.
-  - You may scrape all tweets for a particular hashtag by typing in “#yoursearchterm”
-  - You may scrape tweets from particular people or tweets sent to particular people using their username in the following formats: “from:username”; or “to:username” <img src="img/tags/TAGS_9.png" width="90%">
-- Alternatively, you may scrape favorited tweets or statuses instead of tweets by using the advanced settings (see next section).
 
 #### *Advanced Settings for Your Search*
 There are several advanced setting options in row 13 to 17 of your TAGS sheet. These functions are summarized below:
