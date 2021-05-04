@@ -8,11 +8,24 @@ Created by [Zach Francis](https://redfeather.dev/)
 This handout will guide you through the basics of creating Items and Exhibits in Omeka. Omeka Items are composed of digital resources and their associated metadata. Exhibits embed these Items within their Pages to create the content projects. The Exhibits have already been created for this project, but your class will be providing all of the Items and Pages for those Exhibits.
 
 
-## Getting TAGS Running
-In order to get TAGS you will need to have a Google Account and a Twitter Account. Once you have those accounts, you will need to create a TAGS Google Sheet and set up access to Twitter.
+## Items
+**Watch this video tutorial for an Introduction to Items:** (https://mediaspace.msu.edu/media/LEADR_Tutorial_Omeka-Items/1_rip7ls0b).
 
-#### *Necessary Accounts*
-You will need a Google and Twitter Account. Your MSU account will likely give you trouble if you attempt to use it with TAGS. A separate, non-MSU Google account that you have access to is your best option. If you do not have a Twitter account, go to Twitter and follow the instructions needed to create an account.
+In Omeka, an Item largely consists of any digital resource(s) and its associated metadata. A digital resource typically refers to any audio, image, or video file(s) which is historically or culturally significant to your project. A digital resource on its own, however, is not incredibly useful without some context. In the case of a photograph, we would want to know things like what the title is, the background description, and who the photographer is. This type of data is referred to as metadata. We can go deeper into metadata later, but just for now think about metadata as the necessary context behind your digital content. The following sections will show you the basics of creating, editing and searching for Items in Omeka.
+
+
+#### *Creating Items*
+1. Select the **Items** tab from the admin dashboard to access the Browsing Items page. From the Browse Items page, you may browse, add and search for Items.
+<img src="img/Items-and-exhibits/itemsandexhibits1.png" width="40%">
+2. Click on the **Add an Item** button from the Browse Items page
+<img src="img/Items-and-exhibits/itemsandexhibits2.png" width="40%">
+3. This will initially bring you to the **Dublin Core** tab where you will fill out fields describing your Item. This tab usually provides the bulk of what makes up an Item. You will want to fill out as much of the Dublin Core tab as possible, especially: **Title**, **Subject**, **Description**, **Source**, and **Publisher**. There is no problem, however, with leaving a field empty when metadata is simply not available.
+  - *Note: this tab is called “Dublin Core” because that is the metadata standard that Omeka uses. A metadata standard refers to the use of the same “entities” for the description of data (digital resources in our case). The “Title” field is an example of an “entity”. Use of the same, standardized entities across multiple collections of data makes it easier to search and compare data (digital resources) across multiple collections. Sometimes the websites that you obtain your content from will have options to specifically format the metadata into the metadata standard we are using.*
+<img src="img/Items-and-exhibits/itemsandexhibits3.png" width="40%">
+4. Once you have added the metadata, click on the Item Type Metadata tab. This tab is usually reserved for describing the type of digital content that you are uploading.
+  - Select **fossil**
+
+
 
 #### *Creating your TAGS Google Sheet*
 Once you have the necessary accounts, you can create your own TAGS Google Sheet. Follow these steps:
