@@ -1,26 +1,18 @@
-# Logging into Omeka for the First Time
+# Collecting Data with TAGS
 
-Created by Ashley Highland, [Zach Francis](https://redfeather.dev/), Danial Fandino
+Created by [Zach Francis](https://redfeather.dev/)
 
 *Last Updated: 2/26/2020*
 
 ## Overview
-This handout will provide you with the initial information you need in order to log into an Omeka website as a contributor of content. For more information on Omeka, check out the [our LEADR Resource Guide](https://leadr-msu.github.io/omeka/) on the subject.
+TAGS stands for [Twitter Archiving Google Sheet](https://tags.hawksey.info/get-tags/). TAGS is a Twitter scraping tool which lets you automatically collect tweets into a google sheet. You can collect Tweets from specific people, a particular hashtag (#), or search terms.
 
-## Logging in for the First Time
 
-1. Check your email for an automatically generated email from Omeka.
-  * **Be sure to check your spam filter** where Omeka emails often end up.
-  * Some phone apps filter out Omeka emails; check on a laptop or desktop computer instead of a mobile device if possible.
-  <img style="border:1px solid black" class="center" src="img/logging-into-omeka/omekaInvite.png" width="80%">
-2. Click on the link provided in the email
-  * *Note*: this link may expire after a few days. **Accept your invitation as soon as possible**, and contact your GA if you need a new invitation.
-3. This will bring you to the *User Activation* page where you can enter in a secure password for your account. After entering in your password click **Activate** to create your account.
+## Getting TAGS Running
+In order to get TAGS you will need to have a Google Account and a Twitter Account. Once you have those accounts, you will need to create a TAGS Google Sheet and set up access to Twitter.
 
 #### *Necessary Accounts*
 You will need a Google and Twitter Account. Your MSU account will likely give you trouble if you attempt to use it with TAGS. A separate, non-MSU Google account that you have access to is your best option. If you do not have a Twitter account, go to Twitter and follow the instructions needed to create an account.
-1. Check your your email for an automatically generated email from Omeka.
-2.
 
 #### *Creating your TAGS Google Sheet*
 Once you have the necessary accounts, you can create your own TAGS Google Sheet. Follow these steps:
