@@ -22,7 +22,7 @@ Google Forms allows you to ask a variety of survey questions, embed images and v
 - To send the survey, click the **Send** button at the top-right of the page. You may either send the survey directly through email, or share a link to those you want to take the survey.
 - For a more nuanced look at the tools and options that Google Forms provides, check out their [documentation.](https://support.google.com/docs/answer/6281888) The best way to learn the mechanics of Google Forms, however, may be creating your own surveys.
 
-<img style="display:block;margin:auto:max-width:100%" src="img/google-forms-data/googleformsdata1.png" title="Google Form Toolbar" Class="fluid")
+<img style="display:block;margin:auto:max-width:100%" src="img/google-forms-data/googleformsdata1.png" title="Google Form Toolbar" Class="fluid")>
 
 ## Best Practices for Creating Surveys
 When creating surveys in any setting, every researcher should think about their objectives and the best way to get data for those objectives. In that regard, there are some best practices to think about when creating surveys.
