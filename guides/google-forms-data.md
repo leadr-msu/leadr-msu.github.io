@@ -21,6 +21,7 @@ Google Forms allows you to ask a variety of survey questions, embed images and v
 - You may also **add titles** to sets of questions and **create new pages** of questions by adding sections. These options will affect the flow of your survey.
 - To send the survey, click the **Send** button at the top-right of the page. You may either send the survey directly through email, or share a link to those you want to take the survey.
 - For a more nuanced look at the tools and options that Google Forms provides, check out their [documentation.](https://support.google.com/docs/answer/6281888) The best way to learn the mechanics of Google Forms, however, may be creating your own surveys.
+
 <img src="img/google-forms-data/googleformsdata1.png" width="40%">
 
 ## Best Practices for Creating Surveys
