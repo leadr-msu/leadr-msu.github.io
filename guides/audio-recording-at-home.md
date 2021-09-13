@@ -1,6 +1,7 @@
 # Audio Recording At Home
 
-Created by J. Andrella, Daniel Fandino, Ashley Highland.
+Created by [Dr. Alice Lynn McMichael](https://amcmichael.commons.gc.cuny.edu/)
+Updated by [J. Andrella](http://jenniferandrella.com/), [Daniel Fandino](http://wiredhistory.com/), and Ashley Highland
 
 *Last Updated: 6/7/2021*
 
@@ -47,6 +48,6 @@ Microphones that are plugged into your computer (such as in a USB port) can ofte
 **Always make a copy of your original file before editing your audio recording.**
 LEADR supports Audacity software for editing audio on a computer.
 
- 
+
 -----
 ### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
