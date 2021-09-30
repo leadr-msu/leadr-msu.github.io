@@ -51,7 +51,7 @@ There are 4 Block types you can add to your Page
 
 ###### *Adding and Organizing Blocks*
 * You may add any content block by __selecting the type of Content Block you want__ to add from the *Select Layout* Section and pressing the **Add new Content** button.
-<br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_8.png" width="80%"><br>
+<br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_8.png" width="35%"><br>
 * The order of the Content Blocks will be the same order on the public website. You may reorganize and move content blocks around by clicking the header of the content block you want to move, and dragging it to the place you want it.
 
 ###### *Adding Content to your Block*
@@ -68,7 +68,7 @@ There are 4 types of Blocks you can embed into a page, but there are only two ty
   * Save your work by pressing the **Save Changes** button.
 
 ### *Saving*
-When editing your pages, it is vital that you save your work. Any data or changes entered into Omeka will not save or take place unless you press one of the **Save Changes** buttons at the top-right corner of the page. <br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_12.png" width="80%"><br>
+When editing your pages, it is vital that you save your work. Any data or changes entered into Omeka will not save or take place unless you press one of the **Save Changes** buttons at the top-right corner of the page. <br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_12.png" width="40%"><br>
 
 ## Page Design
 
