@@ -5,7 +5,7 @@ Created by [Zach Francis](https://redfeather.dev/) and [Dan Fandino](http://wire
 *Last Updated: 9/30/2021*
 
 ## Overview
-Other LEADR resources have gone over [Exhibits](https://leadr-msu.github.io/omeka/) and [Items](https://leadr-msu.github.io/omeka/) in Omeka. A small part of those resources was dedicated to creating pages in Omeka. This guide will go into more detail on how to create and design those Pages. And because it is so important, we emphasize here that you must save your work anytime you make changes to your Exhibits or Pages. Omeka will not automatically save your work for you, and any unsaved work will be lost.
+Other LEADR resources have gone over the basics of Omeka, such as how to create [Items and Exhibits](https://leadr-msu.github.io/guides/omeka-items-and-exhibits.html). A small part of those resources was dedicated to creating pages in Omeka. This guide will go into more detail on how to create and design those Pages. And because it is so important, we emphasize here that you must save your work anytime you make changes to your Exhibits or Pages. Omeka will not automatically save your work for you, and any unsaved work will be lost.
 
 ## Navigating to Pages
 In order to begin creating and editing Pages, you will have to navigate to your Exhibit. Follow these steps:
@@ -51,7 +51,7 @@ There are 4 Block types you can add to your Page
 
 ##### *Adding and Organizing Blocks*
 * You may add any content block by __selecting the type of Content Block you want__ to add from the *Select Layout* Section and pressing the **Add new Content** button.
-<br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_8.png" width="30%"><br>
+<br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_8.png" width="20%"><br>
 * The order of the Content Blocks will be the same order on the public website. You may reorganize and move content blocks around by clicking the header of the content block you want to move, and dragging it to the place you want it.
 
 ##### *Adding Content to your Block*
