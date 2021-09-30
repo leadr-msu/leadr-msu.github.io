@@ -13,7 +13,7 @@ This handout will guide you through the basics of creating Items and Exhibits in
 In Omeka, an Item largely consists of any digital resource(s) and its associated metadata. A digital resource typically refers to any audio, image, or video file(s) which is historically or culturally significant to your project. A digital resource on its own, however, is not incredibly useful without some context. In the case of a photograph, we would want to know things like what the title is, the background description, and who the photographer is. This type of data is referred to as metadata. You can dive deeper into our [Omeka metadata resource page](https://leadr-msu.github.io/guides/omeka-metadata-guide.html) later, but for now just think about metadata as the necessary context behind your digital content. The following sections will show you the basics of creating, editing and searching for Items in Omeka.
 
 ### *Creating Items*
-1. Select the **Items** tab from the admin dashboard to access the *Browsing Items* page. From the Browse Items page, you may browse, add and search for Items. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_1.png" width="80%"><br>
+1. Select the **Items** tab from the admin dashboard to access the *Browsing Items* page. From the Browse Items page, you may browse, add and search for Items. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_12.png" width="80%"><br>
 2. Click on the **Add an Item** button from the *Browse Items* page <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_2.png" width="80%"><br>
 3. This will initially bring you to the **Dublin Core** tab where you will fill out fields describing your Item. This tab usually provides the bulk of what makes up an Item. You will want to fill out as much of the Dublin Core tab as possible, especially: **Title**, **Subject**, **Description**, **Source**, and **Publisher**. There is no problem, however, with leaving a field empty when metadata is simply not available.
   - **Note**: *this tab is called “Dublin Core” because that is the [metadata standard](https://dublincore.org/) that Omeka uses. A metadata standard refers to the use of the same “entities” for the description of data (digital resources in our case). The “Title” field is an example of an “entity”. Use of the same, standardized entities across multiple collections of data makes it easier to search and compare data (digital resources) across multiple collections. Sometimes the websites that you obtain your content from will have options to specifically format the metadata into the metadata standard we are using.*
@@ -77,7 +77,8 @@ In Omeka, Exhibits combine Items and your textual analysis to create a public, o
   * [Items Video Tutorial](https://mediaspace.msu.edu/media/LEADR_Tutorial_Omeka-Items/1_rip7ls0b)
   * [Exhibits Video Tutorial](https://mediaspace.msu.edu/media/LEADR+Omeka+Exhibits+Video+Tutorial/1_9cdxrdim)
 * Omeka Documentation
-  - Items: https://omeka.org/classic/docs/Content/Items/
-  - exhibits: https://omeka.org/classic/docs/Plugins/ExhibitBuilder/
+  * [Items](https://omeka.org/classic/docs/Content/Items/)
+  * [Omeka Exhibits Documentation](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/)
+
 -----
 ### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
