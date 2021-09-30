@@ -42,25 +42,25 @@ Once you’ve begun adding pages to your exhibit, you can begin building and edi
 #### *Content Blocks*
 Content Blocks are how you will upload items to your exhibit, provide textual analysis and organize your page. There are multiple types of blocks that allow you a lot of creative freedom when developing your pages. Remember to save your progress as you work!
 
-###### *Block Types*
+##### *Block Types*
 There are 4 Block types you can add to your Page
 * **File with Text**: Allows you to add an Item or multiple Items and text. Your Item will be justified to the left or right side of the Page with your text wrapped around it.
 * **Gallery**: Allows you to display your Items in a gallery of rows and columns.
 * **Text**: Embeds any text you enter into your Page.
 * **File**: Allows you to embed Items directly into your Page without any text wrapping to the left or right.
 
-###### *Adding and Organizing Blocks*
+##### *Adding and Organizing Blocks*
 * You may add any content block by __selecting the type of Content Block you want__ to add from the *Select Layout* Section and pressing the **Add new Content** button.
-<br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_8.png" width="35%"><br>
+<br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_8.png" width="30%"><br>
 * The order of the Content Blocks will be the same order on the public website. You may reorganize and move content blocks around by clicking the header of the content block you want to move, and dragging it to the place you want it.
 
-###### *Adding Content to your Block*
+##### *Adding Content to your Block*
 There are 4 types of Blocks you can embed into a page, but there are only two types of data that Blocks can use: Items and text.
 * **Items**: *File with Text*, *Gallery*, and *File* Content Blocks all allow you to add items as content.
   * click the large **Add Item** button
   <br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_9.png" width="80%"><br>
   * This will bring you to the Attach an Item pop-up where you can search for and select the item you wish to attach. Clicking on the **Show Search Form** button will allow you to search for an item by user and other categories.
-  * Once you have found your Item, click on it and press the Select Item button. <br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_10.png" width="80%"><br>
+  * Once you have found your Item, click on it and press the Select Item button. <br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_10.png" width="30%"><br>
   * This will bring you to a captioning page where you can provide a caption to help describe the item or explain why you are using it here. Once you have finished, press the **Apply** button at the bottom-right corner of the pop-up.
   * Your Item should appear inside of your Content Block. You may add more Items.
 * **Text**: *File with Text*, *Gallery*, and *Text* Content Blocks all allow you to add text as content. Keep in mind that Adding text into the File with Text and Gallery blocks will change how your items are displayed within the page. So it is always a good idea to check out how your page looks to the public by pressing the View Public Page button. To add text to a block follow this steps:
@@ -68,7 +68,7 @@ There are 4 types of Blocks you can embed into a page, but there are only two ty
   * Save your work by pressing the **Save Changes** button.
 
 ### *Saving*
-When editing your pages, it is vital that you save your work. Any data or changes entered into Omeka will not save or take place unless you press one of the **Save Changes** buttons at the top-right corner of the page. <br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_12.png" width="40%"><br>
+When editing your pages, it is vital that you save your work. Any data or changes entered into Omeka will not save or take place unless you press one of the **Save Changes** buttons at the top-right corner of the page. <br><img style="border:1px solid black" class="center" src="img/omeka-pages/pages_12.png" width="30%"><br>
 
 ## Page Design
 
@@ -80,7 +80,7 @@ You’ll notice that different Content Block types and the order in which they a
 
 ## Materials & Resources
 * Insructional Materials:
-  * Pages [Video Tutorial](https://mediaspace.msu.edu/media/LEADR+Omeka+Pages+Video+Tutorial/1_vzufn492)
+  * [Pages Video Tutorial](https://mediaspace.msu.edu/media/LEADR+Omeka+Pages+Video+Tutorial/1_vzufn492)
 * Resources
   * [Omeka Documentation](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/)
 
