@@ -1,21 +1,23 @@
-# Omeka Metadata
+# Omeka Metadata Guide
 
-Created by Daniel Fandino, Ashley Highland
+Created by Daniel Fandino,
 
-*Last Updated: 3/26/2021*
+Uploaded by [Zach Francis](https://redfeather.dev/), Ashley Highland
+
+*Last Updated: 10/1/2021*
 
 ## Overview
-In this handout, you will learn about the Dublin Core metadata scheme. Metadata is data about a data--in this case it is information about the digital items used in Omeka. This will help readers of your exhibit understand the origins of the Items of historical evidence that you include in your exhibit and allow you to properly document your work. This will enable others to follow your research as well as acknowledging the ownership and origins of the items.
+In this handout, you will learn about the Dublin Core metadata scheme. Metadata is data about a data -in this case it is information about the digital items used in Omeka. This will help visitors to your [Omeka exhibit](https://leadr-msu.github.io/guides/omeka-items-and-exhibits.html) understand the origins of the Items used as the centerpieces of your exhibit by allowing you to properly document and categorize your digital content. This will enable others to follow your research as well as acknowledging the ownership and origins of the items.
 
-In Omeka, Items are the digital representations of resources used on the platform. Each historical artifact you use (such as a letter, photograph, painting, or newspaper article) should be an Item in your exhibit. You provide information about these resources using the [Dublin Core metadata scheme.](https://dublincore.org/) Dublin Core is a set series of 16 categories that allows for consistent information about items to be carried across a variety of platforms and uses.
+## What is Metadata in Omeka?
+In Omeka, [Items](https://leadr-msu.github.io/guides/omeka-items-and-exhibits.html) are the digital representations of resources used on the platform. Each historical artifact you use (such as a letter, photograph, painting, or newspaper article) should be an Item in your exhibit. You will provide information about these resources in Omeka using the [Dublin Core metadata scheme.](https://dublincore.org/) Dublin Core is a set series of 16 categories that allows for consistent information about items to be carried across a variety of platforms and uses.
 
-Items are usually but not always digital representations of physical Items. The item can be used to represent either an image itself or something depicted by the item. For example, a painting of George Washington can be used as a digital item to represent the painting itself or to represent George Washington as the historical figure.
+Items are usually(but not always) digital representations of physical Items. The item can be used to represent either an image itself or something depicted by the item. For example, a painting of George Washington can be used as a digital item to represent the painting itself or to represent George Washington as the historical figure.
 
 It is important to note that you are not always expected to be able to complete every entry for metadata. The importance of Omeka metadata is to properly cite where you obtained your research sources and develop an understanding of how items and data are referenced in digital archives. The goal is to fill out the information to the best of your ability.
 
-
-
 ## Explanation of Dublin Core Elements
+Here we provide a brief explanation of the Elements used in Dublin Core. We heavily encourage you to visit the [Dublin Core website](https://dublincore.org/) if you want a more detailed explanation of their metadata scheme.
 
 **Title:** A name the Item is known by. This can be the title of a book, the title of a work of art, the make and model of a vehicle, photograph name, or building name.
 - The Odyssey
@@ -119,7 +121,7 @@ It is important to note that you are not always expected to be able to complete 
 
 
 ## Example
-<img src="img/omekametadata/omekametadataexample1.png" width="45%">
+<img src="img/omeka-metadata/omeka_metadata_1.png" width="45%">
 
 Photograph of the cover of Vision and the Scarlet Witch 1 used for educational purposes. The item used in this example is the physical comic book depicted in the image.
 

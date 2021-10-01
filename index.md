@@ -16,7 +16,7 @@ To see an alphabetical list of all our guides [click here](/list.md). Otherwise,
 - [Omeka](https://leadr-msu.github.io/omeka)
 - [Omeka Items and Exhibits](https://leadr-msu.github.io/guides/omeka-items-and-exhibits.html)
 - [Omeka Pages](https://leadr-msu.github.io/guides/omeka-pages.html)
-- [Omeka Metadata Guide](https://leadr-msu.github.io/guides/omeka-metadata-guide.html)
+- [Omeka Metadata Guide](https://leadr-msu.github.io/guides/omeka-metadata.html)
 - [Logging into Omeka](https://leadr-msu.github.io/guides/logging-into-omeka.html)
 - [Omeka Metadata](https://leadr-msu.github.io/guides/omekametadata.html)
 - [Omeka S](https://leadr-msu.github.io/omeka-s)
