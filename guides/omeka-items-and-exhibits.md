@@ -26,7 +26,6 @@ In Omeka, an Item largely consists of any digital resource(s) and its associated
   - Click on the **Browse…** button to select and download the digital resource(s) into your Omeka Item.
 6. The final data-entry step is the application of tags to your Omeka Item. You may add in any relevant subject tags you would like, though they are not necessary. Simply enter in the text for your tags (separated by commas) and press the **Add Tags** button.
 7. Now you can add your Item. Before adding your Item, <u>make sure your item is public</u> (viewable on the actual website) by checking the **Public** check box under the Add Item button. Finally, Press the **Add Item** button. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_5.png" width="30%"><br>
-<img src="img/Items-and-exhibits/itemsandexhibits5.png" width="40%">
 8. This will bring you back to the *Browse Items* page where you will receive a message saying that your Item was successfully added.
 
 ### *Viewing, Editing, and Deleting your Item*
