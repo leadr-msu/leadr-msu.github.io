@@ -1,8 +1,8 @@
 # Omeka Metadata Guide
 
-Created by Daniel Fandino,
+Created by [Daniel Fandino](http://wiredhistory.com/)
 
-Uploaded by [Zach Francis](https://redfeather.dev/), Ashley Highland
+Updated by [Zach Francis](https://redfeather.dev/), Ashley Highland
 
 *Last Updated: 10/1/2021*
 
