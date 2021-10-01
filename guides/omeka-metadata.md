@@ -152,3 +152,22 @@ Photograph of the cover of Vision and the Scarlet Witch 1 used for educational p
 **Identifier:** none available.
 
 **Coverage:** United States
+
+## Resources
+* LEADR Guides
+  * [Omeka](https://leadr-msu.github.io/omeka)
+  * [Items and Exhibits](https://leadr-msu.github.io/guides/omeka-items-and-exhibits.html)
+  * [Pages](https://leadr-msu.github.io/guides/omeka-pages.html)
+* Tutorial Videos
+  * [Items Video Tutorial](https://mediaspace.msu.edu/media/LEADR_Tutorial_Omeka-Items/1_rip7ls0b)
+  * [Exhibits Video Tutorial](https://mediaspace.msu.edu/media/LEADR+Omeka+Exhibits+Video+Tutorial/1_9cdxrdim)
+* Omeka Documentation
+  * [Omeka User Manual](https://omeka.org/classic/docs/)
+  * [Items](https://omeka.org/classic/docs/Content/Items/)
+  * [Exhibits](https://omeka.org/classic/docs/Plugins/ExhibitBuilder/)
+* Dublin Core
+  * [Dublin Core Website](https://dublincore.org/)
+  * [2020 Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
+
+-----
+### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
