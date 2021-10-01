@@ -52,6 +52,7 @@ To see an alphabetical list of all our guides [click here](/list.md). Otherwise,
 - [Twitter Archiving Google Sheet(TAGS)](/guides/tags.md)
 - [Using GitHub](https://github.com/leadr-msu/github-use-tutorial/wiki)
 - [Collecting Data with Google Forms](https://leadr-msu.github.io/guides/google-forms-data.html)
+- [Visualizing Data with Voyant](https://leadr-msu.github.io/guides/voyant.html)
 
 <h2 id="writing">Writing and Citation</h2>
 - [Citations - Best Practices](https://leadr-msu.github.io/citations-best-practices)
