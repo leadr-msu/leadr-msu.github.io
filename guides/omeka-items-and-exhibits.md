@@ -19,7 +19,7 @@ In Omeka, an Item largely consists of any digital resource(s) and its associated
   - **Note**: *this tab is called “Dublin Core” because that is the [metadata standard](https://dublincore.org/) that Omeka uses. A metadata standard refers to the use of the same “entities” for the description of data (digital resources in our case). The “Title” field is an example of an “entity”. Use of the same, standardized entities across multiple collections of data makes it easier to search and compare data (digital resources) across multiple collections. Sometimes the websites that you obtain your content from will have options to specifically format the metadata into the metadata standard we are using.*
   - **Hint**: *sometimes the websites that you obtain your content from will have options to specifically format the metadata into the metadata standard we are using.* <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_3.png" width="80%"><br>
 4. Once you have added the metadata, click on the **Item Type Metadata** tab. This tab typically describes the type of digital content that you are uploading.
-<img src="img/Items-and-exhibits/itemsandexhibits_4.png" width="40%">
+<img src="img/Items-and-exhibits/items_and_exhibits_4.png" width="40%">
   - Select the appropriate Item Type. Many times this will be a *Still Image*.
   - Fill out as much of the metadata as you can.<br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_4.png" width="80%"><br>
 5. After you finish entering the **Item Type Metadata**, select the **Files** tab to add a digital resource(s) for your Item.
