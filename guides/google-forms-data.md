@@ -21,8 +21,7 @@ Google Forms allows you to ask a variety of survey questions, embed images and v
 - You may also **add titles** to sets of questions and **create new pages** of questions by adding sections. These options will affect the flow of your survey.
 - To send the survey, click the **Send** button at the top-right of the page. You may either send the survey directly through email, or share a link to those you want to take the survey.
 - For a more nuanced look at the tools and options that Google Forms provides, check out their [documentation.](https://support.google.com/docs/answer/6281888) The best way to learn the mechanics of Google Forms, however, may be creating your own surveys.
-
-<img src="img/google-forms-data/googleformsdata1.png" class="center" width="40%">
+<br><img style="border:1px solid black" class="center" src="img/google-forms-data/google_forms_data_1.png" width="80%"><br>
 
 ## Best Practices for Creating Surveys
 When creating surveys in any setting, every researcher should think about their objectives and the best way to get data for those objectives. In that regard, there are some best practices to think about when creating surveys.
@@ -72,9 +71,7 @@ There is an inclination to pick the first answer when given multiple options. Sh
 1. Go to the bottom of your multiple options questions (multiple choice, checklist, etc.)
 2. Click the **three vertical dots icon** at the bottom-right
 3. Select Shuffle options order
-  - This will shuffle the options you have entered, but leave google options like “other..” at the bottom.
-<img src="img/google-forms-data/googleformsdata2.png" width="40%">
-
+  - This will shuffle the options you have entered, but leave google options like “other..” at the bottom.<br><img style="border:1px solid black" class="center" src="img/google-forms-data/google_forms_data_2.png" width="80%"><br>
 
 ## FAQ
 * *Why are people outside of my organization unable to take my survey?*
