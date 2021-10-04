@@ -20,7 +20,7 @@ To see an alphabetical list of all our guides [click here](/list.md). Otherwise,
 - [Logging into Omeka](https://leadr-msu.github.io/guides/logging-into-omeka.html)
 - [Omeka Metadata](https://leadr-msu.github.io/guides/omekametadata.html)
 - [Omeka S](https://leadr-msu.github.io/omeka-s)
-- [WordPress Introductory Resources](https://leadr-msu.github.io/wordpress)
+- [WordPress Introductory Resources](https://leadr-msu.github.io/guides/wordpress.html)
 
 <h2 id="course">Course Guides</h2>
 - [HST 201 - Data Visualization with East African Slave Voyages](https://leadr-msu.github.io/data-visualization-east-african-slave-voyages)
