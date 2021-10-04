@@ -17,7 +17,7 @@ In Omeka, an Item largely consists of any digital resource(s) and its associated
 2. Click on the **Add an Item** button from the *Browse Items* page. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_2.png" width="80%"><br>
 3. This will initially bring you to the **Dublin Core** tab where you will fill out fields describing your Item. This tab usually provides the bulk of what makes up an Item. You will want to fill out as much of the Dublin Core tab as possible, especially: **Title**, **Subject**, **Description**, **Source**, and **Publisher**. There is no problem, however, with leaving a field empty when metadata is simply not available.
   - **Note**: *this tab is called “Dublin Core” because that is the [metadata standard](https://dublincore.org/) that Omeka uses. A metadata standard refers to the use of the same “entities” for the description of data (digital resources in our case). The “Title” field is an example of an “entity”. Use of the same, standardized entities across multiple collections of data makes it easier to search and compare data (digital resources) across multiple collections. Sometimes the websites that you obtain your content from will have options to specifically format the metadata into the metadata standard we are using.*
-  - **Hint**: *sometimes the websites that you obtain your content from will have options to specifically format the metadata into the metadata standard we are using.* <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_14.png" width="40%"><br>
+  - **Hint**: *sometimes the websites that you obtain your content from will have options to specifically format the metadata into the metadata standard we are using.* <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_14.png" width="60%"><br>
 4. Once you have added the metadata, click on the **Item Type Metadata** tab. This tab typically describes the type of digital content that you are uploading.
 <img src="img/Items-and-exhibits/items_and_exhibits_15.png" width="40%">
   - Select the appropriate Item Type. Many times this will be a *Still Image*.
@@ -31,7 +31,7 @@ In Omeka, an Item largely consists of any digital resource(s) and its associated
 ### *Viewing, Editing, and Deleting your Item*
 1. You may view the details of, edit, or delete an Item at any time by browsing or searching (see next section) for an Item that you have created.
 2. Once you have found the location of your Item click on the button for the corresponding action you want to take.
-  - The “**Details**”, “**Edit**” and “**Delete**” buttons will be located under your Item’s title. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_6.png" width="60%"><br>
+  - The “**Details**”, “**Edit**” and “**Delete**” buttons will be located under your Item’s title. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_6.png" width="50%"><br>
 
 #### *Searching for Items*
 1. Navigate to the Browse Items page and click the search button. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_7.png" width="60%"><br>
@@ -45,10 +45,10 @@ In Omeka, an Item largely consists of any digital resource(s) and its associated
 In Omeka, Exhibits combine Items and your textual analysis to create a public, online exhibit. Exhibits are composed of pages, typically with a page that serves as the introduction to a project and additional pages which highlight the Items and component text. An Omeka exhibit may be one or more pages in total, depending on the project. The following sections will show you the basics of creating and editing exhibits in Omeka.
 
 #### *Creating Exhibits*
-1. On your dashboard, select **Exhibits** on the left hand menu. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_8.png" width="80%"><br>
+1. On your dashboard, select **Exhibits** on the left hand menu. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_8.png" width="60%"><br>
 2.	Click the green tab **Add an Exhibit**. This will take you to a page where you will enter the information that will appear on the landing page of the Exhibit. The landing page is the first page of your exhibit and should contain an introduction to your work.
 <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_9.png" width="80%"><br>
-3. At the **Add Exhibit** page you will see several options. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_10.png" width="80%"><br>
+3. At the **Add Exhibit** page you will see several options. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_10.png" width="60%"><br>
   * Title - The title of your exhibit.
   * Slug - this is the URL for your exhibit. Select something short and related to your project.
   * Credits - As you are the sole author of your project, your name can go here
@@ -64,7 +64,7 @@ In Omeka, Exhibits combine Items and your textual analysis to create a public, o
   * Page title – the title of this page
   * Page slug – this is the URL for this page. Select something short and related to the page contents.
 8.	To create the page, select the layout you wish to use and click **Add New Content Block.**
-9. You will not see the option to **Add New Content Block** until you select a layout by clicking and highlighting the layout you want to use. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_11.png" width="80%"><br>
+9. You will not see the option to **Add New Content Block** until you select a layout by clicking and highlighting the layout you want to use. <br><img style="border:1px solid black" class="center" src="img/items-and-exhibits/items_and_exhibits_11.png" width="60%"><br>
 10.	From the content block you may add items and your text.
 11.	**IMPORTANT:** Omeka will NOT autosave your work. You must click **Save Changes** or **Save and Add Another Page** for your work to be saved.
 12.	When you add an Item to have the option to add a caption.
