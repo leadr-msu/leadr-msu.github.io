@@ -8,17 +8,20 @@ Updated by [Dan Fandino](https://wiredhistory.com/) and [Zach Francis](https://r
 
 WordPress is an incredibly popular content management system. What is a content management system? It is exactly what the name implies: it is a system that manages content. Instead of learning HTML, CSS, JavaScript and other coding languages, all you have to focus on is providing your content within WordPress's system. Because WordPress is so popular, there is no shortage of WordPress tutorials accessible online to help you with this goal. As such, this guide will provide you with links to some of those resources as well as some specific help on the most common questions we encounter when teaching WordPress in our LEADR Workshops.
 
-These issues have their own sections below:
+These issues have their own sections below: Comments on Posts
+
+## Creating a Webpage
+
 
 ## Turning Off Comments
 
 When using WordPress through MSU Domains, the ability for people to comment on your posts is automatically turned off. You may however want people to be able to comment on you pages and posts if you are creating more of a bloggy website. This section will show you how to enable comments, but be aware of some potential security vulnerabilities by allowing others to contribute content to your site. You will also likely be bombarded by automatically generated spam which can get out of hand if your settings and filters are secure enough. You will like get spam no matEnabling comments can create enormous security vulnerability, in addition to the inconvenience of having one's site constantly bombarded with automatically-generated spam.
 
-To do this, go to Settings > Discussion in the Dashboard:
+To get to commenting options, go to Settings > Discussion in the Dashboard:
 
 <br><img style="border:1px solid black" class="center" src="img/wordpress/nav-settings-discussion.png" width="80%"><br>
 
-This page has a bunch of options available. It is important that the option "Allow people to post comments on new articles" under "Default article settings" is **_unchecked_** and "Comment must be manually approved" under "Before a comment appears" is **_checked_**. This will ensure that comments are turned off by default and that, if commenting ends up accidentally turned on at some point on any page, a comment cannot post to the website without one's approval.
+This page has a bunch of options available. "*Allow people to post comments on new articles*" under "*Default article settings*" will allow you to decide you want people to be able to comment. If you do allow comments on your posts, then we highly recommend that you check the option that "*Comment must be manually approved*" under "*Before a comment appears*". This will ensure that a comment cannot post to the website without your approval.
 
 <br><img style="border:1px solid black" class="center" src="img/wordpress/settings-discussion.png" width="80%"><br>
 
@@ -26,11 +29,9 @@ Once finished, be sure to click the "Save Changes" button at the bottom of the p
 
 ## Setting a Static Homepage
 
-In order to set a static homepage, one must first have created the page that will be set. This is easily done under the Pages section of the Dashboard:
+Typically with sites in LEADR, you will be creating a WordPress website with a static homepage. This is because you will typically not have a ton of posts made for your new site to showcase on the front page of your website. This means that you will want to use a "static" page (a page that you do not update with posts regularly) as the first site that people see when they visit your site. A static page can be any page that you have created or edited in your pages tab (See the section on that above).
 
-<br><img style="border:1px solid black" class="center" src="img/wordpress/nav-pages.png" width="80%"><br>
-
-Once the page has been created and published, one will go to Settings > Reading in the Dashboard to locate the options for setting a static homepage:
+One way to make your homepage static is by going to Settings > Reading in the Dashboard to locate the options for setting a static homepage:
 
 <br><img style="border:1px solid black" class="center" src="img/wordpress/nav-settings-reading.png" width="80%"><br>
 
@@ -38,15 +39,15 @@ Change the setting for "Front page displays" from "Your latest posts" to "A stat
 
 <br><img style="border:1px solid black" class="center" src="img/wordpress/settings-reading.png" width="80%"><br>
 
-The desired page does not need to be wholly complete for this process to work, but just needs to be published. Additionally, one can change the name of the page later on and WordPress will appropriately update the static page setting on its own.
+The desired page does not need to be wholly complete for this process to work, but it does need to be published. Additionally, one can change the name of the page later on and WordPress will appropriately update the static page setting on its own.
 
 ## Creating a Menu
 
-Once one has created their website's pages, they will likely need to manually create their site's primary menu. First, go to Appearance > Menus in the Dashboard:
+The organization of your site is one of the most important decisions to make when designing your website. You should think about what sort of content you want to put into your site and how to organize that content within your site. Do you want all of your content on just one page, or do you need to split your content into different section that can be reached from the menu? One way to start creating your menu is to go to Appearance > Menus in the Dashboard:
 
 <br><img style="border:1px solid black" class="center" src="img/wordpress/nav-appearance-menus.png" width="80%"><br>
 
-Start by giving the new menu a name and then clicking "Create Menu." Then, choose the "View All" tab on the left to see a list of all one's pages. Check the boxes next to all the desired menu items (or choose "Select All" to check all the boxes) and click the "Add to Menu" button.
+You should have a menu already available called "Main Nav". You can start editing this menu, or you can create a new menu by  Start by clicking "Create Menu". Multiple menus may be useful in instances like when you want a different menu for mobile users (for smaller screens). In either case, you can start adding stuff to your menu by opening the "View All" tab on the left to see a list of all the pages that you have created for your WordPress site. Check the boxes next to all the desired pages that you want to use as menu items (or choose **Select All** to check all the boxes) and click the **Add to Menu** button.
 
 <br><img style="border:1px solid black" class="center" src="img/wordpress/appearance-menus.png" width="80%"><br>
 
