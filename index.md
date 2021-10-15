@@ -14,6 +14,7 @@ To see an alphabetical list of all our guides [click here](/list.md). Otherwise,
 
 <h2 id="content">Content Management</h2>
 - [Omeka](https://leadr-msu.github.io/omeka)
+- [Omeka Footnotes Using HTML](https://leadr-msu.github.io/guides/omeka-footnotes.html)
 - [Omeka Items and Exhibits](https://leadr-msu.github.io/guides/omeka-items-and-exhibits.html)
 - [Omeka Pages](https://leadr-msu.github.io/guides/omeka-pages.html)
 - [Omeka Metadata Guide](https://leadr-msu.github.io/guides/omeka-metadata.html)
