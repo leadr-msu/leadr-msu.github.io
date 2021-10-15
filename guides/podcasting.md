@@ -6,7 +6,7 @@ Created by [Dan Fandino](https://wiredhistory.com/)
 
 <br><img style="border:1px solid black" class="center" src="img/podcasting/podcasting_1.jpeg" width="80%"><br>
 
-The LEADR Audiovisual(A/V) Studio is located in Old Horticulture, room 230. Any history or anthropology majors or minors are welcome to reserve the room by contacting LEADR Staff. The podcast station is comprised of the audio mixing board, four microphones, four headphones, and a connected Zoom Handy Mic. Recording of audio sessions is done through the Handy Mic while the audio board controls the recording volume levels, headphone volume, and which microphones are active. A memory card for the Handy Mic is required to record. Ensure the memory card is blank for best results.
+The LEADR Audiovisual(A/V) Studio is located in Old Horticulture, room 230. Any history or anthropology majors or minors are welcome to reserve the room by contacting [LEADR Staff](http://leadr.msu.edu/). The podcast station is comprised of the audio mixing board, four microphones, four headphones, and a connected Zoom Handy Mic. Recording of audio sessions is done through the Handy Mic while the audio board controls the recording volume levels, headphone volume, and which microphones are active. A memory card for the Handy Mic is required to record. Ensure the memory card is blank for best results.
 
 **CAUTION**: As the podcasting table packs in a lot of equipment in a small space, please be careful to not trip or pull on any wires which can damage the equipment or cause injury. .When you have completed a session, ensure all cables and wires are neatly put away.
 
