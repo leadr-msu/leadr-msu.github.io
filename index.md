@@ -33,6 +33,7 @@ To see an alphabetical list of all our guides [click here](/list.md). Otherwise,
 
 <h2 id="lab">Lab Equipment</h2>
 - [Czurtech Scanner Guide](https://leadr-msu.github.io/czurtech-scanner-guide)
+- [LEADR Audiovisual Studio Equipment](https://leadr-msu.github.io/guides/podcasting.html)
 
 <h2 id="mapping">Mapping</h2>
 - [Google My Maps](/guides/google-my-maps.md)
