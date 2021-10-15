@@ -35,13 +35,13 @@ Maintain a consistent distance from the microphone. Having different participant
 <br><img style="border:1px solid black" class="center" src="img/podcasting/podcasting_5.jpeg" width="80%"><br>
 **Image 1.** The audio mixing board. The four lower leftmost white knobs control the microphones gain. The white monitor/phones knob on the lower right hand side next to the red stereo knob controls the headphone volume.
 
-<br><img style="border:1px solid black" class="center" src="img/podcasting/podcasting_5.jpeg" width="80%"><br>
+<br><img style="border:1px solid black" class="center" src="img/podcasting/podcasting_6.jpeg" width="80%"><br>
 **Image 2.** Microphone amplifier with power indicator light.
 
-<br><img style="border:1px solid black" class="center" src="img/podcasting/podcasting_5.jpeg" width="80%"><br>
+<br><img style="border:1px solid black" class="center" src="img/podcasting/podcasting_7.jpeg" width="80%"><br>
 **Image 3.** Handy Mic.
 
-<br><img style="border:1px solid black" class="center" src="img/podcasting/podcasting_5.jpeg" width="80%"><br>
+<br><img style="border:1px solid black" class="center" src="img/podcasting/podcasting_8.jpeg" width="80%"><br>
 **Image 4.** Handy Mic power switch location
 
 -----
