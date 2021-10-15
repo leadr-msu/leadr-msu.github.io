@@ -2,14 +2,12 @@
 
 Created by [Dr. Alice Lynn McMichael](https://amcmichael.commons.gc.cuny.edu/)
 
-Updated by [J. Andrella](http://jenniferandrella.com/), [Daniel Fandino](http://wiredhistory.com/), and Ashley Highland
+Updated by [J. Andrella](http://jenniferandrella.com/), [Daniel Fandino](http://wiredhistory.com/)
 
 *Last Updated: 6/7/2021*
 
 ## **Overview**
-Because *LEADR* and many other labs are currently not circulating equipment due to the Covid-19 pandemic, we put together some suggestions for recording audio at home.
-These tips are for recording audio at home for class assignments or podcasts.
-
+*LEADR* and many other labs stopped circulating equipment during the COVID-19 pandemic, forcing many students to have to use equipment from home to record audio for their digital research projects. In response, we put together some suggestions for recording audio at home. Specifically, we address tips are for recording audio at home for class assignments or podcasts.
 
 ## Best Practice
 *Not everyone has a soundproof space at home, but some small adjustments can help with quality audio recording. Aim for quality, not perfection.*
@@ -34,20 +32,18 @@ Microphones that are plugged into your computer (such as in a USB port) can ofte
 *These are a few examples of microphones that LEADR staff members have tested at various price points to show the wide variety and options available. Hand held recording devices or phone apps may require you to export the audio file or use an SD card to transfer the data for editing.*
 
 - **Earbuds that have a built in mic** range from inexpensive to high priced. There are many brands, and they’re an efficient choice for recording at home. (These can be ordered online and are often sold in chain pharmacies or big box stores).
-- **The MPOW wired computer headset** has a built-in mic. It is USB connected. [https://www.xmpow.com/products/mpow-single-sided-usb-headset-with-microphone]
-
-- These portable USB mics can be plugged directly into a computer. Some may need an adapter, depending on your computer:
-  - **Samson Go** is lightweight and can be clipped onto a computer. [http://www.samsontech.com/samson/products/microphones/usb-microphones/gomic/]
-  - Blue **Yeti Mics** are similar to the ones used in LEADR. [https://www.bluemic.com/en-us/products/yeti/]
-  - The Blue **Snowball** mic is lightweight and freestanding. [https://www.bluemic.com/en-us/products/snowball/]
-
-- The **Zoom Handy Mic** is battery operated and hand held. You will usually need to transfer data from an SD card to your computer for editing. (It is similar to the field microphones used in LEADR). There are several models available. https://zoomcorp.com/en/us/handheld-recorders/
+- **The MPOW wired computer headset** has a built-in mic. It is USB connected. [Link](https://www.xmpow.com/products/mpow-single-sided-usb-headset-with-microphone)
+  - These portable USB mics can be plugged directly into a computer. Some may need an adapter, depending on your computer:
+- **Samson Go** is lightweight and can be clipped onto a computer. [Link](http://www.samsontech.com/samson/products/microphones/usb-microphones/gomic/)
+- Blue **Yeti Mics** are similar to the ones used in LEADR. [Link](https://www.bluemic.com/en-us/products/yeti/)
+- The Blue **Snowball** mic is lightweight and freestanding. [Link](https://www.bluemic.com/en-us/products/snowball/)
+- The **Zoom Handy Mic** is battery operated and hand held. You will usually need to transfer data from an SD card to your computer for editing. (It is similar to the field microphones used in LEADR). There are several models available. [Link](https://zoomcorp.com/en/us/handheld-recorders/)
 - **Smartphones** often have quality microphones. You may wish to put the phone on a surface or use a selfie stick or tripod mount to avoid hand noise. Choose an app for recording that will export in a reusable file format for editing in Audacity (such as .mp3 or .wav). A free version of Voice Record Pro is available for iPhone and Android; it will record, convert to .mp3 files, and export files to a number of outlets including Google Drive, Dropbox, or email. It also has some built-in editing capabilities.
 
 
 ### *Editing*
 **Always make a copy of your original file before editing your audio recording.**
-LEADR supports Audacity software for editing audio on a computer.
+LEADR supports Audacity software for editing audio on a computer. Check out our [LEADR guide](https://leadr-msu.github.io/audacity/) for some tips on how to use this software. 
 
 
 -----
