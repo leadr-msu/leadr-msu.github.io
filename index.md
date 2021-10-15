@@ -1,5 +1,5 @@
 # LEADR Tutorials
-To see an alphabetical list of all our guides [click here](/list.md). Otherwise, you may browse our guides by the following categories:
+You may browse our guides by the following categories:
 
 <a href="#audiovisual">Audiovisual Editing</a> | <a href="#content">Content Management</a> | <a href="#course">Course Guides</a> | <a href="#lab">Lab Equipment</a>
 <a href="#mapping">Mapping</a> | <a href="#modeling">Modeling</a> | <a href="#programming">Data and Coding</a> | <a href="#writing">Writing and Citation</a>
