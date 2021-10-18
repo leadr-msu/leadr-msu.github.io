@@ -33,6 +33,7 @@ You may browse our guides by the following categories:
 - [Visualizing Public Data - Eating Industrial](https://leadr-msu.github.io/visualizing-public-data-eating-industrial)
 
 <h2 id="lab">Lab Equipment</h2>
+- [Choosing a Camcorder for Research](https://leadr-msu.github.io/guides/camcorders.html)
 - [Czurtech Scanner Guide](https://leadr-msu.github.io/czurtech-scanner-guide)
 - [LEADR Audiovisual Studio Equipment](https://leadr-msu.github.io/guides/podcasting.html)
 

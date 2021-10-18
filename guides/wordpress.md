@@ -1,6 +1,6 @@
 # WordPress Introductory Resources
 
-Created by Brian Samuel Geyer
+Created by Brian Samuel Geyer and Zach Francis
 
 Updated by [Dan Fandino](https://wiredhistory.com/) and [Zach Francis](https://redfeather.dev/)
 
