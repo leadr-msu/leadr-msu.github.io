@@ -10,6 +10,7 @@ You may browse our guides by the following categories:
 - [iMovie: Green Screen](https://leadr-msu.github.io/imovie_greenscreen)
 - [iMovie: Overview](https://leadr-msu.github.io/imovietutorial)
 - [MediaSpace](https://leadr-msu.github.io/mediaspace)
+- [Screen Casting](https://leadr-msu.github.io/guides/screencasting.html)
 - [Zoom](https://leadr-msu.github.io/zoom)
 
 <h2 id="content">Content Management</h2>
