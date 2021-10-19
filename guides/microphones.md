@@ -9,6 +9,7 @@ LEADR has all the necessary equipment for recording audio for the purposes of re
 
 ## Hn4 Zoom Handy Mic
 The H4n Zoom Handy Recorder is a versatile and easy to use recorder for interviews, oral histories, or monologues. If you are interested in features or functions not mentioned in this brief introduction, please see the [H4n Operation Manual.](https://www.zoom-na.com/sites/default/files/products/downloads/pdfs/Zoom_H4nPro_English.pdf)
+
 <br>
 <img style="border:1px solid black" src="img/microphones/handymicoff.png" width="40%"> <img style="border:1px solid black" src="img/microphones/handymicon.png" width="40%">
 <br>
@@ -26,11 +27,9 @@ The H4n Zoom Handy Recorder is a versatile and easy to use recorder for intervie
 4. Press the record button (REC / ⚫) once to check the status. The recording indicator around the button will start flashing.
 5. Speak as you will during your recording and watch the sound level. Adjust the recording level using buttons on the right side to set the level to the middle of the range.
 
-
 ### Recording
 1. Press the (REC/⚫) button again to start recording. The indicator ring around the button should be red, and the time indicator on the screen should be counting up.
 2. When you’re done, press ‘◼’. You can record as many clips as are necessary.
-
 
 ### Exporting Files
 1. When you’re done recording, press in on the SD card to eject it, and put the card into a computer.

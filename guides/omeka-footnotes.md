@@ -17,7 +17,7 @@ HTML is a way of writing language in a way that computers can understand how you
   * **Do not alter any of the existing HTML or you may cause unintended problems with the look of your work.** <br><img style="border:1px solid black" class="center" src="img/omeka-footnotes/footnotes_2.jpg" width="80%"><br>
 5. Navigate to the end of the word that you wish to add the superscript citation. Normally this will be immediately after the sentence where you used an external source. **Add the following HTML code, replacing CITATION with the correct citation number**. Do not add the quotation marks, only the code between the quotation marks.
   * "<code><sup>CITATION</sup></code>"
-  * For example, the first citation on a page will look like this: “<code><sup>1</sup></code>” while the second will look like “<code>&ltsup&gt2&lt/sup&gt</code>”
+  * For example, the first citation on a page will look like this: “<code><sup>1</sup></code>” while the second will look like “<code><sup>2</sup></code>”
   * In this case, “sup” is short for superscript.
   * “sup” is an HTML element called a tag.
 6. Omeka will not automatically update citation numbers, so if you make a change you will have to manually check and change your citation numbers to ensure they are correct.
