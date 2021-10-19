@@ -9,7 +9,7 @@ Audacity is an accessible, open-source, multi-track audio recording, and editing
 
 <br><img style="border:1px solid black" class="center" src="img/audacity/audacityedit.png" width="80%"><br>
 
-**SETUP**: To  get started, you’ll need to download the Audacity app. First, head over to their site. Downloads are available for Mac, Windows, and Linux. If you are going to be recording audio with audacity, you’ll want to plug your microphone into the USB port before opening audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon (1) and select your preferred mic.
+**SETUP**: To  get started, you’ll need to [download the Audacity app](https://www.audacityteam.org/download/). Downloads are available for Mac, Windows, and Linux. If you are going to be recording audio with audacity, you’ll want to plug your microphone into the USB port before opening audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon (1) and select your preferred mic.
 
 **RECORDING & IMPORTING**: Once your mic is selected, you can begin recording. Start by pressing the record button (2). You will see the time in the bottom right corner start (3) and the sound waves will begin to appear in the editing pane (4). Good audio files have more full, longer waves. If the sound is too low, the waves will be smaller and shorter. To add another audio into audacity, you’ll need to go to File > Import > Audio. Audacity supports both WAV and MP3 files.
 
