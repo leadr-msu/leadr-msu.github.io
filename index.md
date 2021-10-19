@@ -5,11 +5,11 @@ You may browse our guides by the following categories:
 <a href="#mapping">Mapping</a> | <a href="#modeling">Modeling</a> | <a href="#programming">Data and Coding</a> | <a href="#writing">Writing and Citation</a>
 
 <h2 id="audiovisual">Audiovisual Media</h2>
-- [Audio Recording (Audacity)](https://leadr-msu.github.io/audacity)
-- [Recording Audio at Home](https://leadr-msu.github.io/guides/audio-recording-at-home.html)
+- [Editing Audio with audacity)](https://leadr-msu.github.io/guides/audacity.html)
 - [iMovie: Green Screen](https://leadr-msu.github.io/imovie_greenscreen)
 - [iMovie: Overview](https://leadr-msu.github.io/imovietutorial)
 - [MediaSpace](https://leadr-msu.github.io/mediaspace)
+- [Recording Audio at Home](https://leadr-msu.github.io/guides/audio-recording-at-home.html)
 - [Screen Casting](https://leadr-msu.github.io/guides/screencasting.html)
 - [Zoom](https://leadr-msu.github.io/zoom)
 
@@ -37,6 +37,7 @@ You may browse our guides by the following categories:
 - [Choosing a Camcorder for Research](https://leadr-msu.github.io/guides/camcorders.html)
 - [Czurtech Scanner Guide](https://leadr-msu.github.io/czurtech-scanner-guide)
 - [LEADR Audiovisual Studio Equipment](https://leadr-msu.github.io/guides/podcasting.html)
+- [LEADR Microphones](https://leadr-msu.github.io/guides/microphones.html)
 
 <h2 id="mapping">Mapping</h2>
 - [Google My Maps](/guides/google-my-maps.md)
