@@ -5,7 +5,7 @@ You may browse our guides by the following categories:
 <a href="#mapping">Mapping</a> | <a href="#modeling">Modeling</a> | <a href="#programming">Data and Coding</a> | <a href="#writing">Writing and Citation</a>
 
 <h2 id="audiovisual">Audiovisual Media</h2>
-- [Editing Audio with audacity)](https://leadr-msu.github.io/guides/audacity.html)
+- [Editing Audio with Audacity](https://leadr-msu.github.io/guides/audacity.html)
 - [iMovie: Green Screen](https://leadr-msu.github.io/imovie_greenscreen)
 - [iMovie: Overview](https://leadr-msu.github.io/imovietutorial)
 - [MediaSpace](https://leadr-msu.github.io/mediaspace)
