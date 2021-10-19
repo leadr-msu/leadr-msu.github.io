@@ -1,4 +1,8 @@
-# Recording Audio
+# Using LEADR Microphones to Record Audio
+
+Created by Sara Bijani and Alyssa Lopez and is maintained by LEADR staff(http://leadr.msu.edu/)
+
+*Last Updated: 10/19/2021*
 
 ## Overview
 LEADR has all the necessary equipment for recording audio for the purposes of recording ethnography or oral histories. If you are a history or anthropology student at Michigan University, then you can check out this equipment in person or by contacting [LEADR staff](http://leadr.msu.edu/). This guide will walk you through the use of two useful pieces of audio recording equipment: the Zoom Handy Mic, and the Yeti Mic.
@@ -49,6 +53,9 @@ Be sure that your microphone is positioned correctly. It should be about one foo
 <br><img style="border:1px solid black" class="center" src="img/microphones/audacity1.png" width="60%"><br>
 
 After your microphone is plugged into your USB port and you’ve selected the correct microphone pattern, open Audacity and change the audio source from the “Built-In Microphone” to the “Yeti Stereo Microphone.”   **Be sure that the microphone isn’t muted. When the microphone is muted, the button will flash red. When the microphone is not muted, the button will glow solid red.**
+
+## Resources
+* [LEADR guide on recording and editing audio with Audacity](https://leadr-msu.github.io/guides/audacity.html).
 
 -----
 ### Return to [LEADR's Resources list](https://leadr-msu.github.io/)

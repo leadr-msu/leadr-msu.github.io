@@ -5,7 +5,7 @@ Created by Sara Bijani and Alyssa Lopez and is maintained by LEADR staff(http://
 *Last Updated: 10/19/2021*
 
 ## Editing Audio in Audacity
-Audacity is an accessible multi-track audio recording and editing software with a number of important features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the [Audacity Manual](http://manual.audacityteam.org/) for more tutorials or assistance. You may also check out our guide on [microphones](https://leadr-msu.github.io/guides/microphones.html) to see how we record audio using LEADR equipment.
+Audacity is an accessible, open-source, multi-track audio recording and editing software with a number of important features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the [Audacity Manual](http://manual.audacityteam.org/) for more tutorials or assistance. You may also check out our guide on [microphones](https://leadr-msu.github.io/guides/microphones.html) to see how we record audio using LEADR equipment.
 
 <br><img style="border:1px solid black" class="center" src="img/audacity/audacityedit.png" width="80%"><br>
 
