@@ -1,4 +1,4 @@
-# Editing Audio with Audacity
+# Managing Data in MSU Domains
 
 Created by [Daniel Fandino](https://wiredhistory.com/)
 
