@@ -4,10 +4,6 @@ Created by [Daniel Fandino](https://wiredhistory.com/)
 
 *Last Updated: 05/10/2020*
 
-# conferenceposters
-Conference poster guide
-prepared by Daniel Fandino
-
 ## Conference poster design
 
 ## Using Powerpoint
