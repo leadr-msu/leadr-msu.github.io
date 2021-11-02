@@ -42,6 +42,7 @@ You may browse our guides by the following categories:
 
 <h2 id="mapping">Mapping</h2>
 - [Google My Maps](/guides/google-my-maps.md)
+- [Georectifying Using mapwarper.net](https://leadr-msu.github.io/guides/camcorders.html)
 - [Kepler.gl](https://leadr-msu.github.io/kepler-gl)
 - [Neatline](https://leadr-msu.github.io/neatline)
 - [Starting Web Mapping](/guides/web-mapping.md)
