@@ -44,7 +44,7 @@ You may browse our guides by the following categories:
 - [Google My Maps](/guides/google-my-maps.md)
 - [Georectifying Using mapwarper.net](https://leadr-msu.github.io/guides/map-warper.html)
 - [Kepler.gl](https://leadr-msu.github.io/kepler-gl)
-- [Neatline](https://leadr-msu.github.io/neatline)
+- [Neatline](https://leadr-msu.github.io/guides/neatline.html)
 - [Starting Web Mapping](/guides/web-mapping.md)
 
 <h2 id="modeling">Modeling (3D)</h2>

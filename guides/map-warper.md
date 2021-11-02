@@ -30,9 +30,6 @@ In the **Rectify** tab of your map, you will notice your map alongside an OpenSt
 6. You now have a georectified image that can be exported in a number of ways for a number of purposes. Check out the **Exports** tab for various formats of your new georectified image (including KML). Alternatively, some applications allow you to refer directly to a Map Warper URL of your Map. Check out the next section to see one way Neatline can use a mapwarper.net image.
   * *Note*: you can also georectify a fictional map (or any image) using Map Warper, creating a fictional map with coordinates. Coordinates would be created for the image that can be referred to with other applications (the coordinates just wouldn't be lined up with anything real on the map).
 
-## Using a Georectified Image in Neatline
-
-
 ## Additional Resources
 Here are some additional resources for Video Editing:
 - [Windows Video Editor Guide](https://support.microsoft.com/en-us/windows/create-films-with-video-editor-94e651f8-a5be-ae03-3c50-e49f013d47f6)
