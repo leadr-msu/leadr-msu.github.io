@@ -32,11 +32,8 @@ In the **Rectify** tab of your map, you will notice your map alongside an OpenSt
   * *Note*: you can also georectify a fictional map (or any image) using Map Warper, creating a fictional map with coordinates. Coordinates would be created for the image that can be referred to with other applications (the coordinates just wouldn't be lined up with anything real on the map).
 
 ## Additional Resources
-Here are some additional resources for Video Editing:
-- [Windows Video Editor Guide](https://support.microsoft.com/en-us/windows/create-films-with-video-editor-94e651f8-a5be-ae03-3c50-e49f013d47f6)
-- Other LEADR Guides
-  - [Editing with Audacity](https://leadr-msu.github.io/guides/audacity.html)
-  - [Editing with iMovie](https://leadr-msu.github.io/imovietutorial/)
+* [Neatline Guide](https://leadr-msu.github.io/guides/neatline.html) where we talk about using Map Warper
+* [arcgis Guide on Georectification](https://storymaps.arcgis.com/stories/dd75d0398f7d4ded924d303161895b8b)
 
 -----
 ### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
