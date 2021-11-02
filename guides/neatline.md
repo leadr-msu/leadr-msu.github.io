@@ -1,7 +1,6 @@
 # Neatline
 
-Created by Brandon Locke
-Updated by [Zach Francis](https://redfeather.dev/)
+Created by Brandon Locke & Updated by [Zach Francis](https://redfeather.dev/)
 
 *Last Updated 11/02/2021*
 
@@ -96,8 +95,6 @@ Before you begin placing records on the map, you may want to set a default map l
 - Default Focus: The lat/lon coordinates that the map zooms to when the record is selected.
 - Default Zoom: The zoom level that the map zooms to when the record is selected.
 
-
-
 ### Using the Timeline function
 
 #### Activate SIMILE Timeline
@@ -118,7 +115,12 @@ At the Neatline dashboard, click on the 'Plugins' tab and then select SIMILE Tim
 - Tape Height: Set the height of an object on the timeline
 
 ### Adding a Georectified Map Overlay
-Neatline also allows you to add a georectified image as an overlay onto your map. One way to georectify a map is to use Map Warper]( )
+Neatline also allows you to add a georectified image as an overlay onto your map. If you want tips on how to georectify your own image, check out our guide on using [Map Warper](https://leadr-msu.github.io/guides/map-warper.html). To create an overlay, follow these new steps:
+1. Add a new record by clicking the **New Record** button in your Neatline Exhibit.
+2. Enter a Title and description of the image you are overlaying (e.g. "Cival War Map")
+3. In the *Style* tab, under the *Imagery* section, add the WMS Address for your mapwarper.net map.
+  * The address will be http://mapwarper.net/maps/wms/39213, except your the last 5 numbers will be the identifying number of your map (the identifying number can be found in the url when you are at your map's page in mapwarper.net)
+4. Your map should now be an overlay in your Neatline exhibit. You can edit settings for the map using various options in your record.
 
 ## Sources for this Guide
 - [Tobias Hrynick, The Haskins Society](http://www.haskinssociety.org/omeka-neatline-1)
