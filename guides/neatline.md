@@ -119,7 +119,7 @@ Neatline allows you to add a georectified image as an overlay onto your map. If 
 1. Add a new record by clicking the **New Record** button in your Neatline Exhibit.
 2. Enter a Title and description of the image you are overlaying (e.g. "Cival War Map")
 3. In the *Style* tab, under the *Imagery* section, add the WMS Address for your mapwarper.net map.
-  * The address will be http://mapwarper.net/maps/wms/39213, except your the last 5 numbers will be the identifying number of your map (the identifying number can be found in the url when you are at your map's page in mapwarper.net)
+  * The address will be something like "http://mapwarper.net/maps/wms/39213", except your the last 5 numbers will be the identifying number of your map (the identifying number can be found at the end of the URL when you are at your map's page in mapwarper.net)
 4. Your map should now be an overlay in your Neatline exhibit. You can edit settings for the map using various options in your record.
 
 ## Additional Resources
