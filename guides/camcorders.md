@@ -1,4 +1,4 @@
-# Putting Footnotes into your Omeka Content using HTML
+# Buying a Camcorder Guide
 
 Created by [Alice Lynn McMichael](https://amcmichael.commons.gc.cuny.edu/)
 
@@ -19,7 +19,7 @@ Sometimes these places sell used equipment as well. Look at bundled kits that ha
 
 ## Considerations:
 Decide on a reasonable price range.
-Determine what features are absolutely necessary, and which are just useful. 
+Determine what features are absolutely necessary, and which are just useful.
 * Do you need HD video, or an LCD Screen?
 What kind of set-up will there be? Will you be shooting indoors or outdoors? Does the camcorder allow you to use it with an extension cord or only batteries?
 * This will affect the quality of camera, microphone and lighting you will need
