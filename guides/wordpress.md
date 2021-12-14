@@ -1,23 +1,31 @@
 # WordPress Introductory Resources
 
-Created by Brian Samuel Geyer and Zach Francis
-
-Updated by [Dan Fandino](https://wiredhistory.com/) and [Zach Francis](https://redfeather.dev/)
+Created by [Zach Francis](https://redfeather.dev/), Brian Geyer, and [Dan Fandino](https://wiredhistory.com/)
 
 *Last Updated 12/7/2021*
 
 WordPress is an incredibly popular content management system. What is a content management system? It is exactly what the name implies: it is a system that manages content. Instead of learning HTML, CSS, JavaScript and other coding languages, all you have to focus on is providing your content within WordPress's system. Because WordPress is so popular, there is no shortage of WordPress tutorials accessible online to help you with this goal. With this in mind, we will provide some basic guidance on some of issues we run into the most in LEADR, and list of great resources for you to explore WordPress further.
 
 ## How to install WordPress
-WordPress needs to live somewhere in order for you to be able to use it. This means having a server, and a web address that people can access to get to your WordPress installation. In LEADR, we use services like [MSU Domains](https://domains.cal.msu.edu/) (which is a service of Reclaim Hosting) and [Humanities Commons](https://hcommons.org/) to provide hosting services for WordPress. These services are geared towards college students, but there are a large number of webhosting services out there for everybody.
+WordPress needs to live somewhere in order for you to be able to use it. This means having a server, and a web address that people can access to get to your WordPress installation. In LEADR, we use services like [MSU Domains](https://domains.cal.msu.edu/) (which is part of a service related to Reclaim Hosting) and [Humanities Commons](https://hcommons.org/) to provide hosting services for WordPress. These services are geared towards college students, but there are a large number of webhosting services out there for everybody.
 
 If you are looking for web hosting service for your own personal use, we recommend buying your own [Reclaim Hosting](https://reclaimhosting.com/) account. Reclaim Hosting has a bunch of tools for creating websites, one of which is the automatic installation of WordPress. There are many web hosting services out there, however, for you to look for.
+
+## The Dashboard
+Once you have a WordPress site, you can begin to make changes to that site through the dashboard. One way you can get to the dashboard by adding "/admin" to the end of your site's main URL. Here you will have to enter your administrative username and password.
+
+Once in the dashboard,
 
 ## Choosing a theme
 There are many themes to choose from.
 
 ## Using the Customizer
 The customizer is great for many things including
+
+## Pages Versus Posts
+In WordPress, you will be putting all of your content into either pages or posts. A common mistake students make is making content into posts rather than pages. Pages are for when you want to put content onto a website for others to see and then leave it. Posts are for when you want to chronologically update your website with content, and you want the latest updates to be displayed most prominently. Essentially, posts are for when you want a blog-like website. Pages are for static content you do not plan to update often.
+
+## Content Blocks
 
 ## Creating a Menu
 The organization of your site is one of the most important decisions to make when designing your website. You should think about what sort of content you want to put into your site and how to organize that content within your site. Do you want all of your content on just one page, or do you need to split your content into different section that can be reached from the menu? One way to start creating your menu is to go to Appearance > Menus in the Dashboard:
