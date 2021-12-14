@@ -40,9 +40,15 @@ Once you have your theme selected, you may want to begin customizing certain asp
 Here you can change many options of your theme, and see those options updated in real-time on your website. It is important, however, to recognize that this is not the place to add or change content for your website. For instance, you can change the color of the background for the page, but you can't add paragraphs to the pages content. For specific instructions on how to use the tools of the customizer, check out the [WordPress Documentation on the customizer](https://codex.wordpress.org/Appearance_Customize_Screen).
 
 ## Pages Versus Posts
-In WordPress, you will be putting all of your content into either pages or posts. A common mistake students make is making content into posts rather than pages. Pages are for when you want to put content onto a website for others to see and then leave it. Posts are for when you want to chronologically update your website with content, and you want the latest updates to be displayed most prominently. Essentially, posts are for when you want a blog-like website. Pages are for static content you do not plan to update often.
+In WordPress, you will be putting all of your content into either pages or posts. A common mistake students make is making content into posts rather than pages. Pages are for when you want to put content onto a website for others to see and then leave it. Posts, on the other hand, are for when you want to chronologically update your website with content, and you want the latest updates to be displayed most prominently. Essentially, [posts](https://wordpress.org/support/article/writing-posts/) are for when you want a blog-like website, and [pages](https://wordpress.org/support/article/pages/) are for static content you do not plan to update often.
+
+You can create either a page or a post by going to their respective tab from the dashboard and selecting the **Add New** button.
 
 ## Content Blocks
+When working in either a page or a post, you will add content by using what is refereed to as content blocks.
+
+## Password Protecting a Page
+When working on a WordPress site, there may be content that you do not want viewable to the public, but that you want to be viewed by a professor. It is possible to password protect these pages. 
 
 ## Creating a Menu
 The organization of your site is one of the most important decisions to make when designing your website. You should think about what sort of content you want to put into your site and how to organize that content within your site. Do you want all of your content on just one page, or do you need to split your content into different section that can be reached from the menu? One way to start creating your menu is to go to Appearance > Menus in the Dashboard:
