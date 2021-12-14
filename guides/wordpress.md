@@ -4,7 +4,7 @@ Created by [Zach Francis](https://redfeather.dev/), Brian Geyer, and [Dan Fandin
 
 *Last Updated 12/7/2021*
 
-WordPress is an incredibly popular content management system. What is a content management system? It is exactly what the name implies: it is a system that manages content. Instead of learning HTML, CSS, JavaScript and other coding languages, all you have to focus on is providing your content within WordPress's system. Because WordPress is so popular, there is no shortage of WordPress tutorials accessible online to help you with this goal. With this in mind, we will provide some basic guidance on some of issues we run into the most in LEADR, and list of great resources for you to explore WordPress further.
+WordPress is an incredibly popular content management system. What is a content management system? It is exactly what the name implies: it is a system that manages content. Instead of learning HTML, CSS, JavaScript and other coding languages, all you have to focus on is providing your content within WordPress's system. Because WordPress is so popular, there is no shortage of WordPress tutorials accessible online to help you with this goal (<a href="#resources">see additional resources below</a>). With this in mind, we will provide some basic guidance on some of the most common issues we run into at LEADR. And if you need further help, you can check out the end of this guide for <a href="#resources">a list of additional resources on WordPress.</a>
 
 ## How to install WordPress
 WordPress needs to live somewhere in order for you to be able to use it. This means having a server, and a web address that people can access to get to your WordPress installation. In LEADR, we use services like [MSU Domains](https://domains.cal.msu.edu/) (which is part of a service related to Reclaim Hosting) and [Humanities Commons](https://hcommons.org/) to provide hosting services for WordPress. These services are geared towards college students, but there are a large number of webhosting services out there for everybody.
@@ -14,7 +14,7 @@ If you are looking for web hosting service for your own personal use, we recomme
 ## The Dashboard
 Once you have a WordPress site, you can begin to make changes to that site through the dashboard. One way you can get to the dashboard by adding "/admin" to the end of your site's main URL. Here you will have to enter your administrative username and password.
 
-Once in the dashboard,
+Once you have logged in, you will see the dashboard. Here you can use all of the administrative tools WordPress has to offer to edit and create content for your site.
 
 ## Choosing a theme
 There are many themes to choose from.
@@ -92,18 +92,31 @@ This page has a bunch of options available. "*Allow people to post comments on n
 
 Once finished, be sure to click the "Save Changes" button at the bottom of the page.
 
-## Additional Resources:
+<h2 id="resources">Additional Resources</h2>:
 
-- [How to Disable Comments in WordPress (Step by Step)](https://themeisle.com/blog/disable-comments-in-wordpress/)
-- [Creating a Static Front Page](https://codex.wordpress.org/Creating_a_Static_Front_Page)
-- [WordPress Menu User Guide](https://codex.wordpress.org/WordPress_Menu_User_Guide)
-- [Users Your Profile Screen](https://codex.wordpress.org/Users_Your_Profile_Screen) (scroll to "Account Management" to see information about changing one's password once logged in)
-- [Resetting Your Password](https://codex.wordpress.org/Resetting_Your_Password) (instructions on how to change your password when either logged in already, or when login is impossible because of a forgotten password)
-- [Selecting the Active Theme](https://codex.wordpress.org/Using_Themes#Selecting_the_Active_Theme)
-- [Inserting Media into... Pages](https://codex.wordpress.org/Inserting_Media_into_Posts_and_Pages)
-- [Embeds](https://codex.wordpress.org/Embeds) (for information about automatically embedding YouTube videos and other content)
-- [Appearance Customize Screen](https://codex.wordpress.org/Appearance_Customize_Screen)
-
+- [WordPress Support](https://wordpress.org/support/) - provides support documentation and a search function for looking for answers to WordPress Questions.
+  - [New to WordPress - Where to Start](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
+  - [WordPress Lessons](https://wordpress.org/support/article/wordpress-lessons/)
+  - [Creating a Static Front Page](https://wordpress.org/support/article/creating-a-static-front-page/)
+  - [Appearance Customize Screen](https://codex.wordpress.org/Appearance_Customize_Screen) (The Customizer)
+  - [Using Themes](https://wordpress.org/support/article/using-themes/)
+  - [About Menus](https://wordpress.com/support/menus/)
+  - [Writing Posts](https://wordpress.org/support/article/writing-posts/)
+  - [Pages](https://wordpress.org/support/article/pages/)
+  - [Working With Blocks](https://wordpress.com/support/wordpress-editor/blocks/)
+  - [Plugins](https://wordpress.org/support/article/plugins/)
+  - [Embeds](https://wordpress.org/support/article/embeds/) (for information about automatically embedding YouTube videos and other content)
+  - [Using Permalinks](https://wordpress.org/support/article/using-permalinks/)
+  - [User Profiles](https://wordpress.org/support/article/users-your-profile-screen/)
+  - [Resetting Your Password](https://wordpress.org/support/article/resetting-your-password/) (instructions on how to change your password when either logged in already, or when login is impossible because of a forgotten password)
+- The [Wordpress Codex](https://codex.wordpress.org/Main_Page) - WordPress's manual and living repository for WordPress information. They put a lot of this information into the WordPress Support section of their website, but you may enjoy this organization of their documentation better.
+  - [Getting Started with WordPress](https://codex.wordpress.org/Getting_Started_with_WordPress)
+  - [Frequently Asked Questions](https://codex.wordpress.org/FAQ)
+  - [WordPress Menu User Guide](https://codex.wordpress.org/WordPress_Menu_User_Guide)
+  - [Inserting Media into... Pages](https://codex.wordpress.org/Inserting_Media_into_Posts_and_Pages)
+- [WordPress Developer Documentation](https://developer.wordpress.com/docs/) - For when you get a little too deep into WordPress, and want to start messing with stuff behind the scenes.
+- Other Wordpress Resources :
+  - [How to Disable Comments in WordPress (Step by Step)](https://themeisle.com/blog/disable-comments-in-wordpress/)
 
 -----
 ### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
