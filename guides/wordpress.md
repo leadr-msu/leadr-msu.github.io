@@ -4,7 +4,7 @@ Created by [Zach Francis](https://redfeather.dev/), Brian Geyer, and [Dan Fandin
 
 *Last Updated 12/16/2021*
 
-WordPress is an incredibly popular content management system. What is a content management system? It is exactly what the name implies: it is a system that manages content. Instead of learning HTML, CSS, JavaScript and other coding languages, all you have to focus on is providing your content within WordPress's system. Because WordPress is so popular, there is no shortage of WordPress tutorials accessible online to help you with this goal (<a href="#resources">see additional resources below</a>). With this in mind, we will provide some basic guidance on some of the most common issues we run into at LEADR. This issues are listed below, and link to their respecitve section. And, if you need further help, you can check out the end of this guide for <a href="#resources">a list of additional resources on WordPress.</a>
+WordPress is an incredibly popular content management system. What is a content management system? It is exactly what the name implies: it is a system that manages content. Instead of learning HTML, CSS, JavaScript and other coding languages, all you have to focus on is providing your content within WordPress's system. Because WordPress is so popular, there is no shortage of WordPress tutorials accessible online to help you with this goal (<a href="#resources">see additional resources below</a>). With this in mind, we will provide some basic guidance on some of the most common issues we run into at LEADR. This issues are listed below, and link to their respective section. And, if you need further help, you can check out the end of this guide for <a href="#resources">a list of additional resources on WordPress.</a>
 
 * <a href="#install">How do I install WordPress?</a>
 * <a href="#dashboard">How do I get to the dashboard?</a>
@@ -34,13 +34,13 @@ Once you have logged in, you will see the dashboard. Here you can use all of the
 <img style="border:1px solid black" class="center" src="img/wordpress/dashboard.png" width="80%">
 
 <h2 id="theme">Choosing a Theme</h2>
-As an open source software, any developer can help contribute to WordPress. This has led to a large selection of custom [theme](https://wordpress.org/support/article/using-themes/) and [plugins](https://wordpress.com/support/plugins/) that you can use for your own WordPress site. We don't often use plugins on our sites, but you are welcome to explore plugins yourself for anything usefule. Themes, on the other hand, are prebuilt ways of designing and organizing your website that we use for every project. Some themes are colorful and good at displaying images, while others are more focused on blogging, and still many others provide their own advantages.
+As an open source software, any developer can help contribute to WordPress. This has led to a large selection of custom [theme](https://wordpress.org/support/article/using-themes/) and [plugins](https://wordpress.com/support/plugins/) that you can use for your own WordPress site. We don't often use plugins on our sites, but you are welcome to explore plugins yourself for anything useful. Themes, on the other hand, are prebuilt ways of designing and organizing your website that we use for every project. Some themes are colorful and good at displaying images, while others are more focused on blogging, and still many others provide their own advantages.
 
 The best advice we can give on themes is to not focus on the theme too much. Developers will often fall into the trap of spending multiple hours looking through themes to find the perfect theme for their project. But, what often happens is you end up finding out the theme is not as great for your project as you thought. Instead, we recommend focusing on finding a theme that you can live with, and seeing how building the website goes with that. Put the majority of your effort into developing the content and organization for your website, and then you can always come back later to change your theme with a better idea of what the best options are for your content.
 
 To find a theme you have a couple of options. Option number 1 is to do a google search. Many digital publishers out there will often create lists of the "best" themes for particular uses. For example, you could search for "best WordPress themes for video essays".
 
-The second option for searchig to themes, is to actually search for themes on your WordPress installation. This is also how you will search for any themes you found on google. Any theme you end up deciding to use can be activated by following these steps:
+The second option for searching to themes, is to actually search for themes on your WordPress installation. This is also how you will search for any themes you found on google. Any theme you end up deciding to use can be activated by following these steps:
 1. Go to your dashboard
 2. Go to the *Appearance* tab and select **Themes**
     * Here you will have a selection of themes that are already pre-installed from your institution or web hosting provider. We recommend choosing from these  themes (especially if you are new to WordPress) since they are often vetted beforehand.
@@ -67,7 +67,7 @@ You can create either a page or a post by going to their respective tab from the
 <img style="border:1px solid black" class="center" src="img/wordpress/pages-posts.png" width="40%">
 
 <h2 id="blocks">Building Content with Blocks</h2>
-When working in either a page or a post, you will build your content with what Wordpress calls a visual editor. Essentially it is a page that you can add different types of blocks to in order to build a page or a post. There are text blocks, media blocks, and a whole bunch of other blocks that allow you to build a web page up. The best way to learn how to build a page with blocks is to start practicing with it. Our only reccomendation is to pay attention to block options, which are available directly over a block when you click on it, and to the right of the page where you can access block options for each block. For much more extensive information on particular blocks, check out the [WordPress documentatio on blocks](https://wordpress.com/support/wordpress-editor/blocks/)!
+When working in either a page or a post, you will build your content with what Wordpress calls a visual editor. Essentially it is a page that you can add different types of blocks to in order to build a page or a post. There are text blocks, media blocks, and a whole bunch of other blocks that allow you to build a web page up. The best way to learn how to build a page with blocks is to start practicing with it. Our only recommendation is to pay attention to block options, which are available directly over a block when you click on it, and to the right of the page where you can access block options for each block. For much more extensive information on particular blocks, check out the [WordPress documentation on blocks](https://wordpress.com/support/wordpress-editor/blocks/)!
 
 <img style="border:1px solid black" class="center" src="img/wordpress/blocks.png" width="80%">
 
@@ -166,7 +166,7 @@ Once finished, be sure to click the "Save Changes" button at the bottom of the p
   - [Getting Started with WordPress](https://codex.wordpress.org/Getting_Started_with_WordPress)
   - [Frequently Asked Questions](https://codex.wordpress.org/FAQ)
   - [WordPress Menu User Guide](https://codex.wordpress.org/WordPress_Menu_User_Guide)
-  - [Inserting Media into... Pages](https://codex.wordpress.org/Inserting_Media_into_Posts_and_Pages)
+  - [Inserting Media into Posts and Pages](https://codex.wordpress.org/Inserting_Media_into_Posts_and_Pages)
 - [WordPress Developer Documentation](https://developer.wordpress.com/docs/) - For when you get a little too deep into WordPress, and want to start messing with stuff behind the scenes.
 - Other Wordpress Resources :
   - [How to Disable Comments in WordPress (Step by Step)](https://themeisle.com/blog/disable-comments-in-wordpress/)
