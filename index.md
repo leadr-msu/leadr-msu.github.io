@@ -15,7 +15,7 @@ You may browse our guides by the following categories:
 - [Zoom](https://leadr-msu.github.io/guides/zoom.html)
 
 <h2 id="content">Content Management</h2>
-- [Omeka](https://leadr-msu.github.io/guides/omeka-admin-overview.html)
+- [Omeka Admin Overview](https://leadr-msu.github.io/guides/omeka-admin-overview.html)
 - [Omeka Footnotes Using HTML](https://leadr-msu.github.io/guides/omeka-footnotes.html)
 - [Omeka Items and Exhibits](https://leadr-msu.github.io/guides/omeka-items-and-exhibits.html)
 - [Omeka Pages](https://leadr-msu.github.io/guides/omeka-pages.html)
