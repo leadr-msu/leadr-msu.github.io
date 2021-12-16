@@ -2,8 +2,6 @@
 
 Created by [Daniel Fandino](http://wiredhistory.com/)
 
-Updated by [Zach Francis](https://redfeather.dev/), Ashley Highland
-
 *Last Updated: 10/1/2021*
 
 ## Overview
