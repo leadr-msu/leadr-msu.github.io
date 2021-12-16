@@ -54,7 +54,7 @@ You may browse our guides by the following categories:
   - [Photogrammetry - Mask Creation](https://leadr-msu.github.io/photogrammetry-mask-creation)
 
 <h2 id=programming>Data and Coding</h2>
-- [Active Citations](https://leadr-msu.github.io/active-citations)
+- [Active Citations](https://leadr-msu.github.io/guides/active-citations.html)
 - [Markdown](https://leadr-msu.github.io/guides/markdown.html)
 - [MSU Domains Data Management](https://leadr-msu.github.io/guides/domains-data-management.html)
 - [Twitter Archiving Google Sheet(TAGS)](/guides/tags.md)
