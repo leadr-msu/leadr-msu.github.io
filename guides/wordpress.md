@@ -48,7 +48,7 @@ The second option for searchig to themes, is to actually search for themes on yo
     * If you want to add a new theme, click on the **Add New** button. From here you can browse or search for different themes that you may want for your website.
 3. You can either live preview (see what your website looks like with this theme (the previews are better when you have added content)), or activate an installed theme by hovering over the theme and selecting either **Live Preview** or **Activate**.
 
-<img style="border:1px solid black" class="center" src="img/wordpress/themes.png" width="60%">
+<img style="border:1px solid black" class="center" src="img/wordpress/themes.png" width="80%">
 
 <h2 id="customizer">Using the Customizer</h2>
 Once you have your theme selected, you may want to begin customizing certain aspects of the theme such as colors, titles, menus, etc. Oftentimes, a theme will let you use the customizer to do this. One way to get to the customizer is with the following directions:
