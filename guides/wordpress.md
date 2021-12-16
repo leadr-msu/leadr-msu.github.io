@@ -19,7 +19,7 @@ WordPress is an incredibly popular content management system. What is a content 
 * <a href="#comments">How do I turn off comments on posts?</a>
 * <a href="#resources">Additional resources on WordPress.</a>
 
-<h2 id="install">How to install WordPress</h>
+<h2 id="install">How to install WordPress</h2>
 WordPress needs to live somewhere in order for you to be able to use it. This means having a server, and a web address that people can access to get to your WordPress installation. In LEADR, we use services like [MSU Domains](https://domains.cal.msu.edu/) (which is part of a service related to Reclaim Hosting) and [Humanities Commons](https://hcommons.org/) to provide hosting services for WordPress. These services are geared towards our students at MSU, but there are a large number of web hosting services out there for everybody.
 
 If you are looking for web hosting service for your own personal use, we recommend buying your own [Reclaim Hosting](https://reclaimhosting.com/) account. Reclaim Hosting has a bunch of tools for creating websites, one of which is the automatic installation of WordPress. There are many web hosting services out there, however, for you to look for. Alternatively, WordPress has a bunch of [documentation on different ways to install WordPress](https://wordpress.org/support/category/installation/).
@@ -134,13 +134,13 @@ Once viewing the appropriate area, click on the dropdown icon to access the "Rem
 
 <h2 id="comments">Turning Off Comments</h2>
 
-When using WordPress through MSU Domains, the ability for people to comment on your posts is automatically turned off. You may however want people to be able to comment on you pages and posts if you are creating more of a bloggy website. This section will show you how to enable comments, but be aware of some potential security vulnerabilities by allowing others to contribute content to your site. You will also likely be bombarded by automatically generated spam which can get out of hand if your settings and filters are secure enough. You will like get spam no matEnabling comments can create enormous security vulnerability, in addition to the inconvenience of having one's site constantly bombarded with automatically-generated spam.
+When using WordPress through MSU Domains, the ability for people to comment on your posts is automatically turned off. You may however want people to be able to comment on you pages and posts if you are creating more of a bloggy website. This section will show you how to enable comments, but be aware of some potential security vulnerabilities by allowing others to contribute content to your site. You will also likely be bombarded by automatically generated spam which can get out of hand if your settings and filters are not secure enough.
 
 To get to commenting options, go to Settings > Discussion in the Dashboard:
 
 <br><img style="border:1px solid black" class="center" src="img/wordpress/nav-settings-discussion.png" width="80%"><br>
 
-This page has a bunch of options available. "*Allow people to post comments on new articles*" under "*Default article settings*" will allow you to decide you want people to be able to comment. If you do allow comments on your posts, then we highly recommend that you check the option that "*Comment must be manually approved*" under "*Before a comment appears*". This will ensure that a comment cannot post to the website without your approval.
+This page has a bunch of options available. "*Allow people to submit comments on new posts*" under "*Default post settings*" will allow you to decide you want people to be able to comment. If you do allow comments on your posts, then we highly recommend that you check the option that "*Comment must be manually approved*" under "*Before a comment appears*". This will ensure that a comment cannot post to the website without your approval.
 
 <br><img style="border:1px solid black" class="center" src="img/wordpress/settings-discussion.png" width="80%"><br>
 
