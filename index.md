@@ -55,7 +55,7 @@ You may browse our guides by the following categories:
 
 <h2 id=programming>Data and Coding</h2>
 - [Active Citations](https://leadr-msu.github.io/active-citations)
-- [Markdown](https://leadr-msu.github.io/markdown)
+- [Markdown](https://leadr-msu.github.io/guides/markdown.html)
 - [MSU Domains Data Management](https://leadr-msu.github.io/guides/domains-data-management.html)
 - [Twitter Archiving Google Sheet(TAGS)](/guides/tags.md)
 - [Using GitHub](https://github.com/leadr-msu/github-use-tutorial/wiki)
