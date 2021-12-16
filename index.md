@@ -12,7 +12,7 @@ You may browse our guides by the following categories:
 - [Recording Audio at Home](https://leadr-msu.github.io/guides/audio-recording-at-home.html)
 - [Screen Casting](https://leadr-msu.github.io/guides/screencasting.html)
 - [Windows Video Editor](https://leadr-msu.github.io/guides/windows-video-editor.html)
-- [Zoom](https://leadr-msu.github.io/zoom)
+- [Zoom](https://leadr-msu.github.io/guides/zoom.html)
 
 <h2 id="content">Content Management</h2>
 - [Omeka](https://leadr-msu.github.io/omeka)
