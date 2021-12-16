@@ -2,7 +2,7 @@
 
 Created by [Alice Lynn McMichael](https://amcmichael.commons.gc.cuny.edu/)
 
-*Last Updated: 12/16/2021*
+*Last Updated: 12/16/2017*
 
 _These are some loose guidelines to use in LEADR workshops for students who need to use images in class projects. The information here could also apply to media other than images: sound files, videos, 3D models, multi-media projects, or even data sets. There are two threads to the discussion: attribution (academic citation) and reuse (licensing and rights). Be sure to remind students that this is not legal advice (for that they would need a copyright lawyer), and for further information they can consult a copyright librarian._
 
