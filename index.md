@@ -65,7 +65,7 @@ You may browse our guides by the following categories:
 <h2 id="writing">Writing and Citation</h2>
 - [Citations - Best Practices](https://leadr-msu.github.io/citations-best-practices)
 - [Conference Posters](https://leadr-msu.github.io/guides/conference-posters.html)
-- [Digital Public Writing](https://leadr-msu.github.io/digitalpublicwriting)
+- [Digital Public Writing](https://leadr-msu.github.io/guides/digital-public-writing.html)
 - [PDF Compiling and Linking Tutorial](https://leadr-msu.github.io/pdf-compiling-and-linking-tutorial)
 - [Reusing and Attributing Media](https://leadr-msu.github.io/reusing-attributing-media)
 - [Wikipedia Editing](https://leadr-msu.github.io/wikipedia-editing)
