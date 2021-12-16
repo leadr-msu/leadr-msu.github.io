@@ -6,7 +6,7 @@ You may browse our guides by the following categories:
 
 <h2 id="audiovisual">Audiovisual Media</h2>
 - [Editing Audio with Audacity](https://leadr-msu.github.io/guides/audacity.html)
-- [iMovie: Green Screen](https://leadr-msu.github.io/imovie_greenscreen)
+- [iMovie: Green Screen](https://leadr-msu.github.io/guides/imovie-greenscreen.html)
 - [iMovie: Overview](https://leadr-msu.github.io/guides/imovietutorial.html)
 - [MediaSpace](https://leadr-msu.github.io/mediaspace)
 - [Recording Audio at Home](https://leadr-msu.github.io/guides/audio-recording-at-home.html)
