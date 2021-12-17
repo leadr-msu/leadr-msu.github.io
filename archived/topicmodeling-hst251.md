@@ -1,7 +1,7 @@
 # Manually Topic Modeling Panama Papers News Coverage
 Created by Brandon Locke
 <br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
-<!-- I accidentally deleted this entire repository instead of archiving it, so this is the only record of this repo now. Whoops. put the readme file for this in the files folder. -->
+<!-- I accidentally deleted this entire repository instead of archiving it, so this is the only record of this repo now. Whoops. Put the readme file for this in the files folder. -->
 *Last Updated: 12/16/2017*
 
 ## Learning Goals
