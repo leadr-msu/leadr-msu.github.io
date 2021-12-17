@@ -61,7 +61,7 @@ You may browse our guides by the following categories:
 - [Wikipedia Editing](https://leadr-msu.github.io/wikipedia-editing)
 
 <h2 id="archived">Archived Guides</h2>
-*These guides are older guides that have not been updated in a while, but may have some use:*
+*These guides are older guides that have not been updated in a while, but may still be useful:*
 - [Omeka Admin Overview](https://leadr-msu.github.io/archived/omeka-admin-overview.html)
 - [HST 201 - Data Visualization East African Slave Voyages with Tableau](https://leadr-msu.github.io/archived/data-visualization-east-african-slave-voyages.html)
 - [HST 251 Course Guide - Geospatial Data](https://leadr-msu.github.io/hst251-geospatialdata)
