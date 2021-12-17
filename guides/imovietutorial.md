@@ -1,4 +1,4 @@
-# iMovieTutorial
+# iMovie Tutorial
 
 Created by Dawson McCall and updated by Daniel Fandino
 
