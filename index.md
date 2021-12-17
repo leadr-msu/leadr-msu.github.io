@@ -66,7 +66,7 @@ You may browse our guides by the following categories:
 - [HST 201 - Data Visualization East African Slave Voyages with Tableau](https://leadr-msu.github.io/archived/data-visualization-east-african-slave-voyages.html)
 - [HST 251 Course Guide - Geospatial Data](https://leadr-msu.github.io/hst251-geospatialdata)
 - [HST 251 Course Guide - Numismatic Visualization](https://leadr-msu.github.io/hst251-numismaticviz)
-- [HST 251 Course Guide - Topic Modeling](https://leadr-msu.github.io/topicmodeling-hst251)
+- [HST 251 Course Guide - Topic Modeling](https://leadr-msu.github.io/archived/topicmodeling-hst251.html)
 - [HST 390 Course Guide - TimelineJS - History of International Relations](https://leadr-msu.github.io/timelinejs-hst390-international-relations)
 - [TE 991 Course Guide - Oral Histories](https://leadr-msu.github.io/oral-history-publication-te991)
 - [Visualizing Public Data - Eating Industrial](https://leadr-msu.github.io/visualizing-public-data-eating-industrial)
