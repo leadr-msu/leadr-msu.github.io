@@ -1,7 +1,9 @@
 # Active Citations
 Prepared by Sara Bijani
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 12/16/2017*
+
 
 Like any academic project, your webpages need to properly acknowledge your sources. The most straightforward way to do this is to provide a bracketed number ([1]) after the text being cited, and to manually insert the citation at the bottom of your document (1. Your Citation). Unlike a printed document from a static word processor, however, your web citations can easily be made interactive. The examples below offer three different ways of presenting online citations, with increasing complexity.
 
@@ -15,7 +17,7 @@ Rather than using plain text as you would in a word processor, you can take adva
 
 
 
-This functions as an anchor tag, not a link. After your footnotes are named, you will need to make the footnote marker (for example: “[1]”) into a tag that refers to the appropriate named section. The basic script to accomplish this uses the # sign, as follows: 
+This functions as an anchor tag, not a link. After your footnotes are named, you will need to make the footnote marker (for example: “[1]”) into a tag that refers to the appropriate named section. The basic script to accomplish this uses the # sign, as follows:
 
 
     <p>Text of cited sentence.

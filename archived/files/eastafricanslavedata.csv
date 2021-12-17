@@ -1,0 +1,929 @@
+voyageid,shipname,nationality,captain,date_dep,principal_place_of_slave_purchase,principal_place_of_slave_landing,principal_region_of_slave_landing,total_slaves_embarked,total_slaves_disembarked,percentmen,percentwomen,percentboy,percentgirl,percentchild,slave_deaths_during_middle_passage
+1,Pastora de Lima,Portugal,"Dias, Manoel José",1816-08-04,Mozambique,"Bahia, port unspecified",Bahia,404,290,,,,,,114
+2,Tibério,,"Mata, José Maria da",1816-07-11,Mozambique,"Bahia, port unspecified",Bahia,246,223,,,,,,
+4,Bom Caminho,,"Dias, Domingos Francisco",1816-07-06,Quilimane,"Bahia, port unspecified",Bahia,381,342,,,,,,39
+6,Voador,,,,Mozambique,"Bahia, port unspecified",Bahia,557,515,,,,,,
+21,Esgueira,,"Domingues, Jerônimo",,Quilimane,Rio de Janeiro,Southeast Brazil,607,521,,,,,,86
+31,Resolução,,"Gomes, Manoel José",1816-08-08,Mozambique,Rio de Janeiro,Southeast Brazil,401,354,,,,,,47
+55,Duque de Bragança,,"Souza, Luís Inácio de",1817-05-18,Mozambique,Rio de Janeiro,Southeast Brazil,606,537,,,,,,69
+58,Protetor General,,"Silva, José dos Santos Almeida e",1816-11-02,Mozambique,Rio de Janeiro,Southeast Brazil,807,468,,,,,,339
+61,Pérola do Norte,,"Barbosa, Joaquim Gomes",1816-08-05,Mozambique,Rio de Janeiro,Southeast Brazil,421,260,,,,,,161
+62,Esgueira,,"Domingues, Jerônimo",1817-06-14,Quilimane,Cabo de Búzios,Southeast Brazil,584,500,,,,,,84
+69,Pastora de Lima,,"Cunha, Eusébio José da",1817-06-08,Mozambique,Rio de Janeiro,Southeast Brazil,479,400,,,,,,79
+70,Aurora do Cabo,,"Pederneira, Manoel Pereira",1817-08-23,Quilimane,Rio de Janeiro,Southeast Brazil,430,341,,,,,,89
+76,S José Diligente,,"Nunes, Francisco Pereira",1817-06-11,Quilimane,Rio de Janeiro,Southeast Brazil,464,226,,,,,,238
+87,União Feliz,,"Silva, Joaquim José da; Caldeira, Antônio Gomes; Teixeira, Jacinto Alves",1817-09-10,Mozambique,Rio de Janeiro,Southeast Brazil,659,430,,,,,,229
+109,Esgueira,,"Silva, José dos Santos Almeida e",1818-05-07,Mozambique,Rio de Janeiro,Southeast Brazil,544,396,,,,,,148
+111,Serpente,,"Cunha, Eusébio José da",1818-05-08,Mozambique,Rio de Janeiro,Southeast Brazil,375,293,,,,,,82
+136,Aurora do Cabo,,"Pacheco, José Emídio Adauto; Ferreira, João Antônio",1821-04-28,Mozambique,Rio de Janeiro,Southeast Brazil,492,298,,,,,,194
+137,S Filipe Londoffe,,,,Mozambique,Rio de Janeiro,Southeast Brazil,428,413,,,,,,15
+140,Amazona,,"Silva, Manoel Lopes da; Viana, Manoel Goncalves",1821-07-19,Mozambique,Rio de Janeiro,Southeast Brazil,465,422,,,,,,43
+141,NS da Conceição Esperança,Portugal,"Carvalho, Agostinho J",1820-07-26,Mozambique,Rio de Janeiro,Southeast Brazil,389,265,,,,,,124
+144,Triunfo do Brasil,,"Carrilho, João Rodrigues",1821-05-29,Mozambique,Rio de Janeiro,Southeast Brazil,532,401,,,,,,131
+145,NS da Guia,,"Silva, José Jorge da",1821-06-14,Quilimane,Rio de Janeiro,Southeast Brazil,529,436,,,,,,93
+147,Ulisses,,"Viana, Pedro José Correa",1821-06-14,Mozambique,Rio de Janeiro,Southeast Brazil,631,418,,,,,,213
+149,Zéfiro,,"Melo, José Antônio de; Costa, Domingos Luís da",1821-08-14,Quilimane,Rio de Janeiro,Southeast Brazil,504,483,,,,,,21
+151,Leopoldina,,"Menezes, Antônio Joaquim de",1821-??-??,Quilimane,Rio de Janeiro,Southeast Brazil,481,448,,,,,,33
+152,Mariana,,"Domingues, Jerônimo",1821-06-21,Mozambique,Rio de Janeiro,Southeast Brazil,520,380,,,,,,140
+153,Minerva,,"Souza, Antônio José de",1821-08-04,Quilimane,Rio de Janeiro,Southeast Brazil,577,475,,,,,,102
+156,Vinte e Seis de Fevereiro,,"Branco, Paulo José",1821-07-03,Mozambique,Rio de Janeiro,Southeast Brazil,623,455,,,,,,168
+159,General Silveira,,"Freitas, Antônio Lourenço de; Vale, João Gomes",,Quilimane,Rio de Janeiro,Southeast Brazil,460,406,,,,,,54
+160,Conde dos Arcos,,"Luz, Antônio da",1821-09-25,Quilimane,Rio de Janeiro,Southeast Brazil,477,425,,,,,,52
+162,Feliz Eugênia,,"Fogaça, Antônio Gomes",1821-07-17,Mozambique,Rio de Janeiro,Southeast Brazil,672,455,,,,,,217
+166,NS do Baluarte,Portugal,"Pinheiro, Luís José Soares",,Quilimane,Rio de Janeiro,Southeast Brazil,418,203,,,,,,215
+193,Aurora do Cabo,,"Pacheco, José Emídio Adauto; Vale, João Gomes",1822-05-??,Quilimane,Rio de Janeiro,Southeast Brazil,497,452,,,,,,45
+195,Africano Constitucional,,,,Quilimane,Rio de Janeiro,Southeast Brazil,639,590,,,,,,49
+241,Lucônia,,"Costa, Desidério Manoel da",1820-08-10,Mozambique,Rio de Janeiro,Southeast Brazil,346,241,,,,,,105
+242,Duque de Bragança,,"Gomes, Manoel José",1820-06-04,Mozambique,Rio de Janeiro,Southeast Brazil,508,270,,,,,,238
+243,Paquete do Rio,,"Santos, Casemiro Lúcio dos; Castro, Henrique José de",1820-04-28,Quilimane,Rio de Janeiro,Southeast Brazil,476,311,,,,,,165
+244, ,,,,Quilimane,Rio de Janeiro,Southeast Brazil,451,385,,,,,,66
+245,Minerva,,"Cardoso, Manoel; Souza, Antônio José de",1820-06-12,Quilimane,Rio de Janeiro,Southeast Brazil,432,290,,,,,,142
+246,Júlia,,"Cunha, Eusébio José da",,Quilimane,Rio de Janeiro,Southeast Brazil,433,291,,,,,,142
+247,Feliz Carlota,,"Oliveira, Ventura José de",1820-06-17,Quilimane,Rio de Janeiro,Southeast Brazil,434,267,,,,,,167
+248,Pastora de Lima,,"Luz, Antônio da",1820-08-09,Quilimane,Rio de Janeiro,Southeast Brazil,337,260,,,,,,77
+251,Leopoldina,,"Silva, João Henriques da",1820-07-19,Quilimane,Rio de Janeiro,Southeast Brazil,455,433,,,,,,22
+252,Esperança,,"Loureiro, Joaquim José da Silva",1820-08-05,Quilimane,Rio de Janeiro,Southeast Brazil,581,385,,,,,,196
+255,NS da Guia Morgado do Almeo,,"Silva, José Jorge da",1820-06-16,Quilimane,Rio de Janeiro,Southeast Brazil,450,430,,,,,,20
+256,Grão Penedo,,"Oliveira, Sérgio Ferreira de",1820-08-04,Quilimane,Rio de Janeiro,Southeast Brazil,374,281,,,,,,93
+260,NS do Baluarte,,"Castro, Nicolau Joaquim de",,Mozambique,Rio de Janeiro,Southeast Brazil,375,365,,,,,,10
+262, ,,,,"Southeast Africa and Indian Ocean islands, port unspecified",Rio de Janeiro,Southeast Brazil,450,429,,,,,,21
+282,Feliz Americano,,"Henriques, João Militão",1821-05-10,Quilimane,Rio de Janeiro,Southeast Brazil,492,446,,,,,,
+283,Polifemo,,"Pedrosa, Manoel Carvalho",1821-05-16,Mozambique,Rio de Janeiro,Southeast Brazil,394,394,,,,,,
+286,Novo Despique,,"Teixeira, Jacinto Alves",,Mozambique,Rio de Janeiro,Southeast Brazil,450,322,,,,,,128
+289,Delfim,Portugal,"Almeida, Francisco Joaquim de",,Mozambique,Maranhão,Amazonia,221,137,,,,,,84
+297,Santana Flor de Cintra,,"Martins, Diogo Cândido",1821-09-10,Mozambique,Rio de Janeiro,Southeast Brazil,492,440,,,,,,52
+298,Zéfiro,,"Monteiro, José Albuquerque Xavier",1822-07-05,Quilimane,Rio de Janeiro,Southeast Brazil,416,407,,,,,,9
+300,Príncipe Regente,,"Pedrosa, Manoel Carvalho",1822-06-06,Mozambique,Rio de Janeiro,Southeast Brazil,733,689,,,,,,44
+301,Trajano,,"Cunha, Eusébio José da",1822-06-16,Quilimane,Rio de Janeiro,Southeast Brazil,517,493,,,,,,24
+304,Amazona,,"Ferreira, Antônio José; Branco, Antônio Pires",1822-07-16,Mozambique,Rio de Janeiro,Southeast Brazil,465,457,,,,,,8
+305,Mariana,,"Domingues, Jerônimo",1822-07-25,Mozambique,Rio de Janeiro,Southeast Brazil,520,441,,,,,,79
+306,Nove de Janeiro,,"Almeida, Antônio Pedro de",1822-07-02,Mozambique,Rio de Janeiro,Southeast Brazil,594,528,,,,,,66
+307,Leopoldina,,"Menezes, Antônio Joaquim de",,Quilimane,Rio de Janeiro,Southeast Brazil,481,280,,,,,,201
+308,Minerva,,"Braga, João Ribeiro de Castro",1822-07-22,Quilimane,Rio de Janeiro,Southeast Brazil,440,395,,,,,,45
+309,NS da Guia,,"Silva, José Jorge da",1822-05-22,Quilimane,Rio de Janeiro,Southeast Brazil,338,240,,,,,,98
+315,Santana Flor de Luanda,,"Lontra, Rafael Inácio da Fonseca",1822-07-10,Mozambique,Rio de Janeiro,Southeast Brazil,519,433,,,,,,86
+316,Novo Despique,,"Teixeira, Jacinto Alves",,Mozambique,Rio de Janeiro,Southeast Brazil,440,436,,,,,,4
+331,Africano Constitucional,,"Henriques, João Militão",1823-05-13,Quilimane,Rio de Janeiro,Southeast Brazil,758,744,,,,,,14
+332,Príncipe Regente,,"Pereira, Francisco Manoel",,Mozambique,Rio de Janeiro,Southeast Brazil,735,607,,,,,,128
+368,Bella Dolores,Spain,"Guerrero, Antonio",1824-07-11,Madagascar,Havana,Cuba,220,210,,,,,,
+371,Belisário,,"Vitório, Augusto José",,Mozambique,"Bahia, port unspecified",Bahia,336,300,,,,,,
+383,Vigilante,,"Carvalho, Francisco Cândido da Silva e",1823-07-03,Mozambique,Rio de Janeiro,Southeast Brazil,596,474,,,,,,122
+385,Minerva,,"Braga, João Ribeiro de Castro",1823-08-05,Quilimane,Rio de Janeiro,Southeast Brazil,517,378,,,,,,139
+386,Nove de Janeiro,,"Lontra, Rafael Inácio da Fonseca",1823-06-29,Mozambique,Rio de Janeiro,Southeast Brazil,596,487,,,,,,109
+391,Império do Brasil,,"Menezes, Antônio Joaquim de",1823-07-13,Quilimane,Rio de Janeiro,Southeast Brazil,404,337,,,,,,67
+393,Conde dos Arcos,,"Matos, João Vieira Barão de",1823-07-31,Quilimane,Rio de Janeiro,Southeast Brazil,446,338,,,,,,108
+394,Zéfiro,Portugal,"Souza, Antônio Ferreira de",1823-08-18,Quilimane,Rio de Janeiro,Southeast Brazil,518,477,,,,,,41
+395,Trajano,Brazil,"Silva, Manoel Francisco da",1823-06-04,Quilimane,Rio de Janeiro,Southeast Brazil,536,413,,,,,,123
+397,Adamastor,,"Lopes, Francisco da Silva",1823-05-28,Quilimane,Rio de Janeiro,Southeast Brazil,448,262,,,,,,186
+399,Vinte e Seis de Fevereiro,,"Branco, Paulo José",1823-05-07,Mozambique,Rio de Janeiro,Southeast Brazil,612,545,,,,,,67
+402,Visconde de S Lourenço,,"Cunha, Eusébio José da",1823-10-09,Quilimane,Rio de Janeiro,Southeast Brazil,403,356,,,,,,47
+403,Quatro de Abril,,"Luz, José Joaquim da",1823-07-10,Mozambique,Rio de Janeiro,Southeast Brazil,627,488,,,,,,139
+404,NS da Guia,,"Silva, Joaquim Arsênio da",1823-07-17,Quilimane,Rio de Janeiro,Southeast Brazil,496,195,,,,,,301
+437,Príncipe Regente,,"Bondoso, Antônio José",1824-04-25,Mozambique,Rio de Janeiro,Southeast Brazil,742,708,,,,,,34
+496,Sete de Março,,"Teixeira, Jacinto Alves",,Mozambique,Rio de Janeiro,Southeast Brazil,92,92,,,,,,
+497,Vigilante,,"Carvalho, Francisco Cândido da Silva e",1824-05-20,Mozambique,Rio de Janeiro,Southeast Brazil,622,577,,,,,,45
+498,Africano Constitucional,,"Monteiro, Alexandre Correa Cardoso",1824-05-12,Quilimane,Rio de Janeiro,Southeast Brazil,795,726,,,,,,69
+499,Seis de Fevereiro,,"Moreira, José Lopes da Costa (Jr)",1824-05-26,Mozambique,Rio de Janeiro,Southeast Brazil,414,361,,,,,,53
+501,Adamastor,Portugal,"Santos, Antônio Teodoro dos",,Mozambique,Rio de Janeiro,Southeast Brazil,492,487,,,,,,5
+504,Conde dos Arcos,,"Silva, João Paulino da",1824-07-20,Mozambique,Rio de Janeiro,Southeast Brazil,555,513,,,,,,42
+505,Nove de Janeiro,,"Lontra, Rafael Inácio da Fonseca",1824-06-29,Mozambique,Rio de Janeiro,Southeast Brazil,594,572,,,,,,22
+506,Vulcano,,"Ferreira, Antônio José",1824-06-27,Quilimane,Rio de Janeiro,Southeast Brazil,568,504,35.0%,13.0%,32.0%,20.0%,52.0%,64
+508,S Antônio Triunfo,,"Raposo, Antônio Joaquim da Silva",,Quilimane,Rio de Janeiro,Southeast Brazil,401,298,,,,,,103
+510,Minerva,,"Braga, João Ribeiro de Castro; Barreiros, Antônio de Oliveira",1824-08-10,Quilimane,Rio de Janeiro,Southeast Brazil,516,469,,,,,,47
+513,Conde dos Arcos,,"Monteiro, Caetano Francisco",1824-08-16,Quilimane,Rio de Janeiro,Southeast Brazil,400,375,,,,,,25
+515,Trajano,,"Silva, Manoel Francisco da",1824-06-14,Quilimane,Rio de Janeiro,Southeast Brazil,545,377,,,,,,168
+518,Despique,,"Vieira, Constantino Gomes; Santos, Manoel Pereira dos",1824-08-09,Mozambique,Rio de Janeiro,Southeast Brazil,563,421,,,,,,142
+522,NS da Guia,,"Andrade, José Freire Alves de",1824-09-16,Quilimane,Rio de Janeiro,Southeast Brazil,405,307,,,,,,98
+527,Imperador do Brasil,,"Martins, Joaquim Custódio; Salgado, Aleixo Gomes",1824-09-25,Quilimane,Rio de Janeiro,Southeast Brazil,425,227,,,,,,198
+551,Duarte Pacheco,,"Cunha, Manoel Lopes da",,Mozambique,Rio de Janeiro,Southeast Brazil,560,535,,,,,,25
+553,Sete de Março,,"Rodrigues, Francisco de Paula",,Mozambique,Rio de Janeiro,Southeast Brazil,353,335,,,,,,18
+564,Amizade dos Santos,Brazil,,,Quilimane,Rio de Janeiro,Southeast Brazil,402,345,,,,,,57
+612,Aníbal,,"Cera, Antônio José Ferreira",,Mozambique,Rio de Janeiro,Southeast Brazil,999,859,,,,,,140
+613,Vinte e Oito de Março,,"Sales, Joaquim de",1826-07-10,Quilimane,Rio de Janeiro,Southeast Brazil,448,446,,,,,,2
+615,Seis de Fevereiro,,"Mendonça, Francisco de Assis",,Quilimane,Rio de Janeiro,Southeast Brazil,440,419,,,,,,21
+616,Bahia,,,,Quilimane,Rio de Janeiro,Southeast Brazil,335,287,,,,,,48
+622,Minerva,,"Braga, João Ribeiro de Castro",,Quilimane,Rio de Janeiro,Southeast Brazil,507,489,,,,,,18
+623,Amália,,"Teixeira, José de Souza",1826-06-??,Mozambique,Rio de Janeiro,Southeast Brazil,770,684,,,,,,86
+627,Nove de Janeiro,,"Santos, Rafael Inácio da Fonseca",1826-06-26,Mozambique,Rio de Janeiro,Southeast Brazil,672,592,,,,,,80
+711,Indústria,,"Castro, João Guilherme de",1827-04-10,Inhambane,Rio de Janeiro,Southeast Brazil,665,657,,,,,,8
+713,Vinte e Oito de Março,,"Sales, Joaquim de",1827-05-08,Quilimane,Rio de Janeiro,Southeast Brazil,504,490,,,,,,14
+717,Sete de Março,,"Rodrigues, Francisco de Paula",1827-03-16,Mozambique,Rio de Janeiro,Southeast Brazil,604,517,,,,,,87
+719,Golfinho,,"Monteiro, Alexandre Correa Cardoso",1827-05-19,Quilimane,Rio de Janeiro,Southeast Brazil,549,509,,,,,,40
+720,Aníbal,,"Cera, Antônio José Ferreira",1827-06-06,Mozambique,Rio de Janeiro,Southeast Brazil,836,746,,,,,,90
+722,Flor de Moçambique,,"Campos, João José da Silva",1827-08-13,Mozambique,Rio de Janeiro,Southeast Brazil,644,612,,,,,,32
+725,Seis de Fevereiro,,"Mendonça, Francisco de Assis",1827-07-05,Quilimane,Rio de Janeiro,Southeast Brazil,430,413,,,,,,17
+734,Hércules (a) Vulcano,,"Lima, Francisco José Esteves de; Chaves, José de Freitas",,Quilimane,Rio de Janeiro,Southeast Brazil,592,550,,,,,,42
+739,Viajante,,"Silva, Manoel Francisco da",,Quilimane,Rio de Janeiro,Southeast Brazil,636,512,,,,,,124
+740,Minerva,,"Braga, João Ribeiro de Castro",1827-10-01,Quilimane,Rio de Janeiro,Southeast Brazil,466,425,,,,,,41
+743,Quatro de Abril,,"Lontra, Rafael Inácio da Fonseca",1827-08-13,Mozambique,Rio de Janeiro,Southeast Brazil,663,604,,,,,,59
+821,Novo Comerciante,,"Henriques, João Militão",1828-04-15,Quilimane,Rio de Janeiro,Southeast Brazil,590,545,,,,,,45
+827,Mariana,,"Maia, José Ferreira",1828-02-??,Mozambique,Rio de Janeiro,Southeast Brazil,400,400,,,,,,
+830,Fluminense,,"Machado, Francisco Domingos",,Mozambique,Rio de Janeiro,Southeast Brazil,472,426,,,,,,46
+832,Dezenove de Março,,"Falcão, José Moreira",1828-05-25,Mozambique,Rio de Janeiro,Southeast Brazil,619,603,,,,,,16
+833,Amizade,,"Andrade, José Ferreira de",,Quilimane,Rio de Janeiro,Southeast Brazil,549,549,,,,,,
+837,Amália,,"Teixeira, José de Souza",1828-03-??,Mozambique,Rio de Janeiro,Southeast Brazil,640,510,,,,,,130
+840,Indústria,,"Fonseca, José Simões da; Castro, João Guilherme de",1828-02-??,Inhambane,Rio de Janeiro,Southeast Brazil,496,479,,,,,,17
+841,Três Corações,,"Mota, Cândido José da",,Mozambique,Rio de Janeiro,Southeast Brazil,649,555,,,,,,94
+842,Aníbal,,"Ferreira, Antônio José",1828-05-25,Mozambique,Rio de Janeiro,Southeast Brazil,547,528,,,,,,19
+845,Vinte e Oito de Março,,"Sales, Joaquim de",1828-04-??,Quilimane,Rio de Janeiro,Southeast Brazil,520,435,,,,,,85
+846,Indústria,,"Catalão, José Guilherme; Fonseca, José Simões da",1828-03-11,Inhambane,Rio de Janeiro,Southeast Brazil,733,730,,,,,,3
+853,Flor de Moçambique,,"Monteiro, Alexandre Correa Cardoso",1828-06-20,Mozambique,Rio de Janeiro,Southeast Brazil,716,633,,,,,,83
+854,D Manoel de Portugal e Castro,,"Fidalgo, Francisco da Costa",,Quilimane,Rio de Janeiro,Southeast Brazil,514,398,,,,,,116
+855,Sete de Março,,"Rodrigues, Francisco de Paula",,Mozambique,Rio de Janeiro,Southeast Brazil,847,679,,,,,,168
+857,Seis de Fevereiro,,"Mendonça, Francisco de Assis",1828-06-??,Quilimane,Rio de Janeiro,Southeast Brazil,430,404,,,,,,26
+858,Quatro de Abril,,"Lontra, Rafael Inácio da Fonseca",,Mozambique,Rio de Janeiro,Southeast Brazil,901,688,,,,,,213
+859,Aurora do Cabo,,"Raposo, Antônio Joaquim da Silva",1828-08-??,Quilimane,Rio de Janeiro,Southeast Brazil,473,400,,,,,,73
+862,Conde de Souzel,,"Silveira, Matias José da",1828-04-15,Mozambique,Rio de Janeiro,Southeast Brazil,905,738,,,,,,167
+865,Afonso de Albuquerque,,"Monteiro, Raimundo Eustáquio",,Mozambique,Rio de Janeiro,Southeast Brazil,286,240,,,,,,46
+869,Minerva,,"Braga, João Ribeiro de Castro",1828-08-20,Quilimane,Rio de Janeiro,Southeast Brazil,480,296,,,,,,184
+874,Hércules (a) Vulcano,,"Chaves, José de Freitas",1828-09-05,Quilimane,Rio de Janeiro,Southeast Brazil,526,497,,,,,,29
+875,Império do Brasil,,"Mendonça, Joaquim de Santana Garcia de; Machado, C de S",1828-06-??,Quilimane,Rio de Janeiro,Southeast Brazil,425,369,,,,,,56
+902,Ceres,,"Ferreira, Antônio Xavier",1828-08-20,Mozambique,Rio de Janeiro,Southeast Brazil,1188,1148,,,,,,40
+905,Epifania,Brazil,"Matos, J de D; Carvalho, Miguel Alves de",,Mozambique,Rio de Janeiro,Southeast Brazil,156,119,,,,,,37
+915,Astrea,Brazil,"Franco, Joaquim Antônio",,Quilimane,Rio de Janeiro,Southeast Brazil,867,679,,,,,,188
+928,Cambuatá,Brazil,"Souza, Joao Pedro de",1828-05-08,Mozambique,Rio de Janeiro,Southeast Brazil,376,248,,,,,,128
+929,Zéfiro,,"Luz, Antônio José da",1828-08-31,Mozambique,Rio de Janeiro,Southeast Brazil,519,501,,,,,,18
+987,Maria Teresa,,"Santos, Vicente Tomás dos",1828-03-20,Lourenço Marques,Rio de Janeiro,Southeast Brazil,282,237,,,,,,45
+1002,Fluminense,,"Machado, Francisco Domingos",,Lourenço Marques,Rio de Janeiro,Southeast Brazil,674,671,,,,,,3
+1007,Mariana,,"Perfeito, Joaquim Albino Gonçalves",,Lourenço Marques,Rio de Janeiro,Southeast Brazil,558,538,,,,,,20
+1016,Polifemo,,"Gervásio, Joaquim",,Mozambique,Rio de Janeiro,Southeast Brazil,430,396,,,,,,34
+1017,Novo Comerciante,,"Henriques, João Militão",,Quilimane,Rio de Janeiro,Southeast Brazil,550,474,,,,,,76
+1018,Indústria,,"Fonseca, José Simões da",,Inhambane,Rio de Janeiro,Southeast Brazil,600,567,,,,,,33
+1019,Amália,,"Maia, Jose Ferreira",,Lourenço Marques,Rio de Janeiro,Southeast Brazil,800,783,,,,,,17
+1022,Dezenove de Março,,"Falcão, José Moreira",,Lourenço Marques,Rio de Janeiro,Southeast Brazil,638,541,,,,,,97
+1024,Trinta de Março,,"Pinheiro, Luís José Soares",,Quilimane,Rio de Janeiro,Southeast Brazil,602,567,,,,,,35
+1026,Maria Segunda,,"Madruga, Francisco Pereira Nunes",,Mozambique,Rio de Janeiro,Southeast Brazil,297,210,,,,,,87
+1027,Formosura,,"Bondoso, Antônio José; Rodrigo, Antônio José",,Quilimane,Rio de Janeiro,Southeast Brazil,658,587,,,,,,71
+1036,D Manoel de Portugal,,"Sales, Joaquim de",,Quilimane,Rio de Janeiro,Southeast Brazil,505,486,,,,,,19
+1037,Vulcano,,"Chaves, José de Freitas",,Quilimane,Rio de Janeiro,Southeast Brazil,634,620,,,,,,14
+1039,Seis de Fevereiro,,"Mendonça, Francisco de Assis",,Quilimane,Rio de Janeiro,Southeast Brazil,480,463,,,,,,17
+1043,Vinte e Oito de Março,,"Moreira, José Lopes da Costa (Jr)",,Inhambane,Rio de Janeiro,Southeast Brazil,517,380,,,,,,137
+1045,Novo Indústria,,"Martins, Januário Francisco",,Inhambane,Rio de Janeiro,Southeast Brazil,594,571,,,,,,23
+1049,Amizade,,"Martins, Joaquim",,Quilimane,Rio de Janeiro,Southeast Brazil,636,625,,,,,,11
+1050,Novo Paquete,,"Fontes, Joaquim dos Santos",,Inhambane,Rio de Janeiro,Southeast Brazil,623,586,,,,,,37
+1051,Conde de Souzel,,"Monteiro, Alexandre Correa Cardoso",,Mozambique,Rio de Janeiro,Southeast Brazil,1166,1043,,,,,,123
+1053,Zarro,,"Câncio, José João",,Quilimane,Rio de Janeiro,Southeast Brazil,559,460,,,,,,99
+1055,Vitória,,"Oliveira, Ventura José de",1828-08-20,Quilimane,Rio de Janeiro,Southeast Brazil,426,274,,,,,,152
+1057,Quatro de Abril,,"Lontra, Rafael Inácio da Fonseca",,Mozambique,Rio de Janeiro,Southeast Brazil,935,753,,,,,,182
+1067,Minerva,,"Barreiros, Antônio de Oliveira",,Quilimane,Rio de Janeiro,Southeast Brazil,434,414,,,,,,20
+1073,Lobo,,"Poltieres, Luís Clemente",,Costa Leste Occidental,Rio de Janeiro,Southeast Brazil,99,79,,,,,,20
+1083,Conde do Rio Pardo,,"Fidalgo, Francisco de Paulo",,Inhambane,Rio de Janeiro,Southeast Brazil,572,441,,,,,,131
+1091,Império do Brasil,,"Miranda, Joaquim de Santana de Garcia de",1829-08-??,Quilimane,Rio de Janeiro,Southeast Brazil,425,362,,,,,,63
+1093,Incomparável,,"Alves, Estevão José",,Mozambique,Rio de Janeiro,Southeast Brazil,440,394,,,,,,46
+1095,Astrea,,"Alves, Augusto Fernandes",,Mozambique,Rio de Janeiro,Southeast Brazil,864,605,,,,,,259
+1104,Águia da América,,"Bastos, Manoel Rodrigues",,Lourenço Marques,Rio de Janeiro,Southeast Brazil,599,591,,,,,,8
+1106,Aviso Oriental,,"Lima, José Pereira Ribeiro",,Mozambique,Rio de Janeiro,Southeast Brazil,238,209,,,,,,29
+1107,Fluminense,,"Machado, Francisco Domingos",,Lourenço Marques,Rio de Janeiro,Southeast Brazil,678,600,,,,,,78
+1108,S Antônio,,"Malho, José Caetano",,Inhambane,Rio de Janeiro,Southeast Brazil,288,283,,,,,,5
+1109,Zéfiro,,"Maria, Luiz Jose",,Inhambane,Rio de Janeiro,Southeast Brazil,867,677,,,,,,190
+1110,Dáfne,,"Moura, Jose Moreira de",,Sofala,Rio de Janeiro,Southeast Brazil,289,188,,,,,,101
+1136,NS da Glória,,"Costa, Antônio Francisco da",,Mozambique,"Bahia, port unspecified",Bahia,330,299,,,,,,31
+1182,Dois Irmãos,Brazil,"Santos, Gil Tomás dos",,Mozambique,"Pernambuco, port unspecified",Pernambuco,359,281,,,,,,78
+1184,Elisa,Brazil,"Eurocuia, Francisco José da Silva",,Lourenço Marques,"Pernambuco, port unspecified",Pernambuco,534,523,,,,,,11
+1227,Africano Oriental,Brazil,"Silva, Joaquim Alves da; Nobrega, M P da",,Mozambique,Rio de Janeiro,Southeast Brazil,377,261,,,,,,116
+1228,Elisa,Brazil,"Ramalho, Antônio José de Oliveira; Silva, Joaquim Alves da",1830-03-02,Lourenço Marques,Rio de Janeiro,Southeast Brazil,519,428,,,,,,91
+1229,D Estevão de Ataíde,Brazil,"Franco, Joaquim Antônio",,Mozambique,Rio de Janeiro,Southeast Brazil,386,376,,,,,,10
+1292,Zéfiro,,"Lima, José Pedro Ribeiro",,Lourenço Marques,Rio de Janeiro,Southeast Brazil,455,400,,,,,,
+1373,Socorro,Spain,"Peoly, Jorge",1834-08-05,Mozambique,Matanzas,Cuba,808,660,,,,,,
+1445,Paquete Africano (a) César Augusto,Portugal,"Santos, José Maria dos",,Lourenço Marques,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,269,221,,,,,,
+1449,Socorro,Spain,"Musard, Antonio",1835-06-21,Mozambique,Havana,Cuba,800,605,,,,,,195
+1490,Egerida,Spain,Dornenech,,Mozambique,"Cuba, port unspecified",Cuba,490,444,,,,,,
+1493,Socorro,Spain,"Musard, Antonio",1836-03-29,Mozambique,Havana,Cuba,800,700,,,,,,100
+1515,Brilhante,Portugal,,,Quilimane,São Sebastião,Southeast Brazil,400,325,,,,,,75
+1518,Brilhante,Portugal,,,Quilimane,Campos,Southeast Brazil,450,408,,,,,,
+1527,Vinte Quatro de Julho,Portugal,"Terreira, J B",,Mozambique,São Sebastião,Southeast Brazil,800,500,,,,,,300
+1551,Aguila Vengadora,Spain,"Zabala, Jose Ramon",1836-??-??,Mozambique,Havana,Cuba,411,369,,,,,,
+1581,Adamastor,Portugal,,1836-??-??,Quilimane,Santos,Southeast Brazil,800,496,,,,,,304
+1586,Leão,Portugal,,,Quilimane,Ilha de Marambaia,Southeast Brazil,855,572,,,,,,283
+1587,Flor de Quilimane,Portugal,"Almeida, A J de",,Quilimane,Campos,Southeast Brazil,860,697,,,,,,163
+1591,Ceres,Portugal,"Dias, M T",,Mozambique,Rio de Janeiro,Southeast Brazil,450,408,,,,,,
+1596,Carolina,Portugal,"Pinheiro, F P",1836-10-??,Quilimane,Ubatuba,Southeast Brazil,1077,976,,,,,,
+1609,Vênus,Portugal,"Moraes, F X",1836-10-??,Mozambique,Macaé,Southeast Brazil,812,664,,,,,,
+1620,Tejo,Portugal,,1837-01-19,Quilimane,Campos,Southeast Brazil,462,419,,,,,,
+1633,Maria Segunda (a) Socorro,Portugal,"Garcia, J",1837-02-04,Mozambique,"Cuba, port unspecified",Cuba,700,509,,,,,,191
+1634,Palmira,Portugal,,1837-04-14,Mozambique,"Cuba, port unspecified",Cuba,650,589,,,,,,
+1637,Carlota,Portugal,,,Mozambique,"Cuba, port unspecified",Cuba,500,453,,,,,,
+1655,Novo Destino,Portugal,"Silva, C (Mate) da",,Quilimane,Macaé,Southeast Brazil,747,677,,,,,,
+1661,Quatro de Março,Portugal,"Rêgo, J J do",1837-04-08,Quilimane,Rio de Janeiro province,Southeast Brazil,1050,950,,,,,,100
+1662,Saudade,Portugal,"Pereira, A",,Mozambique,Taipu,Bahia,677,613,,,,,,
+1665,Lusitano,Portugal,"Lima, A A",1837-05-30,Mozambique,Campos,Southeast Brazil,883,800,,,,,,
+1668,Triunfante,Portugal,"Bastos, Joaquim Pereira de Oliveira",1837-06-22,Mozambique,Campos,Southeast Brazil,786,712,,,,,,
+1670,Triunfo da Inveja,Portugal,"Brandão, M J",1837-07-09,Quilimane,Campos,Southeast Brazil,898,814,,,,,,
+1678,Amélia,Portugal,"Flores, João Pereira",1837-06-26,Mozambique,"Cuba, port unspecified",Cuba,658,607,,,,,,
+1693,Aquila Vengadera (a) Esplora,Spain,Gorronda,1837-06-13,Mozambique,"Cuba, port unspecified",Cuba,560,200,,,,,,360
+1694,Irena,Spain,Ageo,1837-07-07,Mozambique,Havana,Cuba,650,619,,,,,,
+1702,Tirso,Portugal,,,Madagascar,Trinidad de Cuba,Cuba,490,444,,,,,,
+1725,Dois Amigos,Portugal,,1837-08-12,Quilimane,Baía de Sepetiba,Southeast Brazil,786,712,,,,,,
+1727,Generoso,Portugal,,1837-06-11,Quilimane,Baía de Sepetiba,Southeast Brazil,883,800,,,,,,
+1730,Fortuna da África,Portugal,,1837-08-28,Mozambique,Rio de Janeiro province,Southeast Brazil,759,712,,,,,,
+1737,Carolina,Portugal,,1837-08-20,Quilimane,Campos,Southeast Brazil,1159,1050,,,,,,
+1739,Adamastor,Portugal,,1837-07-23,Quilimane,São Sebastião,Southeast Brazil,482,445,,,,,,
+1740,Resolução,Portugal,,1837-08-29,Mozambique,Ilha Grande,Southeast Brazil,773,700,,,,,,
+1749,Cintra,Portugal,,,Mozambique,São Sebastião,Southeast Brazil,827,756,,,,,,
+1757,Jove,Portugal,,,Quilimane,Campos,Southeast Brazil,483,432,,,,,,
+1761,Providência,Portugal,,,Mozambique,Ilha Grande,Southeast Brazil,472,422,,,,,,
+1762,Comodoro,Portugal,,1837-12-21,Quilimane,Taipu,Bahia,425,385,,,,,,
+1781,Amália (a) Caballo Marino,Portugal,Miquete,1838-06-16,Mozambique,Mariel,Cuba,710,510,,,,,,200
+1783,Vênus (a) Duquesa de Bragança,Portugal,Caelet,1838-08-23,Mozambique,Havana,Cuba,1120,870,,,,,,250
+1794,Socorro (a) D Maria Segunda,Brazil,"Batalha, A",1838-08-18,Mozambique,Havana,Cuba,820,570,,,,,,250
+1814,Novo Destino,Portugal,,,Quilimane,Campos,Southeast Brazil,787,713,,,,,,
+1819,Ganges,Brazil,,,Quilimane,Ponta Negro,Southeast Brazil,796,721,37.0%,,55.0%,8.0%,63.0%,
+1827,Generoso Feliz,Portugal,,,Quilimane,Ilha Grande,Southeast Brazil,800,725,,,,,,
+1835,Fortuna,Portugal,,,Quilimane,Campos,Southeast Brazil,664,602,,,,,,
+1836,Triunfo da Inveja,Portugal,,,Quilimane,Rio de Janeiro,Southeast Brazil,795,720,,,,,,
+1837,Quatro de Março,Portugal,,,Quilimane,Ponta Negro,Southeast Brazil,883,800,,,,,,
+1847,Fortuna da África,,,,Mozambique,Campos,Southeast Brazil,475,430,,,,,,
+1853,Macsismo,Portugal,Silva,,Mozambique,"Cuba, port unspecified",Cuba,400,360,,,,,,
+1855,Trindade de Luanda (a) Triunfo de Luanda,Portugal,"Campos; Ribeiro, Antônio Luís",,Mozambique,"Cuba, port unspecified",Cuba,490,444,,,,,,
+1871,Ganges,Brazil,"Costa, J R",,Quilimane,Rio de Janeiro,Southeast Brazil,463,419,38.0%,,53.0%,9.0%,62.0%,
+1881,Silêncio,Portugal,,,Inhambane,Campos,Southeast Brazil,482,437,,,,,,
+1883,Esperança,Portugal,,1838-08-18,Mozambique,Ilha Grande,Southeast Brazil,806,730,,,,,,
+1885,Aventureiro,Portugal,,,Mozambique,Macaé,Southeast Brazil,754,683,,,,,,
+1888,D Manoel de Portugal,Portugal,,,Quilimane,Campos,Southeast Brazil,788,714,,,,,,
+1890,Resolução,Portugal,,1838-09-06,Mozambique,Paranaguá,Southeast Brazil,831,753,,,,,,
+1898,Doze de Outubro,Portugal,,,Mozambique,Rio de Janeiro,Southeast Brazil,452,403,,,,,,
+1899,Carolina,Portugal,,,Quilimane,Paranaguá,Southeast Brazil,744,698,,,,,,46
+1903,Amizade Constante,Portugal,"Regis, José Maria",1838-10-03,Quilimane,Ilha Grande,Southeast Brazil,442,400,,,,,,
+1911,Constância,Portugal,,,Quilimane,Campos,Southeast Brazil,681,617,,,,,,
+1913,Rosa,Portugal,,,Mozambique,Campos,Southeast Brazil,673,610,,,,,,
+1915,Adamastor,Portugal,,,Quilimane,Baía de Sepetiba,Southeast Brazil,634,574,,,,,,
+1917,Comodoro,Portugal,"Rocha, Antônio Batista da",,Mozambique,Rio de Janeiro,Southeast Brazil,773,700,,,,,,
+1920,Amélia,Portugal,,,Mozambique,Cananéia,Southeast Brazil,662,600,,,,,,
+1930,Vinte e Quatro de Julho,Portugal,"Rodrigues, A J",,Mozambique,"Pernambuco, port unspecified",Pernambuco,490,444,,,,,,
+1937,Amália,Portugal,Costa,1839-05-07,Mozambique,"Cuba, port unspecified",Cuba,1040,840,,,,,,200
+1941,Maria Segunda (a) Socorro,Portugal,Figueira,1839-06-05,Mozambique,"Cuba, port unspecified",Cuba,660,580,,,,,,
+1943,Vênus (a) Duquesa de Bragança,Portugal,Moreno,1839-06-17,Mozambique,"Cuba, port unspecified",Cuba,795,720,,,,,,
+1948,D João de Castro,Brazil,"Serpa, Vicente de Freitas",1839-03-??,Mozambique,Ilha de Marambaia,Southeast Brazil,497,450,,,,,,
+1949,Novo Destino,Portugal,"Costa, J A da",1839-03-05,Quilimane,Campos,Southeast Brazil,662,600,,,,,,
+1950,Generoso Feliz,Portugal,"Nunes, J J",1839-03-24,Quilimane,Campos,Southeast Brazil,424,384,,,,,,
+1951,Rosalina,Portugal,"Carneiro, M J",1839-04-??,Quilimane,Rio de Janeiro,Southeast Brazil,411,369,,,,,,
+1957,Quatro de Março,Portugal,"Pereira, F",1839-04-13,Quilimane,Mangaratiba,Southeast Brazil,607,550,,,,,,
+1959,Fortuna da África,Portugal,"Passagem, J A",1839-04-??,Quilimane,Macaé,Southeast Brazil,474,429,,,,,,
+1966,Ânimo Grande,Portugal,"Silveira, F da",1839-04-??,Quilimane,Campos,Southeast Brazil,651,590,,,,,,
+1985,Constante,,,,Quilimane,Ilha Grande,Southeast Brazil,828,750,,,,,,
+1995,Rio Zua,,,,Quilimane,Ilha Grande,Southeast Brazil,445,400,,,,,,
+1996,Leopoldina,,,,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,662,600,,,,,,
+2002,Cingapura,,,,Mozambique,Rio de Janeiro province,Southeast Brazil,662,600,,,,,,
+2003,Sumar,,,,Mozambique,São Sebastião,Southeast Brazil,442,400,,,,,,
+2005,Saudade,,,,Quilimane,São Sebastião,Southeast Brazil,662,600,,,,,,
+2039,Resolução,Portugal,,1839-08-11,Quilimane,Ilha de Marambaia,Southeast Brazil,465,421,,,,,,
+2040,Dois Irmãos,Portugal,"Abreu, F F de",1839-07-21,Quilimane,Rio de Janeiro,Southeast Brazil,640,580,,,,,,
+2047,Leopoldina,Portugal,"Chaves, A R",,Quilimane,Rio de Janeiro,Southeast Brazil,618,560,,,,,,
+2056,Vinte e Quatro de Julho,Brazil,"Viana, A P",,Mozambique,Catuamo and Maria Farinha,Pernambuco,517,468,,,,,,
+2057,Paquete da Madeira,Portugal,"Bastos, J",,Mozambique,Ilha de Itamaric ,Pernambuco,298,268,,,,,,
+2077,Vênus (a) Duquesa de Bragança,Brazil,"Barbosa, José",,Mozambique,Mariel,Cuba,791,711,,,,,,
+2099,Asseiceira,Brazil,"Melão, A",,Quilimane,Rio de Janeiro,Southeast Brazil,332,332,26.0%,8.0%,51.0%,16.0%,67.0%,
+2101,Sociedade,Portugal,,,Quilimane,São Sebastião,Southeast Brazil,497,450,,,,,,
+2116,D Manoel de Portugal,Portugal,,1839-05-??,Quilimane,Rio de Janeiro province,Southeast Brazil,883,800,,,,,,
+2118,Fortuna de África,,,,Quilimane,São Sebastião,Southeast Brazil,672,630,,,,,,
+2131,Ânimo Grande,Portugal,,,Quilimane,São Sebastião,Southeast Brazil,662,600,,,,,,
+2132,Quatro de Março,Portugal,,,Quilimane,São Sebastião,Southeast Brazil,773,700,,,,,,
+2133,Saudade,,,,Quilimane,São Sebastião,Southeast Brazil,662,600,,,,,,
+2134,Esperança,,,,Quilimane,Campos,Southeast Brazil,445,400,,,,,,
+2136,Carolina,,,,Quilimane,São Sebastião,Southeast Brazil,706,640,,,,,,
+2138,Generoso,,,,Quilimane,São Sebastião,Southeast Brazil,552,500,,,,,,
+2139,Carolina,,,1839-11-??,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,662,600,,,,,,
+2184,Esperança,Brazil,,,Quilimane,Campos,Southeast Brazil,504,450,,,,,,
+2193,S José,Brazil,"Ferreira, Policarpo Luís Gonçalves",,Mozambique,"Pernambuco, port unspecified",Pernambuco,378,340,,,,,,
+2199,Paquete da Madeira,Brazil,"Rodrigues, A J",,Mozambique,"Pernambuco, port unspecified",Pernambuco,177,159,,,,,,
+2207,Carolina,,,,Quilimane,São Sebastião,Southeast Brazil,662,600,,,,,,
+2237,Despique,,,,Quilimane,Rio de Janeiro province,Southeast Brazil,618,560,,,,,,
+2245,Baleeira,,,,Quilimane,São Sebastião,Southeast Brazil,910,800,,,,,,
+2246,Tejo,Portugal,,,Quilimane,Santos,Southeast Brazil,684,620,,,,,,
+2257,Vencedora (a) Tartaruga,,"Coimbra, Manoel José",,Quilimane,Rio de Janeiro,Southeast Brazil,460,338,,,,,,122
+2283,Despique,,,,Quilimane,Santos,Southeast Brazil,662,600,,,,,,
+2292,Júlia,,,,Quilimane,Campos,Southeast Brazil,722,654,,,,,,
+2310,Nova Granada,,,,Quilimane,São Sebastião,Southeast Brazil,609,545,,,,,,
+2535,Paquete da Madeira,Portugal,,,Mozambique,,,200,164,,,,,,
+2754,Chasseur,,"Thébaud, François",1824-01-05,Cape of Good Hope,"Puerto Rico, port unspecified",Puerto Rico,515,421,,,,,,
+2769,Orphee,France,Jacques,1824-02-24,Madagascar,Santiago de Cuba,Cuba,511,418,,,,,,
+2777,Hersilie,France,Anglade,1825-05-04,Madagascar,,,14,12,,,,,,
+2808,Satyre,France,"Soret, Pierre",1823-03-01,Cape of Good Hope,"Martinique, port unspecified",Martinique,273,250,,,,,,
+3072,Incompreensível,Portugal,"Castro, Luís Antônio de Carvalho e",1836-04-13,Mozambique,Freetown,Sierra Leone,785,596,34.0%,8.0%,46.0%,12.0%,58.0%,189
+3125,Tejo,Portugal,,1840-11-??,Quilimane,Rio de Janeiro,Southeast Brazil,90,84,,,,,,
+3143,NS da Conceição de Maria,Portugal,"Brito, João de Souza",,Quilimane,St. Helena,West Central Africa and St. Helena,550,440,32.0%,5.0%,47.0%,16.0%,63.0%,110
+3151,Amizade Constante,,"Lopes, Antônio da Rocha",1839-08-??,Quilimane,Cape of Good Hope,Southeast Africa and Indian Ocean islands,620,477,,,,,,143
+3152,Escorpião,Portugal,"Brito, João José de Souza",,Quilimane,Cape of Good Hope,Southeast Africa and Indian Ocean islands,716,695,,,,,,21
+3161,José,Portugal,,,Quilimane,Mauritius (Ile de France),Southeast Africa and Indian Ocean islands,350,255,,,,,,85
+3192,Progresso,,"Chaves, Antônio Rodrigues",,Quilimane,Cape of Good Hope,Southeast Africa and Indian Ocean islands,447,270,42.0%,10.0%,48.0%,,48.0%,177
+3286,Alert,Spain,,,Mozambique,,,617,542,,,,,,
+3287,Drogenese,,,,Mozambique,,,490,444,,,,,,
+3293,Panção (a) Pocha,,"Nascimento, Anselmo José de",,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,18,18,,,,,,
+3294,Ana Feliz,,"Sá, Caetano Piedade de",,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,56,56,,,,,,
+3329,Seis de Fevereiro,,"Mendonça, Francisco de Assis",,Quilimane,Rio de Janeiro,Southeast Brazil,349,339,,,,,,10
+3330,Nove de Janeiro,,"Lontra, Rafael Inácio da Fonseca",,Mozambique,Rio de Janeiro,Southeast Brazil,563,552,,,,,,11
+3334,Vulcano,,"Melo, João José de Azevedo e",,Mozambique,Rio de Janeiro,Southeast Brazil,562,546,,,,,,16
+3335,Mariana,,"Pereira, Francisco Manoel",,Quilimane,Rio de Janeiro,Southeast Brazil,523,480,,,,,,43
+3337,Minerva,,"Braga, José Ribeiro da Castro",,Quilimane,Rio de Janeiro,Southeast Brazil,458,410,,,,,,48
+3339,Quatro de Abril,,"Moreira, José Lopes da Costa",,Mozambique,Rio de Janeiro,Southeast Brazil,807,787,,,,,,20
+3352,Conde dos Arcos,,"Fontes, João Joaquim de Souza",,Mozambique,Rio de Janeiro,Southeast Brazil,621,581,,,,,,40
+3353,Trajano,,"Viana, João; Franco, Joaquim Antônio",,Quilimane,Rio de Janeiro,Southeast Brazil,428,298,,,,,,130
+3381,Indústria,,"Pedrosa, Mário de Carvalho; Castro, João Guilherme de",,Mozambique,Rio de Janeiro,Southeast Brazil,556,543,,,,,,13
+3385,Africano Constitucional,,"Monteiro, Alexandre Correa Cardoso",1826-04-25,Quilimane,Rio de Janeiro,Southeast Brazil,665,627,,,,,,38
+3389,Zéfiro,,"Mendonça, Antônio Maurício de",1827-??-??,Mozambique,Rio de Janeiro,Southeast Brazil,591,495,,,,,,96
+3408,Duquesa,Brazil,,,Quilimane,Santos,Southeast Brazil,673,610,,,,,,
+3425,Gommse,Brazil,,,Lourenço Marques,Mangaratiba,Southeast Brazil,442,400,,,,,,
+3433,Kentucky,U.S.A.,Douglas; Paulo,1844-02-20,Sofala,Cabo Frio,Southeast Brazil,543,450,,,,,,
+3514,Ganaflite,Brazil,,,Lourenço Marques,Cabo Frio,Southeast Brazil,419,380,,,,,,
+3526,Restaurador,Brazil,,,Mozambique,Cabo Frio,Southeast Brazil,422,382,,,,,,
+3542,Kentucky,Brazil,,,Quilimane,Cabo Frio,Southeast Brazil,602,545,,,,,,
+3842,Lúcifer,,,,Quilimane,Rio de Janeiro province,Southeast Brazil,430,390,,,,,,
+3843,Idelmunda (a) Anônima,Brazil,,,Quilimane,Rio de Janeiro province,Southeast Brazil,807,731,,,,,,
+3914,Ventura,Brazil,,,Quilimane,Cabo Frio,Southeast Brazil,630,400,,,,,,230
+3915,Adamastor,Brazil,,,Quilimane,Rio de Janeiro province,Southeast Brazil,335,300,,,,,,
+3916,Aventureiro,Brazil,Madalina,,Quilimane,Rio de Janeiro province,Southeast Brazil,72,65,,,,,,
+3927,Josefina,Brazil,"Silva, José Lopes da",,Benguela,Cape of Good Hope,Southeast Africa and Indian Ocean islands,650,574,,,,,,76
+3928,Henriqueta,,,,Benguela,Cape of Good Hope,Southeast Africa and Indian Ocean islands,325,273,,,,,,52
+3930,Furão,Brazil,,,Benguela,Cape of Good Hope,Southeast Africa and Indian Ocean islands,247,221,,,,,,
+3935, ,Brazil,"Menezes, Rufino José de",,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,7,5,,,,,,2
+4154,Camargo,U.S.A.,,1852-04-11,Quilimane,Rio de Janeiro province,Southeast Brazil,550,500,,,,,,50
+4162, ,Spain,"Capo, Antônio",1852-11-??,Mozambique,Cabanas,Cuba,1350,1150,,,,,,200
+4166,Lady Eclipse (a) Suffolk (a) M,U.S.A.,"Vinas, Eugênio",1852-11-20,Mozambique,"Cuba, port unspecified",Cuba,1487,1283,,,,,,
+4266,Minnetonka,U.S.A.,,1857-04-05,Mozambique,"Cuba, port unspecified",Cuba,970,610,,,,,,360
+4313, ,U.S.A.,,,Mozambique,Cardenas,Cuba,1068,70,,,,,,998
+4330,Eloísa,,"Vinas, Eugênio",1859-04-08,Mozambique,Cardenas,Cuba,833,750,,,,,,
+4430,Brazil,Spain,"Viñalls, Eugenio",1850-08-??,Mozambique,Cardenas,Cuba,744,670,,,,,,
+4435,Brazil,Spain,,1851-04-??,Mozambique,Cardenas,Cuba,741,617,,,,,,
+4446,Rapid (a) Emperatriz,,,1851-07-??,Inhambane,Cardenas,Cuba,1000,840,,,,,,160
+4620,Hanibal,U.S.A.,,,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,811,700,,,,,,
+4623,Rivoad (a) Revoma,,,,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,489,400,,,,,,
+4624,Flor do Douro,,,,Ibo,Maricá,Southeast Brazil,553,499,,,,,,
+4634,S Cruz,,,,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,856,700,,,,,,
+4640,Edelmando,,,,Ibo,Ilha de Marambaia,Southeast Brazil,683,559,,,,,,
+4657,Felicidade,,,,"West Central Africa and St. Helena, port unspecified",Cape of Good Hope,Southeast Africa and Indian Ocean islands,317,315,,,,,,2
+4685, ,,,,Benguela,Cape of Good Hope,Southeast Africa and Indian Ocean islands,337,250,16.0%,15.0%,36.0%,34.0%,69.0%,87
+4882,Manuela (a) Sunny South,,,,Quirimba,Ile de France,Southeast Africa and Indian Ocean islands,846,741,40.0%,5.0%,47.0%,9.0%,56.0%,105
+4930,Tentativa,Brazil,,,Quilimane,Rio de Janeiro province,Southeast Brazil,700,485,,,,,,215
+4949,Fame,U.S.A.,"Marks, Anthony",1847-02-27,Quilimane,Cabo Frio,Southeast Brazil,530,527,,,,,,3
+5007,Astrea,Portugal,"Silveira, Valentim José da",1826-05-20,Mozambique,Rio de Janeiro,Southeast Brazil,590,558,,,,,,32
+5011,Feliz Mariana,,,,Mozambique,Rio de Janeiro,Southeast Brazil,556,459,,,,,,97
+5015,Dois Irmãos,Portugal,"Santos, Gil Tomás dos",1828-03-17,Lourenço Marques,Rio de Janeiro,Southeast Brazil,475,437,,,,,,38
+5118, ,,,,"Africa., port unspecified",Cape of Good Hope,Southeast Africa and Indian Ocean islands,569,516,,,,,,
+5122,Pomba,,,,"Africa., port unspecified",Cape of Good Hope,Southeast Africa and Indian Ocean islands,4,3,,,,,,
+7001,Enéas,,,,Mozambique,Rio de Janeiro,Southeast Brazil,192,157,,,,,,35
+7004,Feliz,,,,Mozambique,Rio de Janeiro,Southeast Brazil,332,260,,,,,,72
+7014,Resolução,,,,Mozambique,Rio de Janeiro,Southeast Brazil,464,380,,,,,,84
+7054,Enéas,Portugal,"Madruga, Luís Pererira; Rodrigues, Luís Pereira",1811-03-14,Inhambane,Rio de Janeiro,Southeast Brazil,172,136,,,,,,36
+7055,Resolução,Portugal,"Souza, Luís Inácio de; Rocha, Antonio Jose da",,Mozambique,Rio de Janeiro,Southeast Brazil,469,350,,,,,,119
+7056,Feliz Dias (a) Pobrezinhos,Portugal,"Almeida, Vitorino da Luz e",,Mozambique,Rio de Janeiro,Southeast Brazil,355,235,,,,,,120
+7093,Resolução,,"Souza, Luís Inácio de",1812-08-03,Mozambique,Rio de Janeiro,Southeast Brazil,330,306,,,,,,24
+7094,Providente,,"Domingues, Jerônimo",,Quilimane,Rio de Janeiro,Southeast Brazil,277,260,,,,,,17
+7095,Esgueira,Portugal,"Almeida, Antônio Felipe Germano de; Rodrigues, Jerônimo",1812-06-23,Mozambique,Rio de Janeiro,Southeast Brazil,440,238,,,,,,202
+7124,Resolução,,"Souza, Luís Inácio de",1813-06-14,Mozambique,Rio de Janeiro,Southeast Brazil,675,617,,,,,,58
+7128,Carolina,,"Aquino, Tomás",1813-06-20,Mozambique,Rio de Janeiro,Southeast Brazil,597,578,,,,,,19
+7137,Matutina do Rio,,"Nunes, Antônio",1813-08-01,Mozambique,Rio de Janeiro,Southeast Brazil,272,245,,,,,,27
+7154,Olímpia,,"Moncorvo, José Domingues",1815-06-24,Mozambique,Rio de Janeiro,Southeast Brazil,436,389,,,,,,
+7158,Esgueira,,"Rodrigues, Jerônimo",1815-06-26,Quilimane,Rio de Janeiro,Southeast Brazil,589,534,,,,,,
+7160,Carolina,,"Santos, Casemiro Lúcio dos",1815-07-04,Mozambique,Rio de Janeiro,Southeast Brazil,377,336,,,,,,
+7163,Voadora,,"Barbosa, Joaquim Gomes",1815-07-04,Mozambique,Rio de Janeiro,Southeast Brazil,317,283,,,,,,
+7168,S José Flor de Jequiá,,"Joaquim, Simão",1815-07-24,Mozambique,Rio de Janeiro,Southeast Brazil,776,692,,,,,,
+7169,Resolução,,"Gomes, Manoel José; Dias, Manoel José",1815-08-03,Mozambique,Rio de Janeiro,Southeast Brazil,480,428,,,,,,
+7193,Conde da Barca,,"Souza, Luís Inácio de",1816-04-23,Mozambique,Rio de Janeiro,Southeast Brazil,480,428,,,,,,
+7196,Pastora de Lima,,"Costa, Domingos Luís da",,Quilimane,Rio de Janeiro,Southeast Brazil,435,398,,,,,,37
+7198,Esperança,,"Pacheco, José Emídio Adauto",1818-03-19,Mozambique,Rio de Janeiro,Southeast Brazil,254,218,,,,,,36
+7199,Sociedade,,"Oliveira, Antônio Xavier de",1818-03-19,Mozambique,Rio de Janeiro,Southeast Brazil,258,189,,,,,,69
+7204,União Feliz,,"Teixeira, Jacinto Alves",1818-09-14,Mozambique,Rio de Janeiro,Southeast Brazil,867,647,,,,,,220
+7236,Despique,,"Souza, Luís Inácio de",1819-06-26,Mozambique,Rio de Janeiro,Southeast Brazil,563,543,,,,,,20
+7239,Aurora do Cabo,,"Souza, Francisco José de",,Quilimane,Rio de Janeiro,Southeast Brazil,450,442,,,,,,8
+7240,Triunfo do Brasil,,"Carrilho, João Rodrigues",1819-05-26,Mozambique,Rio de Janeiro,Southeast Brazil,532,487,,,,,,45
+7241,Flor do Brasil,,"Pacheco, José Emídio Adauto; Emílio, José",1819-05-27,Mozambique,Rio de Janeiro,Southeast Brazil,583,535,,,,,,48
+7243,Paquete do Rio,,"Silva, Manoel Lopes da",1819-05-22,Mozambique,Rio de Janeiro,Southeast Brazil,428,372,,,,,,56
+7273,Matutina,,"Dias, Manoel José",1814-06-08,Quilimane,Rio de Janeiro,Southeast Brazil,333,302,,,,,,
+7274,Protetor General,,"Souza, Luís Inácio de",1815-05-17,Mozambique,Rio de Janeiro,Southeast Brazil,687,613,,,,,,
+7275,Voador,,"Lisboa, Teotônio José Teodoro",1814-07-28,Mozambique,Rio de Janeiro,Southeast Brazil,492,439,,,,,,
+7276,Esgueira,,"Domingues, Jerônimo",1814-06-17,Mozambique,Rio de Janeiro,Southeast Brazil,483,438,,,,,,
+7389,Americana,,,,Mozambique,"Bahia, port unspecified",Bahia,302,302,,,,,,
+7400,Aurora,,"Silveira, Valentim José da",1815-04-22,Mozambique,"Bahia, port unspecified",Bahia,340,308,,,,,,
+7678,Paquete Real,Portugal,"Ferreira, José dos Santos; Souza, João Pedro de",1817-12-16,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,237,133,,,,,,104
+7691,Restaurador,Portugal,"Dias, Manoel José; Gomes, Domingos Antônio",1811-02-28,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,506,451,,,,,,
+11294,Wapen van Amsterdam,,,,"Southeast Africa and Indian Ocean islands, port unspecified",New York,New York,354,265,,,,,,
+13450,Sira,Portugal,"Galvão da Silva, Manoel",,Mozambique,Havana,Cuba,370,312,55.0%,14.0%,21.0%,10.0%,31.0%,
+14156,Maria,Denmark,Sundberg,,Mozambique,Havana,Cuba,512,442,74.0%,9.0%,15.0%,2.0%,17.0%,
+16224,Prince Eugene,Great Britain,"Stretton, William; Goodall, James",1718-02-27,Madagascar,York River,Virginia,492,340,,,,,,
+16272,Prince Eugene,Great Britain,"Morgan, Evan",1720-05-18,Madagascar,York River,Virginia,149,103,,,,,,
+16274,Rebecca,Great Britain,"Sprig, Robert; Tyzack, Timothy",1720-07-13,Madagascar,York River,Virginia,72,59,,,,,,
+19045,Joaquim,Portugal,"Diniz, Teodoro José",,Mozambique,Rio de Janeiro,Southeast Brazil,400,285,,,,,,115
+19061,Cristiana,U.S.A.,"Beller, Thomas; Beltrum, Vilbar",,Mozambique,Rio de Janeiro,Southeast Brazil,193,178,,,,,,
+19069,Esperança,Portugal,"Lopes, Antônio Caetano",,Mozambique,Rio de Janeiro,Southeast Brazil,537,491,,,,,,46
+19147,S Joaquim Augusto,Portugal,"Leiria, Joaquim das Neves; Bernardo, Alberto; .",,Mozambique,Rio de Janeiro,Southeast Brazil,500,340,,,,,,160
+19151,Ninfa do Mar,Portugal,"Barros, Simão José de",,Mozambique,Rio de Janeiro,Southeast Brazil,445,266,,,,,,179
+19190,Ninfa do Mar,Portugal,"Silva, Francisco de Paula e",,Kilwa,Montevideo,Rio de la Plata,455,376,,,,,,79
+19252,Diana,Portugal,"Monteiro, João Aires",1806-04-16,Mozambique,Rio de Janeiro,Southeast Brazil,358,212,,,,,,146
+19254,Ninfa do Mar,Portugal,"Fonseca, Manoel Antônio da",1807-01-03,Mozambique,Rio de Janeiro,Southeast Brazil,193,130,,,,,,63
+19273,Restauradora,Portugal,Monteiro Joaquim do Rosario,,Mozambique,Rio de Janeiro,Southeast Brazil,423,353,,,,,,70
+19274,Flor do Rio,Portugal,"Camizão, José Maria de Araújo",1807-05-12,Mozambique,Rio de Janeiro,Southeast Brazil,392,330,,,,,,62
+19278,Pérola do Norte,Portugal,"Nunes, José Antônio; Sá, Joaquim Manoel de",1807-02-19,Mozambique,Rio de Janeiro,Southeast Brazil,586,503,,,,,,83
+19280,Dois Irmãos (a) Paraquito,Portugal,"Meireles, José Joaquim de",,Inhambane,Rio de Janeiro,Southeast Brazil,200,151,,,,,,49
+19284,Rosália e NS da Paz,Portugal,"Costa, Joaquim Lino da",1807-05-22,Mozambique,Rio de Janeiro,Southeast Brazil,400,262,,,,,,
+19304,Restauradora,Portugal,"Salvo, Amaro Maria",,Mozambique,Rio de Janeiro,Southeast Brazil,514,443,,,,,,71
+19305,Príncipe Regente,Portugal,"Calado, José Francisco",,Mozambique,Rio de Janeiro,Southeast Brazil,212,142,,,,,,70
+19371,Providente,Portugal,"Domingues, Jerônimo Rodrigues",,Mozambique,Rio de Janeiro,Southeast Brazil,231,231,,,,,,
+19374,Alexandre,Portugal,"Almeida, Manoel Pedro de; Soares, José Narciso; Souza, Joaquim José",,Mozambique,Rio de Janeiro,Southeast Brazil,215,191,,,,,,24
+19502,Albuquerque,Portugal,"Almeida, Manoel Pedro de",,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,171,140,,,,,,
+19503,Rosaline,Portugal,,,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,489,400,,,,,,
+19719,S Francisco de Borja,,"Noronha, Diogo de Abreu de Lima",,Mozambique,"Bahia, port unspecified",Bahia,406,356,,,,,,
+20009,Change,Great Britain,"King, William",,Madagascar,"Barbados, port unspecified",Barbados,362,250,,,,,,
+20010,Friend's Adventure,Great Britain,"Bustill, Christop",,Madagascar,"Barbados, port unspecified",Barbados,420,290,,,,,,
+20016,Roebucke,Great Britain,"Bybee, Robert",,Madagascar,"Barbados, port unspecified",Barbados,376,260,,,,,,
+20026,Speedwell,Great Britain,"Varle, Phillip",,Madagascar,"Barbados, port unspecified",Barbados,289,200,,,,,,
+20028,Firebrass,Great Britain,"Coatham, John",,Madagascar,"Barbados, port unspecified",Barbados,347,240,,,,,,
+20029,Love and Friendship,Great Britain,"White, Thomas",,Madagascar,"Barbados, port unspecified",Barbados,289,200,,,,,,
+20066,John and Mary,Great Britain,"Deeron, William",,Madagascar,"Barbados, port unspecified",Barbados,146,101,,,,,,
+20067,Francis,Great Britain,"Bradly, Stephen",,Madagascar,"Barbados, port unspecified",Barbados,168,116,,,,,,
+20072,Providence,Great Britain,"Hobson, David",,Madagascar,"Barbados, port unspecified",Barbados,232,160,,,,,,
+20076,John and Mary,Great Britain,"Cribb, John",,Madagascar,"Barbados, port unspecified",Barbados,217,150,,,,,,
+20105,Oxford,Great Britain,"Cary, Thomas",,Madagascar,"Barbados, port unspecified",Barbados,289,200,,,,,,
+20113,Philip,Great Britain,Roberts,,Madagascar,"Barbados, port unspecified",Barbados,118,100,,,,,,
+20248,Betty,Great Britain,"Langhorne, Charles",1700-11-14,"Southeast Africa and Indian Ocean islands, port unspecified","Barbados, port unspecified",Barbados,59,47,,,,,,
+20662,Elizabeth,Great Britain,"Webster, Jno",1717-04-09,Madagascar,Kingston,Jamaica,600,385,,,,,,215
+20977, ,Great Britain,,,Madagascar,"Barbados, port unspecified",Barbados,304,210,,,,,,
+20978, ,Great Britain,,,Madagascar,"Barbados, port unspecified",Barbados,304,210,,,,,,
+21043, ,Great Britain,,,Madagascar,"Barbados, port unspecified",Barbados,304,210,,,,,,
+21078, ,Great Britain,,,Madagascar,"Jamaica, port unspecified",Jamaica,30,21,,,,,,
+21095, ,Great Britain,,,Madagascar,"Montserrat, port unspecified",Montserrat,303,210,,,,,,
+21107, ,Great Britain,,,Madagascar,Newcastle (Nevis),Nevis,304,210,,,,,,
+21382,Margarett,U.S.A.,"Cransborough, Oliver",,Madagascar,"Barbados, port unspecified",Barbados,240,166,,,,,,
+21383,Pellican,Great Britain,"Hicks, John",,Madagascar,"Barbados, port unspecified",Barbados,260,180,,,,,,
+21384,Bridgewater Merchant,Great Britain,"Cribb, John",,Madagascar,"Barbados, port unspecified",Barbados,427,295,,,,,,
+21508,Lion,Great Britain,"Howard, John",1663-08-??,Madagascar,"Barbados, port unspecified",Barbados,200,138,,,,,,
+21509,Eagle,Great Britain,"Howard, Robert",1663-08-??,Madagascar,"Barbados, port unspecified",Barbados,135,93,,,,,,
+21510,Society,Great Britain,"Edwards, Thomas",,Madagascar,,,61,42,,,,,,
+21511,Rebecca,Great Britain,"Bird, Daniel",,Madagascar,,,304,210,,,,,,
+21512,Daniel and Thomas,Great Britain,"Davies, Samuell",,Madagascar,,,122,,,,,,,
+21910,Gascoigne,Great Britain,"Bryan, Thomas",,Madagascar,York River,Virginia,192,133,,,,,,
+24310, ,,,,Madagascar,"Barbados, port unspecified",Barbados,337,233,,,,,,
+24312,John and Mary,Great Britain,"Deeron, William",,Madagascar,"Jamaica, port unspecified",Jamaica,29,22,,,,,,
+24313,Margarett,U.S.A.,"Cransborough, Oliver",,Madagascar,"Jamaica, port unspecified",Jamaica,185,128,,,,,,
+24549,Santiago Maior,,Vareiro,1762-03-??,Mozambique,,,386,267,,,,,,
+25151, ,,,1676-10-??,Madagascar,Boston,Massachusetts,53,45,,,,,,
+25313,Mendon,U.S.A.,"Curtis, Richard",,Mozambique,Buenos Aires,Rio de la Plata,267,201,,,,,,
+25390,Benjamin,U.S.A.,Newell,1804-04-28,Mozambique,Havana,Cuba,267,201,,,,,,
+25415,Horizon,U.S.A.,"McClure, Alexander",,Mozambique,Charleston,South Carolina,543,243,,,,,,300
+25445,Margaret,U.S.A.,"Livingston, William",1804-06-25,Mozambique,Havana,Cuba,300,157,58.0%,7.0%,30.0%,6.0%,36.0%,143
+25457,Gustavia,Sweden,"Hill, M",,Momboza or Zanzibar,Charleston,South Carolina,332,250,,,,,,
+25529,Elizabeth,U.S.A.,Latimore,,Mozambique,Charleston,South Carolina,83,69,,,,,,
+25531,Dolphin,U.S.A.,Ross,1806-05-09,Mozambique,,,267,201,,,,,,
+25532,Young Adam,,Haviland,1806-05-08,Mozambique,,,101,88,,,,,,
+25534,Pigou,U.S.A.,"Collet, John",,Quilimane,Montevideo,Rio de la Plata,300,196,,,,,,
+25535,Juliana,U.S.A.,Nicols,,Mozambique,Montevideo,Rio de la Plata,146,124,,,,,,
+25536,Espasia,U.S.A.,"Moore, Benjamin",1805-03-10,Mozambique,Montevideo,Rio de la Plata,208,167,,,,,,41
+25565,Merrimac (a) Merrimack,U.S.A.,Williams,,"Southeast Africa and Indian Ocean islands, port unspecified",Montevideo,Rio de la Plata,400,335,,,,,,
+25576,Dolphin,U.S.A.,Ross,,Mozambique,,,267,201,,,,,,
+25577,Young Adam,,Haviland,,Mozambique,,,149,126,,,,,,
+25678, ,,,,Madagascar,New York,New York,149,126,,,,,,
+25679, ,,,,Madagascar,New York,New York,149,126,,,,,,
+25680, ,,,,Madagascar,"Barbados, port unspecified",Barbados,337,233,,,,,,
+25681, ,,,,Madagascar,"Barbados, port unspecified",Barbados,337,233,,,,,,
+25683, ,,,,Madagascar,"Virginia, port unspecified",Virginia,304,210,,,,,,
+25684,Beckford,Great Britain,"Harris, John",1698-06-??,Madagascar,West Indies (colony unspecified),Other Caribbean,303,210,,,,,,
+25685, ,,,1678-01-??,Madagascar,"Jamaica, port unspecified",Jamaica,149,126,,,,,,
+25686,Katherine,,South,,St. Lawrence,"Jamaica, port unspecified",Jamaica,304,210,,,,,,
+26405,Henry,,"Harvey, John",1716-03-13,Madagascar,"Barbados, port unspecified",Barbados,257,187,,,,,,
+28043, ,,,,Madagascar,"Jamaica, port unspecified",Jamaica,149,126,,,,,,
+31044,Barberie,France,Prudhomme de Monbray,1775-??-??,Mozambique,Cap Français,Saint-Domingue,388,268,45.0%,27.0%,18.0%,10.0%,28.0%,
+31071,Cybèle,France,"Caudeau, J-B",1777-05-17,"Southeast Africa and Indian Ocean islands, port unspecified",Cap Français,Saint-Domingue,386,386,67.0%,13.0%,15.0%,6.0%,20.0%,
+31091,Geneviève,France,"Baherre, J-F",1781-11-28,Mozambique,"Martinique, port unspecified",Martinique,386,267,,,,,,
+31098,Themis,France,"Berthomme, Nicolas",1783-04-10,Kilwa,Cap Français,Saint-Domingue,386,267,,,,,,
+31100,Rose,France,Wibert,1783-04-22,Mozambique,Cap Français,Saint-Domingue,301,228,,,,,,73
+31151,Flore,France,"Pascaud, Pierre",1785-03-25,Mozambique,Cap Français,Saint-Domingue,434,300,,,,,,
+31160,Bien Aimée,France,"Bouan, Chevalier de",1785-05-09,Kilwa,"Saint-Domingue, port unspecified",Saint-Domingue,386,267,,,,,,
+31180,Madame,France,"Berthomme, Nicolas",1786-03-29,"Southeast Africa and Indian Ocean islands, port unspecified",Port-au-Prince,Saint-Domingue,643,407,49.0%,27.0%,20.0%,4.0%,24.0%,236
+31181,Comte d'Angivilliers,France,"Heguy, Alex",1786-03-30,Mozambique,Cap Français,Saint-Domingue,863,588,,,,,,275
+31246,Flore,France,"Bretagne, Julien",1788-04-05,Mozambique,Cayes (Les),Saint-Domingue,423,292,,,,,,
+31248,Madame,France,"Berthommé, Nicholas",1788-04-06,Mozambique,Port-au-Prince,Saint-Domingue,586,405,,,,,,
+31330,Flore,France,"Bretagne, Julien",1790-03-06,Mozambique,Cap Français,Saint-Domingue,435,364,,,,,,
+31622,Vaillant,France,"Brugevin, Joseph",1775-12-09,Mozambique,Cap Français,Saint-Domingue,386,267,,,,,,
+31649,Jolie Henriette de Ribeaucourt,France,Le Breton de la Vieuville,1783-07-17,Mozambique,Cap Français,Saint-Domingue,386,267,,,,,,
+31650,Victoire,France,"Michel, Jean; Rouillard",1783-07-17,Mozambique,Port-au-Prince,Saint-Domingue,234,162,,,,,,
+31655,Licorne,France,"Brugevin, Joseph",1783-10-16,Mozambique,Cap Français,Saint-Domingue,434,300,,,,,,
+31672,Actif,France,"Taudin, Arnaud",1785-08-13,Kilwa,Cap Français,Saint-Domingue,410,283,,,,,,
+31681,Clary,France,"Fontenelle, de",1786-01-18,Kilwa,Saint-Marc,Saint-Domingue,321,222,,,,,,
+31692,Paquebot de Bourbon,France,"Wuibert, J-B",1786-06-23,Mozambique,Cap Français,Saint-Domingue,190,131,,,,,,
+31701,Saint Denis,France,"Voisin, Marin",1786-12-06,"Southeast Africa and Indian Ocean islands, port unspecified",Cap Français,Saint-Domingue,434,300,,,,,,
+31703,Licorne,France,"Brugevin, Joseph",1787-01-18,Mozambique,Cap Français,Saint-Domingue,446,435,63.0%,18.0%,13.0%,6.0%,19.0%,11
+31708,Euphrasie,France,"Labat, Joao Leao",1787-??-??,Mozambique,Port-au-Prince,Saint-Domingue,210,145,,,,,,
+31715,Petite Dorade,France,"Lauratet, J; Dumas",1787-08-17,Mozambique,Cap Français,Saint-Domingue,230,159,,,,,,
+31724,Brillant,France,"Lemaître, Louis",1788-02-13,Mozambique,Saint-Marc,Saint-Domingue,469,324,,,,,,
+31730,Nécessaire,France,"Bourbon, Jacques; Duplantier",1788-05-20,Mozambique,Cap Français,Saint-Domingue,220,152,,,,,,
+31731,Chorebe,France,"Pourcin, Jean",1788-07-04,Mozambique,,,386,,,,,,,
+31733,Père de Famille,France,"Le Duc, Jean-Marie",1788-07-24,Mozambique,Cap Français,Saint-Domingue,258,178,,,,,,
+31736,Ville de Bordeaux,France,"Abeille, Joseph; Duranteau, Jacques",1788-09-09,Mozambique,Saint-Marc,Saint-Domingue,533,446,,,,,,
+31737,Aimable Théodore,France,"Bechier, Jean; Morrand",1788-09-26,Mozambique,Cap Français,Saint-Domingue,279,193,,,,,,
+31738,Zizette,France,"Salis, Thibaud-Simon",1788-09-30,Mozambique,Saint-Marc,Saint-Domingue,478,330,,,,,,
+31740,Baron Lefort,France,"Gourrège, Aman",1788-12-12,Mozambique,Cap Français,Saint-Domingue,521,360,,,,,,
+31744,Vicomte d'Urtubie,France,"Descombes, Martial",1789-02-14,Kilwa,Cayes (Les),Saint-Domingue,378,261,,,,,,
+31745,Honorine,France,"Duffourg, J",1789-02-14,"Southeast Africa and Indian Ocean islands, port unspecified",Cap Français,Saint-Domingue,454,314,,,,,,
+31746,Fille Unique,France,"Fontenelle, Louis-Bernard",1789-02-26,Mozambique,Cap Français,Saint-Domingue,386,267,,,,,,
+31749,Esmangart,France,"Montaut, Chevalier de",1789-03-12,Mozambique,Cap Français,Saint-Domingue,372,257,,,,,,
+31750,Patrie,France,"Voisin, Marin",1789-03-21,Mozambique,Cap Français,Saint-Domingue,449,310,,,,,,
+31752,Sans Pareil,France,"Seignac, Jean",1789-04-16,"Southeast Africa and Indian Ocean islands, port unspecified",Basse-Terre,Guadaloupe,353,244,,,,,,
+31753,Bonne Marie,France,"Renard, J",1789-04-23,Mozambique,Cap Français,Saint-Domingue,289,200,,,,,,
+31767,Chasseur,France,"Le Gouardon, Louis-Maurice",1789-09-07,Mozambique,Cap Français,Saint-Domingue,434,300,,,,,,
+31768,Belle Arsène,France,"Darribeau, Léon",1789-10-05,Kilwa,"Saint-Domingue, port unspecified",Saint-Domingue,386,267,,,,,,
+31778,Aigle,France,"Briou, Joachim",1789-12-23,Mozambique,Cayes (Les),Saint-Domingue,402,278,,,,,,
+31783,Bonne Henriette,France,"Jagault, Jean",1790-03-17,Mozambique,Cap Français,Saint-Domingue,334,310,,,,,,
+31788,Indien,France,"Despiet, Nicolas",1790-07-19,Kilwa,Cap Français,Saint-Domingue,220,186,46.0%,25.0%,22.0%,7.0%,29.0%,
+31797,Jeune Caroline,France,Lemaître,1791-02-05,Mozambique,Cap Français,Saint-Domingue,386,267,,,,,,
+31842,Comte de Toulouse,France,"Burgh, Edmond",1721-11-29,Madagascar,Cap Français,Saint-Domingue,386,267,,,,,,
+32019,Pintade,France,"Boudin Kerozet, A",1782-10-22,"Southeast Africa and Indian Ocean islands, port unspecified","Americas, port unspecified",Americas,386,267,,,,,,
+32020,Eléonore,France,"Lethennic, J-Fr",1786-02-19,Kilwa,Cap Français,Saint-Domingue,174,120,54.0%,21.0%,17.0%,8.0%,25.0%,
+32021,Marguerite,France,David,1788-??-??,Mozambique,Cap Français,Saint-Domingue,333,230,,,,,,
+32022,Théodore,France,Nicolas; Barneve,1791-??-??,Kilwa,Cap Français,Saint-Domingue,333,230,,,,,,
+32438,Alcyon,France,"Planne, J de",1790-06-??,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,386,267,,,,,,70
+32762,Don Royal,France,"Levannier, Louis",1788-03-24,Mozambique,,,570,,,,,,,570
+32763,Cinq Cousines,France,Lévêque,1788-04-19,Mozambique,Léogane,Saint-Domingue,472,326,,,,,,
+32764,Passager du Roi,France,Le Torzec,1788-05-03,Kilwa,Léogane,Saint-Domingue,298,206,,,,,,
+32812,Necker,France,"Le Torzec, Pierre",1790-04-27,Mozambique,Port-au-Prince,Saint-Domingue,550,380,,,,,,
+32814,Passager du Roi,France,"Guillemet, Fr-Ch",1790-05-09,Mozambique,Léogane,Saint-Domingue,205,142,,,,,,
+32849,Alcyon,France,"Bienvenu, Philippe de",1713-01-10,Cabinda,"Martinique, port unspecified",Martinique,425,324,,,,,,
+32981,Saint André,France,"Fautrel, Nicolas",1769-04-??,Mozambique,,,386,,,,,,,
+32982,Digue,France,"Saint-Pierre, Louis; Desmolières, Robinot",1772-04-17,Quirimba,Cap Français,Saint-Domingue,333,230,,,,,,
+32985,Gracieux,France,"Totin, Louis; Dupuy",1776-03-26,Momboza or Zanzibar,Cap Français,Saint-Domingue,476,329,,,,,,
+32990,Vicomte de Souillac,France,Bazin,1784-??-??,Mozambique,Cap Français,Saint-Domingue,386,267,,,,,,
+32997,Breton,France,Guesdon,1786-12-22,Ibo,Saint-Marc,Saint-Domingue,820,630,,,,,,190
+32998,Félix,France,"Dubreil, Fr",1788-04-19,Mozambique,Cayes (Les),Saint-Domingue,148,102,,,,,,
+32999,Amitié,France,"Jalabert, Ant-Fr",1789-01-06,Kilwa,Léogane,Saint-Domingue,318,220,,,,,,
+33000,Assemblée Nationale,France,Gouraud,1790-02-08,Mozambique,Cap Français,Saint-Domingue,434,300,,,,,,
+33002,Amitié,France,"Jalabert, Ant-Fr",1790-10-27,Mascarene Islands,Saint-Marc,Saint-Domingue,310,214,,,,,,
+33037,Vicomte de Souillac,France,Camairan,1784-05-26,Quirimba,Cap Français,Saint-Domingue,171,118,42.0%,25.0%,17.0%,15.0%,32.0%,
+33055,Joachim,France,Dalmus; Gigot,1787-11-17,Mozambique,Cap Français,Saint-Domingue,250,173,,,,,,
+33056,Raphaël,France,"Augier; Dalmus, E",1787-11-17,Mozambique,Cap Français,Saint-Domingue,229,158,,,,,,
+33058,Bienfait,France,Porry,1788-??-??,Mozambique,Cap Français,Saint-Domingue,339,234,,,,,,
+33059,Trois Philippes,France,"Antoine, P",1788-03-28,Mozambique,Cayes (Les),Saint-Domingue,414,286,,,,,,
+33060,Eclair,France,"Carré; Cavailhon, S",1788-04-28,Mozambique,Port-au-Prince,Saint-Domingue,155,107,,,,,,
+33063,Constante Pauline,France,Comte,1788-??-??,Mozambique,Cayes (Les),Saint-Domingue,334,231,,,,,,
+33064,Sérapis,France,"Curet, Louis",1788-??-??,Mozambique,Port-au-Prince,Saint-Domingue,403,340,,,,,,
+33066,Marc Antoine,France,André,1788-??-??,Mozambique,Cap Français,Saint-Domingue,386,267,,,,,,
+33069,Concorde,France,Audibert,1789-??-??,Mozambique,Cap Français,Saint-Domingue,337,233,,,,,,
+33070,Mars,France,Jeansaume,1789-??-??,Mozambique,Cap Français,Saint-Domingue,434,300,,,,,,
+33072,Saint Esprit,France,Vidal,1790-02-16,Mozambique,Port-au-Prince,Saint-Domingue,386,267,,,,,,
+33073,Ville de Lausanne,France,Antoine,1790-02-19,Mozambique,Cap Français,Saint-Domingue,796,550,,,,,,
+33074,Trois Philippes (a) Tres Amigos,France,"Fruchard; Gaudri, J",1790-02-25,Mozambique,Cayes (Les),Saint-Domingue,299,250,55.0%,17.0%,21.0%,7.0%,28.0%,
+33075,Pays de Vaud,France,"Antoine, Louis",1790-03-03,Mozambique,Cap Français,Saint-Domingue,579,485,,,,,,
+33082,Helvétie,France,"Augé, P",1791-03-13,Mozambique,Havana,Cuba,550,414,64.0%,13.0%,16.0%,6.0%,23.0%,136
+33083,Sérapis,France,"Curet, L-M",1791-03-14,Mozambique,Havana,Cuba,454,314,59.0%,17.0%,19.0%,5.0%,24.0%,
+33085,Anaz,France,"Heraud, J-M",1791-12-??,Mozambique,,,386,267,,,,,,
+33112,Astrée,France,Rouxel de Saint-Maurice,1785-07-23,Mozambique,Cap Français,Saint-Domingue,362,250,,,,,,
+33283,Sainte Anne,France,Hercouët,1775-10-27,Mozambique,Cap Français,Saint-Domingue,553,553,43.0%,22.0%,23.0%,12.0%,35.0%,
+33290,Aimable Victoire,France,Ruellan de Gallinée,1777-??-??,Mozambique,Cayenne,French Guiana,386,267,,,,,,
+33313,Aurore,France,Tardivet,1789-03-03,Mozambique,,,600,,,,,,,
+33316,Comte de Thiard,France,"Avice, Bertrand",1789-08-14,Mozambique,Cap Français,Saint-Domingue,230,230,,,,,,
+33329,Samaritaine,France,Herpin,1783-??-??,Kilwa,Cap Français,Saint-Domingue,166,115,,,,,,
+33521,Africain,France,"Guezennec, Joseph",1819-09-11,Zanzibar,"Martinique, port unspecified",Martinique,244,200,,,,,,
+33524,Bon Ménage,,,1790-09-??,Mozambique,"Dominica, port unspecified",Dominica,970,670,,,,,,
+33561,Négrier Impérial,France,Bucaud (Baud?),1783-??-??,Mozambique,Havana,Cuba,386,267,,,,,,
+33566,Sully,France,"Tabois, Jacques",1784-??-??,Mascarene Islands,"Martinique, port unspecified",Martinique,386,267,,,,,,
+33567,David,,"Jalineau, François",1786-02-11,Mozambique,,,386,,,,,,,
+33573,Sully,France,"Tabois, Jacques",1786-12-14,Mozambique,,,386,267,,,,,,
+33578,Oiseau,France,Lemercier,1786-03-02,Kilwa,"French Caribbean, colony unspecified",Other French Caribbean,310,266,,,,,,
+33597,"Maurice, Charles",France,"Darribeau, Léon",1802-06-05,"Southeast Africa and Indian Ocean islands, port unspecified",Montevideo,Rio de la Plata,400,312,56.0%,37.0%,7.0%,,7.0%,88
+33603,Guteman,France,"Bunder, Peter Christian; Castex, Étienne",1802-08-02,Mozambique,Buenos Aires,Rio de la Plata,547,448,,,,,,
+33613,Gustave,France,"Rondeau, Maurice",1804-01-06,Kilwa,,,514,421,,,,,,
+33701,Livorne,France,Brugerin,,Mozambique,"Saint-Domingue, port unspecified",Saint-Domingue,386,267,,,,,,
+33702,Alexandre,France,,,"Southeast Africa and Indian Ocean islands, port unspecified","Saint-Domingue, port unspecified",Saint-Domingue,260,42,,,,,,218
+33770,Saint Michel,France,,1734-04-12,Madagascar,"Saint-Domingue, port unspecified",Saint-Domingue,386,267,,,,,,
+33823,Paquebot de Bourbon,France,,1786-06-23,Mozambique,Cap Français,Saint-Domingue,190,131,,,,,,
+34270,Silence,France,Fortier,1821-05-03,"Southeast Africa and Indian Ocean islands, port unspecified","Brazil, region unspecified",Other Brazil,514,421,,,,,,
+34671,Furet,France,"Bertrand, Pierre",1830-04-24,"Southeast Africa and Indian Ocean islands, port unspecified","Americas, port unspecified",Americas,490,444,,,,,,
+35107,Grevinden af Laurvigen,Denmark,"Holst, J N",1737-06-08,Madagascar,St. Thomas,Danish West Indies,42,21,30.0%,40.0%,25.0%,5.0%,30.0%,21
+36570,Ascension,U.S.A.,"Stanton, John",1791-10-15,Mozambique,Havana,Cuba,276,214,47.0%,22.0%,19.0%,12.0%,31.0%,62
+36588,Don Galvez,U.S.A.,Grey,1792-12-??,Mozambique,St. Eustatius,Dutch Caribbean,271,251,,,,,,
+36590,Ascension,U.S.A.,"Chace, Samuel",1793-05-28,Mozambique,Havana,Cuba,221,197,39.0%,11.0%,37.0%,14.0%,51.0%,24
+36620,Ascension,U.S.A.,"Chace, Samuel",1795-11-02,Mozambique,Montevideo,Rio de la Plata,283,250,46.0%,11.0%,38.0%,5.0%,43.0%,33
+36759,Elizabeth and Sarah,U.S.A.,"Wickham, Miller",1802-04-26,Mozambique,Havana,Cuba,143,97,40.0%,23.0%,25.0%,12.0%,37.0%,46
+36782,Minerva,U.S.A.,"Collins, William",1803-07-08,Quilimane,Havana,Cuba,205,160,54.0%,21.0%,16.0%,9.0%,24.0%,45
+36809,Oneida,U.S.A.,"Mayberry, Freeman",1804-06-07,Mozambique,Havana,Cuba,268,239,63.0%,13.0%,20.0%,3.0%,23.0%,
+36817,Charles and Harriot,U.S.A.,"Earle, William",1805-06-01,Mozambique,Montevideo,Rio de la Plata,170,128,,,,,,
+36818,Swift,U.S.A.,"Mayberry, Freeman",1805-06-01,Mozambique,Montevideo,Rio de la Plata,246,170,,,,,,76
+36884,Ann,U.S.A.,"Dennison, Jonathan",1806-07-24,Elmina,Cape of Good Hope,Southeast Africa and Indian Ocean islands,163,123,,,,,,
+36971,Fracial,U.S.A.,"Malbon, Henry",,Mozambique,Montevideo,Rio de la Plata,202,75,,,,,,127
+36997,Charles,U.S.A.,"Thurber, John",1693-??-??,Madagascar,New York,New York,34,27,,,,,,
+36998,Margaret,U.S.A.,"Burgess, Samuel",1695-02-??,Madagascar,New York,New York,123,101,,,,,,
+36999,New York Merchant,U.S.A.,"Jacobs, Cornelius",1697-01-??,Madagascar,New York,New York,83,70,,,,,,
+37011,Charles,,"Thurber, John",,Madagascar,,,181,155,,,,,,
+37012,Katherine,,"Mostyn, Thomas",1695-02-??,Madagascar,,,181,155,,,,,,
+37013, ,,"Jacobs, Cornelius",1697-??-??,Madagascar,New York,New York,181,155,,,,,,
+37015,Fortune,,"Mostyn, Thomas",,Madagascar,New York,New York,181,155,,,,,,
+37041,Almanac,U.S.A.,"Chace, Samuel",1800-04-21,Quilimane,Montevideo,Rio de la Plata,368,344,,,,,,24
+37043,Susanna (a) Suzana,,"Evans, Lymon",,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,210,190,,,,,,
+37045,Ann,U.S.A.,"Denninson, J",1806-??-??,Cape Mount (Cape Grand Mount),Cape of Good Hope,Southeast Africa and Indian Ocean islands,184,156,,,,,,
+37047,Peje,,"Dunn, Joel",,Mozambique,"Florida, port unspecified",Florida,19,16,,,,,,
+37090,Medion,U.S.A.,,1801-12-08,Mozambique,,,390,353,,,,,,
+37100,Agent,,,,Mozambique,New Orleans,Gulf coast,267,201,,,,,,
+37108,Trial,,"Gardner, John",,Mozambique,,,390,353,,,,,,
+37109,Harmonia,U.S.A.,,1801-12-26,Mozambique,,,390,353,,,,,,
+37110, ,U.S.A.,"William, James",,Inhambane,,,50,,,,,,,
+37115,Agent,U.S.A.,Campbell,1807-04-27,Mozambique,Louisiana,Gulf coast,180,135,,,,,,
+37138,Horizon,,McClure,1804-12-04,Zanzibar,,,267,201,,,,,,
+37222,Richmond,U.S.A.,,,Mozambique,Havana,Cuba,149,126,,,,,,
+39058,Esplorador,Spain,"Blas Conde, Mariano",1837-07-07,Mozambique,Havana,Cuba,560,200,,,,,,360
+39092,Inácio,Spain,,1801-??-??,Mozambique,,,514,421,,,,,,
+39093,Diogenes,,,,Mozambique,,,490,444,,,,,,
+40297,NS Mãe de Deus dos Homens e S Antônio Po,,"Martins, Antônio José",,Mozambique,"Bahia, port unspecified",Bahia,34,31,,,,,,
+40505,Cabragante,,"Lagrão, Pedro",,Quilimane,Paraíba,Pernambuco,50,46,,,,,,
+40524,Avoador,,,,Mozambique,"Pernambuco, port unspecified",Pernambuco,331,295,,,,,,
+40526,NS da Conceição Aliança,Portugal,"Viana, Joaquim Martins",1820-09-19,Mozambique,"Pernambuco, port unspecified",Pernambuco,289,265,,,,,,
+40529,Oriente,Portugal,"Monteiro, Francisco Sabino; Nunes, Lourenço",1820-06-17,Quilimane,"Pernambuco, port unspecified",Pernambuco,76,69,,,,,,
+40618,D Domingos,,"Vergoás, Pedro José",1815-06-10,Mozambique,"Pernambuco, port unspecified",Pernambuco,310,279,,,,,,
+40619,S Marcos,,"Vítor, José Luís",1815-06-17,Mozambique,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+40640,Bizarria,,"Salgueiro, Manoel Fernandes",1816-10-11,Momboza or Zanzibar,"Pernambuco, port unspecified",Pernambuco,239,217,,,,,,
+40647,Bonfim,,"Machado, Teotônio Vicente",1816-07-23,Inhambane,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+40648,Adamastor,,"Lopes, João Crisóstomo Rodrigues",1819-04-29,Mozambique,"Bahia, port unspecified",Bahia,680,300,,,,,,380
+40649,Adamastor,,"Bastos, Joaquim José da Rocha",1820-09-22,Mozambique,"Bahia, port unspecified",Bahia,439,378,,,,,,61
+40772,Zéfiro,,,1830-06-25,Lourenço Marques,Rio de Janeiro,Southeast Brazil,691,565,,,,,,
+40777,Espada de Ferro,,"Almeida, Joaquim Francisco de",,Mozambique,"Pernambuco, port unspecified",Pernambuco,492,412,,,,,,
+40778,Espada de Ferro,,"Almeida, Joaquim Francisco de",,Mozambique,"Pernambuco, port unspecified",Pernambuco,492,412,,,,,,
+40779, ,,,1816-06-??,Quilimane,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+40781,NS da Conceição,,"Borba, Nicolau Antônio da",1816-10-18,Momboza or Zanzibar,"Pernambuco, port unspecified",Pernambuco,119,100,,,,,,
+40783,Delfim,Portugal,,,Mozambique,"Pernambuco, port unspecified",Pernambuco,333,305,,,,,,
+41316,Regente,,"Santos, Casemiro Lúcio dos",,Quilimane,Rio de Janeiro,Southeast Brazil,472,428,,,,,,
+41317,NS de Esperança,,,1802-12-10,Mozambique,,,390,353,,,,,,
+41318,Minerva,Spain,"Ford, Gabriel",,Mozambique,Montevideo,Rio de la Plata,316,282,,,,,,34
+41319,Africano,Spain,,1802-04-25,Mozambique,Buenos Aires,Rio de la Plata,342,310,,,,,,
+41320,S Pedro,,,,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,363,337,,,,,,
+41399,Centinela,Spain,"Clavel, Jaime",,Mozambique,Havana,Cuba,424,405,41.0%,14.0%,23.0%,23.0%,45.0%,19
+41783,Joaquim,Portugal,"Gomes, Manoel José",1797-09-26,Quilimane,Rio de Janeiro,Southeast Brazil,201,186,,,,,,
+41784,Fortuna,,,1840-09-??,Quilimane,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+41799,Feliz Americano,,"Henriques, João Militão",1822-04-15,Quilimane,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+41802,Eugênia Africana,,,,Quilimane,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+41803,Aurora,,"Pinto, José Pereira",,Mozambique,Rio de Janeiro,Southeast Brazil,530,473,,,,,,
+41808,Dois Irmãos,,"Meireles, José Joaquim",,Inhambane,Rio de Janeiro,Southeast Brazil,160,147,,,,,,
+41809,Rainha dos Anjos,Portugal,,,Mozambique,Rio de Janeiro,Southeast Brazil,492,412,,,,,,
+41829,Paquete Real,,"Siqueira, José Pedro de",1817-07-27,Mozambique,"Bahia, port unspecified",Bahia,390,353,,,,,,
+41840,Generoso,Portugal,"Lopes, Manoel José",1818-06-06,Mozambique,"Bahia, port unspecified",Bahia,390,353,,,,,,
+41846,Brilhante,Portugal,"Santa Bárbara, Manoel Maria",,Mozambique,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,490,444,,,,,,
+41888,Epifania,,"Carvalho, Miguel Alves Machado de",,Mozambique,"Brazil, region unspecified",Other Brazil,183,160,,,,,,
+41891,Esperança,,,1839-01-??,Quilimane,Campos,Southeast Brazil,733,600,,,,,,
+41901, ,Portugal,"Porto, Emmanuel Francisco",,"West Central Africa and St. Helena, port unspecified",Cape of Good Hope,Southeast Africa and Indian Ocean islands,500,174,,,,,,326
+41983,Elizabeth,Portugal,,,"Southeast Africa and Indian Ocean islands, port unspecified",Cape of Good Hope,Southeast Africa and Indian Ocean islands,533,436,,,,,,
+41984,Aguia Roxa,Portugal,,,"Southeast Africa and Indian Ocean islands, port unspecified",Rio de Janeiro,Southeast Brazil,238,37,,,,,,201
+44198,Hasselt,,"Moocker, Joost Hendrixsen",1657-04-10,Popo,Cape of Good Hope,Southeast Africa and Indian Ocean islands,262,228,49.0%,51.0%,,,5.0%,
+46264,Quatorze de Julho,Portugal,"Franca, Antônio Martinez Mena",,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,307,277,,,,,,
+46270,Dublin,Portugal,"Cunha, Antônio Fonseca da",,Mozambique,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,490,444,,,,,,
+46271,Adamastor,Portugal,"Viana, Antônio Rodrigues de",,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",Southeast Brazil,490,444,,,,,,
+46301,NS da Lapa,,"Bitencourt, Manoel José",1802-01-04,Mozambique,Rio de Janeiro,Southeast Brazil,310,279,,,,,,
+46400,Robusto,,"Baião, Jerônimo Dias",1815-06-13,Mozambique,Rio de Janeiro,Southeast Brazil,310,279,,,,,,
+46409,NS de Nazaré e Boa Memória,,,1664-07-20,Mozambique,"Bahia, port unspecified",Bahia,301,272,,,,,,
+46442,NS da Conceição Aliança,,,,Mozambique,"Pernambuco, port unspecified",Pernambuco,251,230,,,,,,
+46449,Dois Amigos,,,1839-11-??,Mozambique,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+46450,NS da Atalaia,Portugal,,,Mozambique,Rio de Janeiro,Southeast Brazil,119,82,,,,,,
+46451,Afonso de Albuquerque,,,,Mozambique,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+46452,Oriental,Uruguay,"Gonçalves, Pedro Augusto",,Lourenço Marques,,,514,421,,,,,,
+46453,Sr do Bonfim,Portugal,,,Mozambique,,,386,267,,,,,,
+46454,Aurora,,"Silveira, Valentim José da",,Mozambique,"Brazil, region unspecified",Other Brazil,514,421,,,,,,
+46455,Delfim,Portugal,"Santos, Vicente Tomás dos",,Mozambique,Maranhão,Amazonia,273,250,,,,,,
+46456,Maria Teresa,Portugal,"Santos, Vicente Tomás dos",1822-05-20,Inhambane,,,390,353,,,,,,
+46457,Sete de Fevereiro,,"Rodrigues, Francisco de Paula",,Mozambique,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+46458,Pérola do Mar,,"Barbosa, Joaquim Gomes",,Mozambique,Rio de Janeiro,Southeast Brazil,475,436,,,,,,
+46460,Jovem Matilde,Portugal,,,Quilimane,Rio de Janeiro,Southeast Brazil,490,444,,,,,,
+46461,General Cavalcanti,,"Nicolau, Pedro José",,Quilimane,"Bahia, port unspecified",Bahia,273,250,,,,,,
+46463,Flor de Moçambique,,,,Lourenço Marques,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+46464,Brilhante,,,,Mozambique,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+46465,Oceano,,,,Mozambique,"Brazil, region unspecified",Other Brazil,140,117,,,,,,
+46466,NS da Guia Morgado do Almeo,,"Silva, José Jorge da",,Quilimane,"Bahia, port unspecified",Bahia,365,334,,,,,,
+46467,Flor da Bahia,,,,Mozambique,"Brazil, region unspecified",Other Brazil,680,600,,,,,,80
+46468,Aurora do Cabo,,"Sousa, Francisco José de",,Quilimane,Rio de Janeiro,Southeast Brazil,450,412,,,,,,
+46469,NS da Piedade,Portugal,,,Mozambique,Rio de Janeiro,Southeast Brazil,119,82,,,,,,
+46517, ,,,,Mozambique,Cienfuegos,Cuba,667,600,,,,,,
+46518, ,,,,Mozambique,"Cuba, port unspecified",Cuba,626,563,,,,,,
+46672,Ulisses,,"Ferreira, Joaquim",1812-06-15,Mozambique,Rio de Janeiro,Southeast Brazil,310,279,,,,,,
+46680,Pilar,,"Ribeiro, João",,Mozambique,"Bahia, port unspecified",Bahia,406,356,,,,,,
+46681, ,,,1718-??-??,Madagascar,"Bahia, port unspecified",Bahia,406,356,,,,,,
+46720,Dois Corações Unidos,,"Siqueira, João Batista",1806-01-24,Mozambique,"Bahia, port unspecified",Bahia,390,353,,,,,,
+46762,Maria Carlota,,,,Mozambique,,,515,421,,,,,,
+46763,Árabe,,,,Quilimane,,,490,444,,,,,,
+46806,Arrogante,,"Cruz, Antônio Martins da",,Mozambique,Montevideo,Rio de la Plata,280,250,,,,,,
+46829,Dourado,,"Freitas, Manoel Lopes de; Santana, José de",1820-06-16,Mozambique,"Bahia, port unspecified",Bahia,273,250,,,,,,
+46836,Flor da Bahia,,"Lopes, Manoel José",1820-05-05,Mozambique,"Bahia, port unspecified",Bahia,390,353,,,,,,
+46838,Flor do Rio,,"Lopes, Manoel José",1819-04-05,Mozambique,"Bahia, port unspecified",Bahia,640,576,,,,,,64
+46841,NS da Conceição Minerva,Portugal,,1819-07-14,Mozambique,"Bahia, port unspecified",Bahia,273,250,,,,,,
+46843,Vigilante Guerreiro (a) Lêndea,,"Dias, Domingos Francisco",1820-10-31,Mozambique,"Bahia, port unspecified",Bahia,273,250,,,,,,
+46868,Bom Caminho,,"Souza, João Brás de",1819-04-25,Quilimane,"Bahia, port unspecified",Bahia,355,322,,,,,,
+46889,Jesus Maria José,Spain,"Sacetenea, José Antônio",1796-09-07,Cape of Good Hope,,,258,230,,,,,,
+46891,Oceano,,"Batista, Rufino Pires",,Mozambique,"Bahia, port unspecified",Bahia,273,250,,,,,,
+46892,S Marcos,Portugal,,1816-06-26,Quilimane,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+46897,Bom Caminho,,"Dias, Domingos Francisco",1818-06-15,Quilimane,"Bahia, port unspecified",Bahia,446,370,,,,,,76
+46907,Manuela (a) Sunny South,,,,Mozambique,Ile de France,Southeast Africa and Indian Ocean islands,544,445,,,,,,
+47063,Americana Portuguesa,Portugal,"Gervásio, Joaquim",1814-09-23,Mozambique,"Bahia, port unspecified",Bahia,390,353,,,,,,
+47081,Flor da Bahia,,"Gomes, José Martins",1816-04-24,Mozambique,"Bahia, port unspecified",Bahia,390,353,,,,,,
+47099,Bom Jesus de Além,,"Silveira, José Inácio da",1819-06-12,Mozambique,"Pernambuco, port unspecified",Pernambuco,670,490,,,,,,180
+47100,Bom Jesus de Além,,"Machado, Teotônio Vicente",1820-04-18,Mozambique,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+47113,Esperança,,"Bastos, Bernardino José de",1818-09-11,Quilimane,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+47116,Conceição Aliança,,"Palmeira, Joaquim Epifânio Lopes",1818-09-09,Mozambique,"Pernambuco, port unspecified",Pernambuco,273,250,,,,,,
+47117,Conceição Aliança,,"Palmeira, Joaquim Epifânio Lopes",1819-08-12,Mozambique,Maranhão,Amazonia,300,230,,,,,,70
+47120,Serpente,,"Rosario, Bernardo José do",1817-07-29,Momboza or Zanzibar,"Pernambuco, port unspecified",Pernambuco,239,217,,,,,,
+47130,Mato Grosso,,"Melo, Francisco José de",1817-08-28,Quilimane,"Pernambuco, port unspecified",Pernambuco,475,436,,,,,,
+47147,Feliz,,"Visado, Pedro José",1814-06-27,Mozambique,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+47169,NS da Conceição e Sr dos Passos,,"Francisco, João",1813-05-22,Mozambique,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+47177,S Antônio,,"Diniz, José Teixeira",1805-09-16,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+47189,Alexandre Primeiro,Portugal,"Marques, Caetano José Rodrigues",1812-07-11,Mozambique,"Pernambuco, port unspecified",Pernambuco,530,473,,,,,,
+47201,S José e Bom Jesus dos Navegantes,Portugal,"Ferreira, José Joaquim",,Mozambique,Maranhão,Amazonia,402,371,,,,,,
+47202,Aurora,Portugal,"Silva, João Francisco da",1816-08-08,Mozambique,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+47209,Regeneração,Portugal,,1816-??-??,Quilimane,"Pernambuco, port unspecified",Pernambuco,390,353,,,,,,
+47294,Providência,,"Moraes, Joaquim Teodoro de",1813-05-15,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+47295,Feliz Americano,,"Maza, Henrique",1813-03-20,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+47303,Amazona,,"Ferreira, Antônio José",1823-05-13,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+47363,NS das Brotas e S João Nepomuceno Perjuíba,,"Domingues, José",1802-03-05,Mozambique,Rio de Janeiro,Southeast Brazil,475,436,,,,,,
+47453,NS do Paraíso S Antônio e S Francisco Xavier,,"Branco, Antônio Gonçalves",1720-??-??,Madagascar,"Brazil, region unspecified",Other Brazil,386,267,,,,,,
+47458,Amazona,,"Silva, Manoel Lopes da",1820-04-28,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+47710,NS da Conceição Princesa,,"Moura, José Gervásio",,Benguela,"Bahia, port unspecified",Bahia,359,328,,,,,,
+47711,NS da Conceição S Antônio e Almas,,"Moreira, José Alves",1785-11-08,Mozambique,,,271,251,,,,,,
+47950,NS de Belém,Portugal,"Santos, Luís Gomes dos",,Mozambique,"Bahia, port unspecified",Bahia,353,324,,,,,,
+47960,Vulcano,,,1826-05-19,Mozambique,Rio de Janeiro,Southeast Brazil,449,421,,,,,,
+47966,Voador,,"Rodrigues, Antônio Feliciano",1820-07-21,Madagascar,Rio de Janeiro,Southeast Brazil,550,290,,,,,,260
+47973,Vigilante,,"Silva, Manoel Lopes da",1812-06-27,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+47983,Seis de Fevereiro,,"Moreira, José Lopes da Costa (Jr)",1823-06-05,Quilimane,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+47997,Resolução,,"Souza, Luís Inácio de",1814-04-11,Mozambique,Rio de Janeiro,Southeast Brazil,530,473,,,,,,
+47998,Reino do Brasil,Portugal,,,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+48000,Príncipe Regente,,"Moraes, José de",1821-06-08,Mozambique,Rio de Janeiro,Southeast Brazil,530,473,,,,,,
+48444,Rainha dos Anjos,Portugal,"Souza, Manoel de; Reis, Jose Severino dos",1789-04-07,Mozambique,,,258,230,,,,,,
+48658,NS da Arrábida e S Rita,,,,Mozambique,"Bahia, port unspecified",Bahia,316,284,,,,,,
+48802,Flor do Brasil,,"Brito, José Joaquim de",1818-05-14,Mozambique,"Bahia, port unspecified",Bahia,495,428,,,,,,67
+48804,Flor da Bahia,,"Ferreira, José dos Santos",1818-06-20,Mozambique,"Bahia, port unspecified",Bahia,557,365,,,,,,192
+48823,Estrela,,"Garção, José Pedro da Rocha",1819-06-03,Quilimane,"Bahia, port unspecified",Bahia,211,191,,,,,,
+48825,General Cavalcante,Portugal,"Negrão, Pedro José",,Quilimane,"Bahia, port unspecified",Bahia,561,334,,,,,,227
+48835,Vigilante Guerreiro,,"Dias, Domingos Francisco",1819-04-25,Quilimane,"Bahia, port unspecified",Bahia,430,230,,,,,,200
+48931,NS da Visitação,,"Lisboa, Francisco Rodrigues",,Mozambique,"Bahia, port unspecified",Bahia,357,319,,,,,,
+49004,Mariana,,"Domingues, Jerônimo",1819-08-02,Quilimane,Rio de Janeiro,Southeast Brazil,500,446,,,,,,
+49005,Feliz Americano,,"Faria, Joaquim Pires",1819-06-24,Quilimane,Rio de Janeiro,Southeast Brazil,426,386,,,,,,
+49006,Duque de Bragança,,"Cunha, Eusébio José da",1819-05-31,Mozambique,Rio de Janeiro,Southeast Brazil,510,230,,,,,,280
+49009,Vitória,,"Santos, Manoel Cardoso dos; Araújo, José Caetano de",1819-05-19,Madagascar,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+49012,União Feliz,,"Teixeira, Jacinto Alves",1819-07-07,Madagascar,Rio de Janeiro,Southeast Brazil,530,472,,,,,,
+49013,Esgueira,,"Santos, Joaquim dos",1819-06-16,Quilimane,Rio de Janeiro,Southeast Brazil,434,393,,,,,,
+49014,Leopoldina,,"Góes, Manoel de Souza",1819-08-08,Quilimane,Rio de Janeiro,Southeast Brazil,422,376,,,,,,
+49015,General Silveira,Portugal,"Gonçalves, Joaquim José; Santos, José Vieira dos; Gonçalves, Joaquim José",1819-06-19,Quilimane,Rio de Janeiro,Southeast Brazil,425,385,,,,,,
+49021,Pastora de Lima,,"Castro, Nicolau Joaquim de",1819-10-19,Quilimane,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+49024,Voador,,"Luz, José Joaquim da",1819-08-13,Madagascar,Rio de Janeiro,Southeast Brazil,530,472,,,,,,
+49038,Despique,,"Souza, Luís Inácio de",1820-05-01,Madagascar,Rio de Janeiro,Southeast Brazil,468,417,,,,,,
+49039,Aurora do Cabo,,"Souza, Francisco José de; Lemos, José Manoel de",1820-04-18,Quilimane,Rio de Janeiro,Southeast Brazil,450,408,,,,,,
+49040,Mariana,,"Domingues, Jerônimo",1820-05-28,Madagascar,Rio de Janeiro,Southeast Brazil,530,472,,,,,,
+49041,Polifemo,,"Blanchart, Manoel Pereira de Souza",1820-05-12,Mozambique,Rio de Janeiro,Southeast Brazil,183,160,,,,,,
+49043,Feliz Eugênia,,"Fogaça, Antônio Gomes",1819-09-28,Madagascar,Rio de Janeiro,Southeast Brazil,530,472,,,,,,
+49044,Triunfo do Brasil,,"Carrilho, João Rodrigues",1820-05-02,Madagascar,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+49045,Feliz Americano,,"Henriques, João Militão",1820-05-14,Quilimane,Rio de Janeiro,Southeast Brazil,432,391,,,,,,
+49048,Ulisses,,"Viana, Pedro José Correa",,Madagascar,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+49049,Flor do Brasil,,"Silva, José Emídio Pacheco da",1820-04-16,Madagascar,Rio de Janeiro,Southeast Brazil,530,472,,,,,,
+49051,Aurora do Cabo,,"Henriques, João Militão",1818-05-15,Mozambique,Rio de Janeiro,Southeast Brazil,401,363,,,,,,
+49053,Mariana,,"Maia, José Ferreira",1827-03-21,Quilimane,Rio de Janeiro,Southeast Brazil,556,459,,,,,,97
+49064,Providente,,"Domingos, Jerônimo; Cristóvão, João",,Inhambane,Rio de Janeiro,Southeast Brazil,247,229,,,,,,18
+49075,Carolina,,"Santos, Casemiro Lúcio dos",1814-06-24,Mozambique,Rio de Janeiro,Southeast Brazil,530,472,,,,,,
+49079,Esgueira,,"Domingues, Jerônimo",1813-06-23,Madagascar,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+49093,Duque de Bragança,,"Souza, Luís Inácio de",1818-04-20,Mozambique,Rio de Janeiro,Southeast Brazil,530,472,,,,,,
+49096,Resolução,,"Castro, Nicolau Joaquim de",1817-08-24,Madagascar,Rio de Janeiro,Southeast Brazil,405,361,,,,,,
+49100,Zéfiro,,"Lisboa, José Antônio de Freitas; Pitada, José Antônio Moreira de Melo",1820-06-16,Quilimane,Rio de Janeiro,Southeast Brazil,448,406,,,,,,
+49101,Conde dos Arcos,,"Pederneira, Manoel Pereira",1822-07-12,Quilimane,Rio de Janeiro,Southeast Brazil,402,345,,,,,,57
+49104,NS do Baluarte,,"Vieira, Manoel",1822-07-13,Quilimane,Rio de Janeiro,Southeast Brazil,335,287,,,,,,48
+49107,Africano Constitucional,,"Monteiro, Alexandre Correa Cardoso",,Quilimane,Rio de Janeiro,Southeast Brazil,750,627,,,,,,123
+49109,Eugênia,,"Domingues, Jerônimo",,Quilimane,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+49116,Sete de Março,,"Rodrigues, Francisco de Paula",,Madagascar,Rio de Janeiro,Southeast Brazil,722,646,,,,,,76
+49129,Nove de Janeiro,,"Lontra, Rafael Inácio da Fonseca",,Madagascar,Rio de Janeiro,Southeast Brazil,591,513,,,,,,78
+49233,Esperança,,"Dias, Domingos Francisco",,Quilimane,"Bahia, port unspecified",Bahia,386,374,,,,,,12
+49239,Flor da Bahia,Portugal,"Gomes, José Martins",,Mozambique,"Bahia, port unspecified",Bahia,491,301,,,,,,190
+49378,NS do Rosario S Antônio e Almas,,"Domingues, José",1796-04-16,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,353,324,,,,,,
+49379,Comércio do Rio,,"Gonçalves, Joaquim José",1805-08-23,Mozambique,Rio de Janeiro,Southeast Brazil,530,473,,,,,,
+49381,S Caetano,,"Martins, Joaquim de Oliveira",1806-05-02,Mozambique,Rio de Janeiro,Southeast Brazil,530,473,,,,,,
+49382,S Francisco de Paula,,"Sá, Joaquim Manoel de",1806-07-03,Mozambique,Rio de Janeiro,Southeast Brazil,530,473,,,,,,
+49383,NS Mãe dos Homens,,"Pinto, Antônio da Costa",1806-01-28,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,287,260,,,,,,
+49440,S Antônio Vitorioso,,,,Mozambique,"Pernambuco, port unspecified",Pernambuco,345,300,,,,,,
+49470,Príncipe Eugênio,,"Rosa, Brás",,Mozambique,"Bahia, port unspecified",Bahia,244,209,,,,,,
+49734,Elisa,,,,Quilimane,"Southeast Brazil, port unspecified",Southeast Brazil,372,331,,,,,,
+49763,Ânimo Grande,Portugal,"Silva, Joaquim José da",1805-04-24,Mozambique,Pará,Amazonia,300,272,,,,,,
+49764,Africano do Rio,Portugal,"Domingues, José",1804-08-14,Inhambane,Cape of Good Hope,Southeast Africa and Indian Ocean islands,381,340,,,,,,
+49765,General Isidro,Portugal,"Almeida, Manoel Pedro de",,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,267,242,,,,,,
+49767,Dido,Portugal,"Domingues, José",,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,470,420,,,,,,
+49768,Variara,Portugal,,,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,514,421,,,,,,
+49769,Pitiato (a) Viriato,Portugal,"Almeida, Manoel Pedro de",,Mozambique,"Brazil, region unspecified",Other Brazil,260,236,,,,,,
+49770,NS da Boa Viagem e Triunfo da Inveja,Portugal,"Ferreira, José Joaquim",1806-04-10,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+49771,Ânimo Grande,Portugal,"Silva, Joaquim José da",1807-04-13,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,400,362,,,,,,
+49773,Espada de Ferro NS do Rosario Prazeres e Almas,Portugal,"Luz, João Leite da; Faria, João José",1806-01-03,Mozambique,"Brazil, region unspecified",Other Brazil,316,264,,,,,,
+49774,Dois Irmãos (a) Paraquito,Portugal,"Paraquito, José Joaquim Meireiles",,Inhambane,Rio de Janeiro,Southeast Brazil,210,192,,,,,,
+49775,Elesbão,Portugal,"Branco, Jose",,Mozambique,Montevideo,Rio de la Plata,373,304,,,,,,69
+49776,Dido,Portugal,"Madruga, Luís Pereira",1809-05-20,Mozambique,Montevideo,Rio de la Plata,400,368,,,,,,32
+49777,Elesbão,Portugal,"Branco, J P",1810-??-??,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,533,436,,,,,,
+49778,Feliz Dias,Portugal,"Almeida, Vitorino da Luz e",1812-06-26,Quilimane,"Pernambuco, port unspecified",Pernambuco,270,247,,,,,,
+49779,NS da Piedade Triunfo da Inveja,Portugal,"Gomes, Domingos Antônio",1812-07-15,Inhambane,"Pernambuco, port unspecified",Pernambuco,242,219,,,,,,
+49780,Feliz Dias,Portugal,"Almeida, Vitorino da Luz e",1813-06-19,Mozambique,"Pernambuco, port unspecified",Pernambuco,272,246,,,,,,
+49781,S Marcos,Portugal,"Bonifácio, João",,Mozambique,"Pernambuco, port unspecified",Pernambuco,450,412,,,,,,
+49782,S Joaquim,Portugal,"Senhos, José de",,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,364,298,,,,,,
+49783,Feliz Dias,Portugal,"Negrão, Pedro José",,Mozambique,"Pernambuco, port unspecified",Pernambuco,270,247,,,,,,
+49784,Feliz Dias,Portugal,"Ferreira, Antônio Bento",1815-07-17,Mozambique,"Pernambuco, port unspecified",Pernambuco,215,195,,,,,,
+49785,Mato Grosso,Portugal,"Melo, Francisco José de",1816-07-19,Quilimane,"Pernambuco, port unspecified",Pernambuco,430,390,,,,,,
+49786,Flor da Bahia,Portugal,"Ferreira, José dos Santos",,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,488,386,,,,,,102
+49787,Dos Hermanos,Spain,"Botet, José",,Zanzibar,Havana,Cuba,495,336,54.0%,21.0%,21.0%,4.0%,25.0%,159
+49788,Isabella,Spain,Campanera,,Zanzibar,Havana,Cuba,236,193,,,,,,
+49789,Caridad,Spain,"Alcinas, Jose",,Zanzibar,Santiago de Cuba,Cuba,216,193,,,,,,23
+49790,S José,Spain,"Cauteau, Santiago",,Zanzibar,Havana,Cuba,370,303,,,,,,
+49791,Flor do Tejo,,"Ribeiro, Gregório José",1816-05-15,Mozambique,Maranhão,Amazonia,57,51,,,,,,
+49804,NS da Piedade,,"Gama, José Custódio da",1725-??-??,Mozambique,,,579,400,,,,,,
+49883,Diana,,"Monteiro, João Aires",1807-05-27,Mozambique,Rio de Janeiro,Southeast Brazil,310,279,,,,,,
+49971,Feliz Dias,,"Almeida, Vitorino da Luz e",1823-04-08,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+49979,Isabel,,"Branco, Paulo José",1812-07-17,Mozambique,Rio de Janeiro,Southeast Brazil,530,473,,,,,,
+49993,Olímpia,,"Madruga, Francisco Pereira Nunes",1818-08-31,Madagascar,Rio de Janeiro,Southeast Brazil,530,473,,,,,,
+50818,NS da Atalaia e Bom Jesus das Portas,Portugal,,1759-05-08,Mozambique,"Bahia, port unspecified",Bahia,297,277,,,,,,
+50828,Jesus Maria José S Francisco Xavier e Almas,Portugal,"Cox, Samuel",1759-11-21,Mozambique,"Barbados, port unspecified",Barbados,107,100,,,,,,
+50829,NS Mãe dos Homens Vitória e Almas,Portugal,,1759-11-22,Mozambique,"Bahia, port unspecified",Bahia,297,277,,,,,,
+50843,S Miguel o Anjo S Antônio e Almas,Portugal,,1761-01-30,Mozambique,"Bahia, port unspecified",Bahia,297,277,,,,,,
+52001,NS do Rosário e S Antônio,Spain,"Costa, da",,Mozambique,Rio de Janeiro,Southeast Brazil,386,267,,,,,,
+70201,Margaret,U.S.A.,"Burgess, Samuel",1698-06-09,Madagascar,Cape of Good Hope,Southeast Africa and Indian Ocean islands,115,104,,,,,,
+70202,Peter,U.S.A.,"Revelry, George",1698-01-27,Madagascar,New York,New York,149,126,,,,,,
+75307,Crown Gally,Great Britain,"Downing, Dennis",1720-02-24,Madagascar,New York,New York,240,120,16.0%,16.0%,56.0%,16.0%,72.0%,120
+75630,Henrietta,Great Britain,"Loyd, William",1720-??-??,Madagascar,York River,Virginia,188,130,,,,,,
+75866,Mercury,Great Britain,"Christiall, George",1719-02-21,Madagascar,Rappahannock,Virginia,674,466,,,,,,
+76158,Sea Horse,Great Britain,"White, Moor",1726-06-09,Madagascar,Buenos Aires,Rio de la Plata,450,150,,,,,,300
+76203,Saint Michael,Great Britain,"Burnham, Charles",1726-06-03,Madagascar,Buenos Aires,Rio de la Plata,412,340,,,,,,72
+76496,Hamilton,Great Britain,"Burnham, Charles",,Madagascar,"Barbados, port unspecified",Barbados,257,220,,,,,,
+76501,Mercury,Great Britain,"Mackett, Henry",1717-03-07,Madagascar,"Barbados, port unspecified",Barbados,189,158,,,,,,
+76503,Henry,Great Britain,"Harvey, John",1717-04-09,Madagascar,"Barbados, port unspecified",Barbados,491,420,,,,,,
+77047,Rudge,Great Britain,"Williams, Francis",1729-04-03,Madagascar,Buenos Aires,Rio de la Plata,277,245,,,,,,
+77050,Sarah Gally,Great Britain,Bloome,,Madagascar,Buenos Aires,Rio de la Plata,502,347,,,,,,
+77052,Arabella,Great Britain,"Hamilton, William",1718-01-12,Madagascar,Buenos Aires,Rio de la Plata,266,208,,,,,,
+77674,Unity,Great Britain,"Sargent, Step",1757-01-06,Sofala,Charleston,South Carolina,352,288,,,,,,
+78951,Saint Michael,Great Britain,"Burnham, Charles",1729-04-03,Madagascar,Buenos Aires,Rio de la Plata,320,283,,,,,,
+96009,Faustina de Buenos Aires,Spain,"Uraga, Pedro de",1796-06-12,Mozambique,Montevideo,Rio de la Plata,214,161,,,,,,53
+96010,Reyna de los Angeles,Spain,"Calleja, Pablo Antonio",1796-09-27,"Southeast Africa and Indian Ocean islands, port unspecified",Montevideo,Rio de la Plata,28,28,,,,,,
+96011,Ceres,France,Lambert,,"Southeast Africa and Indian Ocean islands, port unspecified",Montevideo,Rio de la Plata,41,41,,,,,,
+96012,Faustina de Buenos Aires,Spain,"Millet, Joaquin",1797-06-23,Mozambique,Montevideo,Rio de la Plata,284,280,,,,,,4
+96014,Astirraga,Spain,"Lopategui, Francisco de",,Mozambique,Montevideo,Rio de la Plata,437,276,,,,,,161
+96015,Nazaré,Portugal,"Guimarães, Manoel de Souza",1797-06-15,Mozambique,Montevideo,Rio de la Plata,250,156,,,,,,94
+96016,Numero Siete,Portugal,"Calvo, Domingo del",,Mozambique,Montevideo,Rio de la Plata,154,94,,,,,,60
+96017,NS da Conceição,,"Castro, José Fernandes de",1799-02-16,"Southeast Africa and Indian Ocean islands, port unspecified",Buenos Aires,Rio de la Plata,27,23,,,,,,
+96022,Lennox,U.S.A.,"Brattel, James",,Mozambique,Buenos Aires,Rio de la Plata,307,258,,,,,,49
+96023,Maria,,,,Mozambique,Buenos Aires,Rio de la Plata,189,189,,,,,,
+96025,NS da Conceição,Portugal,"Copelo, Esteban",,Mozambique,Montevideo,Rio de la Plata,400,330,,,,,,70
+96027,Ligera,France,"Mordelles, Hipolito",,Mozambique,Buenos Aires,Rio de la Plata,275,246,,,,,,
+96030,NS del Juncal,,,,Mozambique,Montevideo,Rio de la Plata,247,213,,,,,,
+96031,Belisário,Portugal,"Ouro, Domingos Crista do",1803-04-06,Mozambique,Montevideo,Rio de la Plata,372,271,,,,,,101
+96032,Vênus,France,"Abrard, Pedro",,"Southeast Africa and Indian Ocean islands, port unspecified",Montevideo,Rio de la Plata,200,198,,,,,,2
+96033,Luísa,,"Santos, Dionísio de C",,Mozambique,Montevideo,Rio de la Plata,300,209,,,,,,91
+96035,Joaquim,Portugal,"Sebastião, José",,Mozambique,Montevideo,Rio de la Plata,376,64,,,,,,312
+96038,Diana,France,"Mordel, Hipolite",,Mozambique,Montevideo,Rio de la Plata,114,103,,,,,,
+96039,Ligero,France,"Beuliu, Juan",,"Southeast Africa and Indian Ocean islands, port unspecified",Montevideo,Rio de la Plata,12,11,,,,,,
+96043,General Isidro,Portugal,"Almeida, Manoel Pedro de",,Mozambique,Montevideo,Rio de la Plata,481,306,,,,,,175
+96044,Ninfa do Mar,Portugal,"Fonseca, Manoel Antônio da",,Mozambique,Montevideo,Rio de la Plata,378,327,,,,,,
+96045,Buena Madre,Spain,"Baudet, Leonardo",,Mozambique,Montevideo,Rio de la Plata,152,130,,,,,,22
+96048,Minerva,U.S.A.,"Love, Jorge",,Mozambique,Montevideo,Rio de la Plata,105,58,,,,,,47
+96063,Aurora,U.S.A.,"Rus, James",,Kilwa,Montevideo,Rio de la Plata,228,171,,,,,,57
+96069,Constância,Spain,Rossi,1802-12-13,Mozambique,Havana,Cuba,117,101,44.0%,8.0%,33.0%,16.0%,49.0%,
+96073,Marques de Flori,France,"Moulin, François",,Mauritius (Ile de France),Montevideo,Rio de la Plata,46,40,85.0%,15.0%,,,,
+96076,María Eugenia,France,"Miguel, Jorge",,Mauritius (Ile de France),Montevideo,Rio de la Plata,46,46,,,,,,
+96078,Christiana,U.S.A.,Thomas Bell,,Mozambique,Montevideo,Rio de la Plata,153,132,,,,,,
+96081,S Jose,Spain,Durandeau,,Kilwa,Buenos Aires,Rio de la Plata,256,213,,,,,,
+96082,NS del Juncal (a) Harmony,Spain,"Welch, Eduard",1801-12-05,Mozambique,Montevideo,Rio de la Plata,200,66,,,,,,134
+96084,Reina Lucía,Portugal,"Soria, Fernando de",,Mozambique,Montevideo,Rio de la Plata,400,330,,,,,,70
+96086,Escolástica,Portugal,"Vega, Bartolomé",,Mozambique,Montevideo,Rio de la Plata,519,369,,,,,,150
+96087,Resolution,U.S.A.,,1802-01-29,Inhambane,Montevideo,Rio de la Plata,330,250,,,,,,80
+96088,Perjuibar,Portugal,"Domingues, Jose",,Mozambique,Montevideo,Rio de la Plata,248,206,,,,,,42
+96089,S Juan Bautista,Spain,"Guarch, Nicolas",,Mozambique,Montevideo,Rio de la Plata,170,151,,,,,,19
+96091,Oriente,France,"Courad, Estanislao",,Mozambique,Montevideo,Rio de la Plata,410,346,,,,,,64
+96092,NS de las Nieves,Spain,"Misura, Mauricio Francisco",,Kilwa,Montevideo,Rio de la Plata,383,233,,,,,,150
+96094,Angela,Spain,,,Mozambique,Buenos Aires,Rio de la Plata,130,108,,,,,,
+96095,Mendon,U.S.A.,,,Mozambique,Buenos Aires,Rio de la Plata,297,247,,,,,,
+96096,S Ignacio (a) Alerta,Spain,,,Mozambique,Buenos Aires,Rio de la Plata,80,67,,,,,,
+96097,Susana,France,,,Mozambique,Buenos Aires,Rio de la Plata,180,150,,,,,,
+96098,Luisa,Spain,,,Mozambique,Montevideo,Rio de la Plata,292,235,,,,,,
+96101,Expedición,Spain,"Oliveira, Joaquín Alfonso",,Mozambique,Buenos Aires,Rio de la Plata,174,158,,,,,,
+96103,Adelayda de Lisboa,Portugal,"Rolan, José",,Mozambique,Montevideo,Rio de la Plata,190,42,,,,,,148
+96104,Active,U.S.A.,"York, Peter",,Zanzibar,Montevideo,Rio de la Plata,91,83,,,,,,8
+96109,Luisa,Portugal,"Moreyra, Custodio de Souza",,Mozambique,Montevideo,Rio de la Plata,337,230,,,,,,107
+96111,Dos Hermanos,Portugal,"Meireles, José Joaquim",,Mozambique,Montevideo,Rio de la Plata,200,194,,,,,,6
+96112,Industria,Spain,"Zufriategui, Pablo",,Mozambique,Montevideo,Rio de la Plata,131,127,,,,,,
+96113,Elizabeth,Portugal,"Blanco, Pablo Toro",,Mozambique,Montevideo,Rio de la Plata,263,235,,,,,,28
+99012,Chevalier Forbin,,Dupress de Manneuellette,,Madagascar,,,386,,,,,,,
+99013,Rochelle,,"Hauteur, de",,Madagascar,,,386,,,,,,,
+900035,Santiago Major,Portugal,,,Mozambique,,,492,412,,,,,,
+900036,Benjamin,France,,,Lourenço Marques,,,386,267,,,,,,
+900037, ,,,,Mozambique,,,492,412,,,,,,
+900039,Vitória,,,1798-06-27,Mozambique,Rio de Janeiro,Southeast Brazil,353,324,,,,,,
+900040,Balsemão,Portugal,,,Mozambique,,,386,267,,,,,,
+900043, ,,"Joanico, Francisco",,Mozambique,,,492,412,,,,,,
+900046,Jacaré,,"Santiago, Antônio Francisco",1802-03-31,Mozambique,Rio de Janeiro,Southeast Brazil,310,279,,,,,,
+900052,Ave Maria,Portugal,"Ferreira, Manoel de Sousa",1803-??-??,Mozambique,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+900053,Conceição,,,,Mozambique,,,492,412,,,,,,
+900054,Excelentíssima Augusta,,"Madeira, Francisco Luís",,Mozambique,"Spanish Caribbean, unspecified",Other Spanish Caribbean,492,412,,,,,,
+900055,Lonhira,,,,Mozambique,,,492,412,,,,,,
+900062, ,,"Borges, Constantino José",1805-11-04,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+900063,Apolo,,"Rodrigues, José Nunes",1805-07-22,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+900065,Santiago Maior,Portugal,"Batista, Rufino Pires",,Mozambique,,,492,412,,,,,,
+900067,Pensamento,,"Carmo, Félix José do",1806-12-09,Mozambique,Rio de Janeiro,Southeast Brazil,390,353,,,,,,
+900068,Telêmaco,,,,Mozambique,Rio de Janeiro,Southeast Brazil,492,412,,,,,,
+900069,Amável Augusta,,,1807-04-08,Mozambique,Cape of Good Hope,Southeast Africa and Indian Ocean islands,220,199,,,,,,
+900070,Constância,,,,Mozambique,"Americas, port unspecified",Americas,530,473,,,,,,
+900072,Salomão,,,,Inhambane,Rio de Janeiro,Southeast Brazil,492,412,,,,,,
+900081,Triunfo do Rio,,,,Mozambique,"Brazil, region unspecified",Other Brazil,600,540,,,,,,60
+900085,Bom Caminho,,,,Quilimane,"Bahia, port unspecified",Bahia,273,250,,,,,,
+900086,Esperança,,,1820-07-30,Inhambane,,,530,,,,,,,
+900087,Júlia,,"Cunha, Eusébio José da",,Quilimane,Rio de Janeiro,Southeast Brazil,398,355,,,,,,
+900105,Furão,,,,Mozambique,Rio de Janeiro,Southeast Brazil,273,250,,,,,,
+900108,Vigilante Guerreiro,,"Lopes, Manoel José",,Inhambane,"Bahia, port unspecified",Bahia,273,250,,,,,,
+900109,Vitória,Brazil,"Viana, Ventura José de Oliveira",,Quilimane,Rio de Janeiro,Southeast Brazil,273,250,,,,,,
+900133,Barca,,,,Quilimane,Rio de Janeiro,Southeast Brazil,600,502,,,,,,
+900134,Ânimo Grande,,"Carvalho, Antônio de Vasconcelos",,Sofala,,,308,,,,,,,
+900135,Delfim,Portugal,"Almeida, Joaquim Francisco de",1820-09-07,Quilimane,,,448,420,,,,,,
+900136,Lourenço Marques,,"Sales, Carlos Adriano de",,Lourenço Marques,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+900153,D João de Castro,,"Freitas, Vicente de",,Mozambique,Ilha de Marambaia,Southeast Brazil,490,444,,,,,,
+900159,Nereida,,,1839-07-??,Mozambique,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+900163,Socorro (a) D Maria Segunda,,,1839-06-05,Mozambique,"Cuba, port unspecified",Cuba,514,421,,,,,,
+900164,Veloz,,,1839-06-??,Mozambique,Rio de Janeiro,Southeast Brazil,514,421,,,,,,
+900186,Garnofil,,,,Quilimane,Rio de Janeiro,Southeast Brazil,600,491,,,,,,
+900191,Andorinha,,,,Quilimane,Rio de Janeiro,Southeast Brazil,490,444,,,,,,
+900192,Bela União,,,,Quilimane,Rio de Janeiro,Southeast Brazil,664,362,,,,,,302
