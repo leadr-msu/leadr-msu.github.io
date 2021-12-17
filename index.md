@@ -69,4 +69,4 @@ You may browse our guides by the following categories:
 - [HST 251 Course Guide - Topic Modeling](https://leadr-msu.github.io/archived/topicmodeling-hst251.html)
 - [HST 390 Course Guide - TimelineJS - History of International Relations](https://leadr-msu.github.io/archived/timelinejs-hst390-international-relations.html)
 - [TE 991 Course Guide - Oral Histories](https://leadr-msu.github.io/archived/oral-history-publication-te991.html)
-- [Visualizing Public Data - Eating Industrial](https://leadr-msu.github.io/visualizing-public-data-eating-industrial)
+- [ISS 310 Course Guide - Visualizing Public Data - Eating Industrial](https://leadr-msu.github.io/archived/visualizing-public-data-eating-industrial.html)
