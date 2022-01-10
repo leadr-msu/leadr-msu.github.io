@@ -1,6 +1,6 @@
 # Visualizing Data with Voyant
 
-Created by [Zach Francis](https://redfeather.dev/), Ashley Highland
+Created by [Zach Francis](https://redfeather.dev/)
 
 *Last Updated: 2/26/2020*
 
