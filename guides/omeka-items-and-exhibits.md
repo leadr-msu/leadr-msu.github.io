@@ -1,6 +1,6 @@
 # Items and Exhibits in Omeka
 
-Created by [Zach Francis](https://redfeather.dev/), [Dan Fandino](http://wiredhistory.com/), Ashley Highland
+Created by [Zach Francis](https://redfeather.dev/) & [Dan Fandino](http://wiredhistory.com/)
 
 *Last Updated: 9/30/2020*
 
