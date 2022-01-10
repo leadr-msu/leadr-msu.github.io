@@ -2,7 +2,7 @@
 
 Created by [Zach Francis](https://redfeather.dev/) & [Dan Fandino](http://wiredhistory.com/)
 
-*Last Updated: 9/30/2020*
+*Last Updated: 9/30/2021*
 
 ## Overview
 This handout will guide you through the basics of creating Items and Exhibits in Omeka. Omeka Items are composed of digital resources and their associated metadata. Exhibits embed these Items within their Pages to create the content projects.
