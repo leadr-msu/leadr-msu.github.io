@@ -8,7 +8,7 @@ You may browse our guides by the following categories:
 - [Editing Audio with Audacity](https://leadr-msu.github.io/guides/audacity.html)
 - [iMovie: Green Screen](https://leadr-msu.github.io/guides/imovie-greenscreen.html)
 - [iMovie: Overview](https://leadr-msu.github.io/guides/imovietutorial.html)
-- [MediaSpace](https://leadr-msu.github.io/mediaspace)
+- [MediaSpace](https://leadr-msu.github.io/guides/mediaspace.html)
 - [Recording Audio at Home](https://leadr-msu.github.io/guides/audio-recording-at-home.html)
 - [Screen Casting](https://leadr-msu.github.io/guides/screencasting.html)
 - [Windows Video Editor](https://leadr-msu.github.io/guides/windows-video-editor.html)
