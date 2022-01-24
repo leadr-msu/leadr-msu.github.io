@@ -18,39 +18,39 @@ Once you are logged into MediaSpace, select **Add New** and then Media Upload.
 
 Select the file to upload.
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace03.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace03.png" width="80%"><br>
 
 The file will display a progress bar until it is complete. Until then, the project name, description and other information can be filled in.
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace04.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace04.png" width="80%"><br>
 
 The media can be Private, Unlisted or Published. Once the media has finished uploading press Save. The details can be edited later. Once the Save is complete, select Go to Media.
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace05.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace05.png" width="80%"><br>
 
 ## Changing Access Control
 You can edit your videos by going to your My Media page (accessible from the navigation bar), and selecting the edit icon next to the video that you want to edit the settings for.
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace12.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace12.png" width="80%"><br>
 
 One setting you can change is where your video can appear. Scroll down the Edit page, select Access Control
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace09.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace09.png" width="80%"><br>
 
 You have many options to choose from, but the one that best balances privacy with being able to post video or audio to a LEADR-hosted site is the one labeled MSU Sites. Make sure to click Ok when finished
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace10.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace10.png" width="80%"><br>
 
 
 ## Posting a MediaSpace Video or Audio Clip on a website
 
 To use your clip on a website, first navigate back to your MyMedia page and select the title of the video.
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace13.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace13.png" width="80%"><br>
 
 When looking at its main page, click on the Share tab, then the Embed option.
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace13.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace11.png" width="80%"><br>
 
 If there is a warning message, this is to alert you that, by putting this code on another webpage, the video will no longer be protected by MediaSpace's login requirements.
 
@@ -63,11 +63,11 @@ Finally, paste the code into the webpage code on your own website and you're don
 
 From the media page, select Edit.
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace12.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace12.png" width="80%"><br>
 
 From the Edit page, go to the *Collaboration* tab and select **Change Media Owner**.
 
-<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace07.png" width="60%"><br>
+<br><img style="border:1px solid black" class="center" src="img/mediaspace/MediaSpace07.png" width="80%"><br>
 
 Enter the NetID of the new owner of the media. In many cases, this is the netID of your professor (which, like yours, is their email address without the "@msu.edu" part)
 
