@@ -2,10 +2,10 @@
 
 This guide is prepared by Daniel Fandino with contributions by Sara Bijani and Alyssa Lopez, and is maintained by [LEADR](http://leadr.msu.edu/) staff.
 
-*Last Updated: 1/24/2022*
+*Last Updated: 1/25/2022*
 
 ## About Audacity
-Audacity is an accessible, open-source, multi-track audio recording, and editing software with a number of important features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the [Audacity Manual](http://manual.audacityteam.org/) for more tutorials or assistance. You may also check out our guide on [microphones](https://leadr-msu.github.io/guides/microphones.html) to see how we record audio using LEADR equipment. For an additional video tutorial, see the [LEADR Audacity Tutorial Video](https://www.youtube.com/watch?v=4JgqDg85628).
+Audacity is an accessible, open-source, multi-track audio recording and editing software with a number of useful features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the [Audacity Manual](http://manual.audacityteam.org/) for more tutorials or assistance. You may also check out our guide on [microphones](https://leadr-msu.github.io/guides/microphones.html) to see how we record audio using LEADR equipment. For an additional video tutorial on Audacity, see the [LEADR Audacity Tutorial Video](https://www.youtube.com/watch?v=4JgqDg85628).
 
 <br><img style="border:1px solid black" class="center" src="img/audacity/audacityedit.png" width="80%"><br>
 
