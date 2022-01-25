@@ -9,12 +9,15 @@ Audacity is an accessible, open-source, multi-track audio recording, and editing
 
 <br><img style="border:1px solid black" class="center" src="img/audacity/audacityedit.png" width="80%"><br>
 
-**SETUP**
-To get started, you’ll need to [download the Audacity app](https://www.audacityteam.org/download/). Downloads are available for Mac, Windows, and Linux. If you are going to be recording audio with audacity, you’ll want to plug your microphone into the USB port before opening audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon (1) and select your preferred mic.
+**Setup**
+
+To get started, you’ll need to [download the Audacity app](https://www.audacityteam.org/download/). Downloads are available for Mac, Windows, and Linux. If you are going to be recording audio with audacity, you’ll want to plug your microphone into the USB port before opening audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon (1) and select your preferred microphone.
 
 **Recording audio with Audacity**
 
 Audacity can record from a built in computer microphone or an external microphone. If you wish to use an external microphone, connect it to the USB port before opening Audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon directly underneath the recording controls and select your microphone.
+
+<br><img style="border:1px solid black" class="center" src="img/audacity/audacity12.jpg" width="80%"><br>
 
 Start by pressing the red record button. You will see the time in the bottom right corner start counting upwards and sound waves will begin to appear in the editing pane. You may pause or stop recording at any time. 
 
@@ -23,6 +26,7 @@ When recording through Audacity or another device, record 5 to 10 seconds of the
 Always work from a backup of your original recording, In the Windows File Manager, right click your file and select Copy. Paste it into a new folder to serve as your working copy. Windows will automatically add ”-copy” at the end of the filename if it is pasted into the same folder as the original. It will give the file the same name if it is pasted into a new location.
 
 **Opening Media in Audacity**
+
 Audacity can use audio recorded via Audacity or from another device. If you recorded on a smartphone or other device, send the file to the computer running Audacity. To add the audio to Audacity, click File > Import > Audio. Audacity supports both WAV and MP3 files.
 
 Once you have your podcast audio opened in Audacity, you can add additional tracks to your recording. Adding an additional track is a way to add music or effects to your audio. You may have multiple tracks added and Audacity will merge them into a single sound file.
@@ -30,7 +34,10 @@ Once you have your podcast audio opened in Audacity, you can add additional trac
 Add a new track to your project by clicking File > Import > Audio. If you attempt to open a second file by clicking File then Open, it will open the file as a brand new project in a new window.
 
 **Editing Audio with Audacity**
+
 Once you have your project imported, Audacity has a selection of tools to assist in editing. Hovering over a tool will reveal its name.
+
+<br><img style="border:1px solid black" class="center" src="img/audacity/audacitytools_02.jpg" width="80%"><br>
 
   **SELECTION** allows you to highlight a section of a track.
   **ZOOM**, as the name implies, allows you to zoom into a track. This is useful for editing as it will allow you to make precise cuts and adjustments to your audio.
@@ -43,25 +50,34 @@ Once you have your project imported, Audacity has a selection of tools to assist
 
 Clicking on the sound wave visualization with SELECTION will create a vertical line. You may click and hold to drag the line to create a highlighted section of the file. Clicking play at this point will play from the start of the selected section, so you can fine tune the start and end points.
 
+<br><img style="border:1px solid black" class="center" src="img/audacity/aud04.jpg width="80%"><br>
+
 Selecting CUT from the EDIT menu will remove the selected section. Audacity will automatically merge the remaining sections.
 
 If you have laid down two or more tracks, you can align them by use of the TIMESHIFT tool. For example, you may have uploaded a music or sound effect you wish to play at a certain point in your podcast. When tracks are imported into Audacity they are all aligned to start playing at the same time, 0.00 on the timelime. Once this tool is selected you may slide tracks around the timeline so they play at certain points. In the image below, the second track has been moved so it starts playing at one minute and twelve seconds into the first track. Using TIMESHIFT will allow you to add music and effects to any point in your recording. Note that the two tracks will play together.
+  
+<br><img style="border:1px solid black" class="center" src="img/audacity/aud06.jpg" width="80%"><br>
 
 If you want to add another file into the middle of another track, you can Copy a selection from another imported track and then Paste it directly into a track. This is helpful if you want to insert music into a point of your project without having two tracks playing together.
 
 At any time you can delete a track by clicking the X on the upper left of the track.
 
 **Audio Effects: Fade in and Fade Out**
+
 There are a number of effects in Audacity, but two of the most useful are fade in and fade out. These can be used to blend two audio tracks together in a seamless manner. 
 
 Move one track so the two are aligned in a way that the use of a fade out/in makes sense. Select the audio track you want to fade and select the section you want to fade with the SELECTION tool. In the menu bar, select EFFECT > FADE OUT or FADE IN. You will see the sound wave change as depicted below.
+ 
+<br><img style="border:1px solid black" class="center" src="img/audacity/aud07.jpg" width="80%"><br> 
 
 Editing cannot be done while the tracks are playing, you’ll need to stop them completely to edit.
 
 **Mixing Tracks**
+
 When you have completed working with different tracks you may merge them into a single track. This is useful if you are content with the mixing and editing completed so far but wish to continue editing and do not want to have too many tracks open.
 
 **Reducing Background Noise**
+
 If there is excess background noise on the recording, you can attempt to remove the noise using Audacity’s tools. Keep in mind it is always easier to adjust your recording environment to reduce noise than it is to use Audacity to remove unwanted background interference. However, at times background noise can be unavoidable
 
 Select a portion of the audio that has only background noise. This is why recording a short clip of ambient sound at the beginning of a recording is useful
