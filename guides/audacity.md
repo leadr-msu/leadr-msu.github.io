@@ -1,6 +1,6 @@
 # Editing and Recording Audio with Audacity
 
-Created by Daniel Fandino, with contributions by Sara Bijani and Alyssa Lopez and is maintained by LEADR staff(http://leadr.msu.edu/)
+This guide is prepared by Daniel Fandino with contributions by Sara Bijani and Alyssa Lopez, and is maintained by LEADR staff(http://leadr.msu.edu/)
 
 *Last Updated: 1/24/2022*
 
@@ -9,9 +9,11 @@ Audacity is an accessible, open-source, multi-track audio recording, and editing
 
 <br><img style="border:1px solid black" class="center" src="img/audacity/audacityedit.png" width="80%"><br>
 
-**SETUP**: To  get started, you’ll need to [download the Audacity app](https://www.audacityteam.org/download/). Downloads are available for Mac, Windows, and Linux. If you are going to be recording audio with audacity, you’ll want to plug your microphone into the USB port before opening audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon (1) and select your preferred mic.
+**SETUP**
+To get started, you’ll need to [download the Audacity app](https://www.audacityteam.org/download/). Downloads are available for Mac, Windows, and Linux. If you are going to be recording audio with audacity, you’ll want to plug your microphone into the USB port before opening audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon (1) and select your preferred mic.
 
 **Recording audio with Audacity**
+
 Audacity can record from a built in computer microphone or an external microphone. If you wish to use an external microphone, connect it to the USB port before opening Audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon directly underneath the recording controls and select your microphone.
 
 Start by pressing the red record button. You will see the time in the bottom right corner start counting upwards and sound waves will begin to appear in the editing pane. You may pause or stop recording at any time. 
