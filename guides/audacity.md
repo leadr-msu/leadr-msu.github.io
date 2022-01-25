@@ -37,7 +37,7 @@ Add a new track to your project by clicking File > Import > Audio. If you attemp
 
 Once you have your project imported, Audacity has a selection of tools to assist in editing. Hovering over a tool will reveal its name.
 
-<br><img style="border:1px solid black" class="center" src="img/audacity/audacitytools_02.jpg" width="100%"><br>
+<br><img style="border:1px solid black" class="center" src="img/audacity/audacitytools_02.jpg" width="50"><br>
 
   **SELECTION** allows you to highlight a section of a track.
   **ZOOM**, as the name implies, allows you to zoom into a track. This is useful for editing as it will allow you to make precise cuts and adjustments to your audio.
