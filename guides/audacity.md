@@ -43,7 +43,7 @@ Once you have your project imported, Audacity has a selection of tools to assist
   **ZOOM**, as the name implies, allows you to zoom into a track. This is useful for editing as it will allow you to make precise cuts and adjustments to your audio.<br/> 
   **TIMESHIFT** allows you to slide different tracks.<br/> 
   **DELETE** removes a selected portion of the audio.<br/> 
-  **CUT** removes a selected section but saves the selection in the clipboard.<br/> 
+  **CUT** removes a selected section but saves the selection in the clipboard.<br/>
   **UNDO** reverts the last change.<br/>  
   **COPY** duplicates the selected section.<br/> 
   **PASTE** inserts a selection from the clipboard created by COPY or CUT.<br/> 
