@@ -17,7 +17,7 @@ To get started, you’ll need to [download the Audacity app](https://www.audacit
 
 Audacity can record from a built in computer microphone or an external microphone. If you wish to use an external microphone, connect it to the USB port before opening Audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon directly underneath the recording controls and select your microphone.
 
-<br><img style="border:1px solid black" class="center" src="img/audacity/audacity12.jpg" width="80%"><br>
+<br><img style="border:1px solid black" class="center" src="img/audacity/audacity012.jpg" width="80%"><br>
 
 Start by pressing the red record button. You will see the time in the bottom right corner start counting upwards and sound waves will begin to appear in the editing pane. You may pause or stop recording at any time. 
 
@@ -37,7 +37,7 @@ Add a new track to your project by clicking File > Import > Audio. If you attemp
 
 Once you have your project imported, Audacity has a selection of tools to assist in editing. Hovering over a tool will reveal its name.
 
-<br><img style="border:1px solid black" class="center" src="img/audacity/audacitytools_02.jpg" width="80%"><br>
+<br><img style="border:1px solid black" class="center" src="img/audacity/audacitytools_02.jpg" width="100%"><br>
 
   **SELECTION** allows you to highlight a section of a track.
   **ZOOM**, as the name implies, allows you to zoom into a track. This is useful for editing as it will allow you to make precise cuts and adjustments to your audio.
