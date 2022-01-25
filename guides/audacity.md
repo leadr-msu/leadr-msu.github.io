@@ -44,7 +44,7 @@ Once you have your project imported, Audacity has a selection of tools to assist
   **TIMESHIFT** allows you to slide different tracks.<br/> 
   **DELETE** removes a selected portion of the audio.<br/> 
   **CUT** removes a selected section but saves the selection in the clipboard.<br/>
-  **UNDO** reverts the last change.<br/>  
+  **UNDO** reverts the last change.<br/>
   **COPY** duplicates the selected section.<br/> 
   **PASTE** inserts a selection from the clipboard created by COPY or CUT.<br/> 
 
