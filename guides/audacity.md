@@ -91,11 +91,13 @@ as it provides this baseline audio for Audacity to work with.
 Audacity noise reduction is limited and it may not be able to completely eliminate noise from your work.
 
 **Saving your work**
+
 Clicking SAVE PROJECT will save it as an Audacity project. This will let you continue to work on your project later. As an Audacity project, it cannot be played in other media. 
 
 To create the final version of your project, you will need to export it as a new file type. To export your file in another format, go to File > Export Audio. Select WAV if you still plan on editing the audio. If your work is completely done, you can save it as an MP3. Fill in the metadata information as best as possible, but make sure to at least include the artist and track name (you should use your name and the project title). This information will always stay with the MP3 file and can be useful when looking for information on it later.
 
 **Helpful Recording Tips**
+
 When recording, make sure to record a few moments of silence at the beginning and end. You can edit out any extra material later.
 
 Always record a short test clip to ensure your microphone is working properly.
@@ -109,6 +111,7 @@ Music and other audio samples may be under copyright. There are many resources f
 https://pixabay.com/music/ is one of many sites that provides free music under an open license.
 
 **Other key points**
+
 Editing cannot be done while the tracks are playing, you’ll need to stop them completely to edit.
 
 If your mic doesn’t show up, go to System Preferences > Sound > Input > Stereo Mic. (For Macs)
