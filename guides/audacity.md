@@ -1,17 +1,17 @@
 # Editing and Recording Audio with Audacity
 
-This guide is prepared by Daniel Fandino with contributions by Sara Bijani and Alyssa Lopez, and is maintained by LEADR staff(http://leadr.msu.edu/)
+This guide is prepared by Daniel Fandino with contributions by Sara Bijani and Alyssa Lopez, and is maintained by [LEADR](http://leadr.msu.edu/) staff.
 
 *Last Updated: 1/24/2022*
 
 ## About Audacity
-Audacity is an accessible, open-source, multi-track audio recording, and editing software with a number of important features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the [Audacity Manual](http://manual.audacityteam.org/) for more tutorials or assistance. You may also check out our guide on [microphones](https://leadr-msu.github.io/guides/microphones.html) to see how we record audio using LEADR equipment.
+Audacity is an accessible, open-source, multi-track audio recording, and editing software with a number of important features and effects, particularly for preparing podcasts. If you are interested in features or functions not mentioned in this brief introduction, please see the [Audacity Manual](http://manual.audacityteam.org/) for more tutorials or assistance. You may also check out our guide on [microphones](https://leadr-msu.github.io/guides/microphones.html) to see how we record audio using LEADR equipment. For an additional video tutorial, see the [LEADR Audacity Tutorial Video](https://www.youtube.com/watch?v=4JgqDg85628).
 
 <br><img style="border:1px solid black" class="center" src="img/audacity/audacityedit.png" width="80%"><br>
 
 **Setup**
 
-To get started, you’ll need to [download the Audacity app](https://www.audacityteam.org/download/). Downloads are available for Mac, Windows, and Linux. If you are going to be recording audio with audacity, you’ll want to plug your microphone into the USB port before opening audacity. If Audacity is not registering the mic, quit the app and try again. You may also need to select the drop down menu next to the microphone icon (1) and select your preferred microphone.
+To get started, you’ll need to [download the Audacity app](https://www.audacityteam.org/download/). Downloads are available for Mac, Windows, and Linux.
 
 **Recording audio with Audacity**
 
@@ -117,8 +117,6 @@ Editing cannot be done while the tracks are playing, you’ll need to stop them 
 If your mic doesn’t show up, go to System Preferences > Sound > Input > Stereo Mic. (For Macs)
 
 When recording, make sure to give yourself enough time on both ends. You can edit out any extra material later.
-
-When you first import a track into Audacity, it’ll give you the option to make a copy of the file or to work on the original. It is strongly suggested that you make a copy of whatever file you are importing. If you work on an original and make an undesirable change, the actual original cannot be retrieved later.
 
 <!-- Seems like out of date advice, no actual URLs included either.
 
