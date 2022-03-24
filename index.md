@@ -26,7 +26,7 @@ You may browse our guides by the following categories:
 
 <h2 id="lab">Lab Equipment</h2>
 - [Choosing a Camcorder for Research](https://leadr-msu.github.io/guides/camcorders.html)
-- [Czurtech Scanner Guide](https://leadr-msu.github.io/czurtech-scanner-guide)
+- [Czurtech Scanner Guide](https://leadr-msu.github.io/guides/czurtech-scanner.html)
 - [LEADR Audiovisual Studio Equipment](https://leadr-msu.github.io/guides/podcasting.html)
 - [LEADR Microphones](https://leadr-msu.github.io/guides/microphones.html)
 
