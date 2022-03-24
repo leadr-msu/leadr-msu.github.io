@@ -39,7 +39,7 @@ You may browse our guides by the following categories:
 
 <h2 id="modeling">Modeling (3D)</h2>
 - [3D Printing Guide](https://leadr-msu.github.io/guides/3D-printing.html)
-- [Photogrammetry - Data Collection](https://leadr-msu.github.io/photogrammetry-data-collection)
+- [Photogrammetry - Data Collection](https://leadr-msu.github.io/guides/photogrammetry-data-collection.html)
 - [Photogrammetry - Data Processing](https://leadr-msu.github.io/photogrammetry-data-processing)
   - [Photogrammetry - Mask Creation](https://leadr-msu.github.io/photogrammetry-mask-creation)
 
