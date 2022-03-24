@@ -35,13 +35,13 @@ Photos used in photogrammetry must be taken in a specific way and must meet a ce
   * Multiple shots of the object from multiple angles will increase the likelihood of getting a better model
   * When in doubt, take more photos than you think you should – you can always remove or disable unneeded photos during the model-building process
 
-<img src="img/img1.png" width="70%">
+<img src="img/photogrammetry-data-collection/img1.png" width="70%">
 
 **Photograph overlap** - photos taken in sequence should overlap by at least 60% - if there is insufficient overlap, the model will not build correctly or at all (see both the above and below illustrations)
 * Photo overlap is needed since photogrammetry software builds models based on points that if finds in multiple photos
   * This ensures that the software can identify those points in common and align them
 
-<img src="img/img2.png" width="70%">
+<img src="img/photogrammetry-data-collection/img2.png" width="70%">
 
 Frame 1 - solid line (assume all are at same height)
 
@@ -56,9 +56,9 @@ Frame 3 - dotted line
   * A fourth pass is sometimes required – most useful when photographing objects with a visible interior that might not be adequately captured with three rotations/passes
     * This rotation should be taken almost at a top-down view
 
-    <img src="img/img3.png" width="70%">
+    <img src="img/photogrammetry-data-collection/img3.png" width="70%">
 
-    <img src="img/img4.png" width="70%">
+    <img src="img/photogrammetry-data-collection/img4.png" width="70%">
 
 **Adequate and appropriate lighting** – for the best photo and model results, lighting is extremely important
 * If the object is too dark, the software may not be able to differentiate separate images and fail to build the model
@@ -67,7 +67,7 @@ Frame 3 - dotted line
 * Depending on the setup available, 4-point lighting is usually ideal
   * 2 lights on either side of the object and 2 on either side of the camera
 
-  <img src="img/img5.png" width="70%">
+  <img src="img/photogrammetry-data-collection/img5.png" width="70%">
 
 **Minimize shadows** – shadows on the object can create permanent dark spots on the model if they are most of the photos
 * If using a turntable to rotate the object, failing to remove shadows can ‘confuse’ the software
@@ -104,7 +104,7 @@ Tripods
 * If an entire object cannot be in focus at once, manually focus on an area that is equidistant from the front and back of the object in that frame
   * i.e. do not focus on the area of the object that is closest to the camera as this will make the farthest portion of the object be much more out of focus
 
-  <img src="img/img6.png" width="70%">
+  <img src="img/photogrammetry-data-collection/img6.png" width="70%">
 
 **Use a fixed lens** – avoid using a lens that has a zooming function
 * Lenses that zoom can create images that photogrammetry software cannot interpret
