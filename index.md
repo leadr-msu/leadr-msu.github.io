@@ -58,7 +58,7 @@ You may browse our guides by the following categories:
 - [Digital Public Writing](https://leadr-msu.github.io/guides/digital-public-writing.html)
 - [PDF Compiling and Linking Tutorial](https://leadr-msu.github.io/guides/pdf-compiling-and-linking.html)
 - [Reusing and Attributing Media](https://leadr-msu.github.io/guides/reusing-attributing-media.html)
-- [Wikipedia Editing](https://leadr-msu.github.io/wikipedia-editing)
+- [Wikipedia Editing](https://leadr-msu.github.io/guides/wikipedia-editing.html)
 
 <h2 id="archived">Archived Guides</h2>
 *These guides are older guides that have not been updated in a while, but may still be useful:*
