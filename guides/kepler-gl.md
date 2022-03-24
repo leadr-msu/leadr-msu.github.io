@@ -14,7 +14,7 @@ For Kepler to be able to make a map from data, there needs to be latitudinal and
 
 **Potential Data Sets**
 * [Alabama Slave Interviews](http://drstephenrobertson.com/blog-post/teaching-digital-mapping-with-kepler-gl/) used by Dr. Robertson    
-* [Alabama County Unemployment data](https://github.com/leadr-msu/kepler-gl/blob/master/AL-countyunemployment.geojson)
+* [Alabama County Unemployment data](https://github.com/leadr-msu/leadr-msu.github.io/blob/master/guides/files/kepler-gl/AL-countyunemployment.geojson)
 
 
 ## Getting Started
