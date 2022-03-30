@@ -1,6 +1,6 @@
 # Screencasting
 
-Created by (Author) and [Zach Francis](https://redfeather.dev/)
+Created by Dawson and [Zach Francis](https://redfeather.dev/)
 
 *Last Updated: 10/18/2021*
 
