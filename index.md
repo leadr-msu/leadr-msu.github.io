@@ -20,7 +20,6 @@ You may browse our guides by the following categories:
 - [Omeka Pages](https://leadr-msu.github.io/guides/omeka-pages.html)
 - [Omeka Metadata Guide](https://leadr-msu.github.io/guides/omeka-metadata.html)
 - [Logging into Omeka](https://leadr-msu.github.io/guides/logging-into-omeka.html)
-- [Omeka Metadata](https://leadr-msu.github.io/guides/omekametadata.html)
 - [Omeka S](https://leadr-msu.github.io/guides/omeka-s.html)
 - [WordPress Introductory Resources](https://leadr-msu.github.io/guides/wordpress.html)
 
