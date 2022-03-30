@@ -1,4 +1,4 @@
-# Putting Footnotes into your Omeka Content using HTML
+# Screencasting
 
 Created by (Author) and [Zach Francis](https://redfeather.dev/)
 
