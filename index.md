@@ -47,7 +47,7 @@ You may browse our guides by the following categories:
 - [Markdown](https://leadr-msu.github.io/guides/markdown.html)
 - [MSU Domains Data Management](https://leadr-msu.github.io/guides/domains-data-management.html)
 - [Twitter Archiving Google Sheet(TAGS)](/guides/tags.md)
-- [Using GitHub](https://github.com/msu-anthropology/indian-country/wiki)
+- [Using GitHub (links to our GitHub Wiki)](https://github.com/msu-anthropology/indian-country/wiki)
 - [Collecting Data with Google Forms](https://leadr-msu.github.io/guides/google-forms-data.html)
 - [Visualizing Data with Voyant](https://leadr-msu.github.io/guides/voyant.html)
 

@@ -1,6 +1,6 @@
 # Collecting Data with Google Forms
 
-Created by [Zach Francis](https://redfeather.dev/), Ashley Highland.
+Created by [Zach Francis](https://redfeather.dev/)
 
 *Last Updated: 3/2/2021*
 
