@@ -1,4 +1,4 @@
-# Citations-Best-Practices
+# Citations: Best Practices
 Created by [A.L. McMichael](https://amcmichael.commons.gc.cuny.edu/)
 <br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
