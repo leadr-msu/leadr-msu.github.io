@@ -1,6 +1,6 @@
 # Markdown Tutorial
-
 Created by [Autumn Painter](http://autumnpainter.com/)
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 12/16/2017*
 

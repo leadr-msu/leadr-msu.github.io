@@ -1,6 +1,6 @@
 # Putting Footnotes into your Omeka Content using HTML
-
 Created by [Dan Fandino](http://wiredhistory.com/)
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 10/15/2021*
 

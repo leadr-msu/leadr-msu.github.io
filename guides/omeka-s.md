@@ -1,5 +1,6 @@
 # Omeka-S Tutorial
 Created by Jen Andrella
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated 12/16/2021*
 

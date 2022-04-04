@@ -1,6 +1,6 @@
 # Podcasting in the LEADR Audiovisual Studio
-
 Created by [Dan Fandino](https://wiredhistory.com/)
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 10/15/2021*
 

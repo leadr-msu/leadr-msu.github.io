@@ -1,6 +1,6 @@
 # Zoom
-
 Written by Sara Bijani.
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last updated 12/16/2017*
 

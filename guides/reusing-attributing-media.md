@@ -1,6 +1,6 @@
 ## Reusing and Attributing Media
-
 Created by [Alice Lynn McMichael](https://amcmichael.commons.gc.cuny.edu/)
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 12/16/2017*
 

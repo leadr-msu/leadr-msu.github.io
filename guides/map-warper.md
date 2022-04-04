@@ -1,6 +1,6 @@
 # How to Georectify a Map using Mapwarper
-
 Created by [Zach Francis](https://redfeather.dev/)
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 11/02/2021*
 

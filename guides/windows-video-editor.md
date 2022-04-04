@@ -1,6 +1,6 @@
 # Windows Video Editor
-
 Created by [Daniel Fandino](https://wiredhistory.com/)
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 11/01/2021*
 

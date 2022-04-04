@@ -1,6 +1,6 @@
 # Screencasting
-
 Created by Dawson McCall and [Zach Francis](https://redfeather.dev/)
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 10/18/2021*
 

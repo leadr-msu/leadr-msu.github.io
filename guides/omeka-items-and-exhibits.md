@@ -1,6 +1,6 @@
 # Items and Exhibits in Omeka
-
 Created by [Zach Francis](https://redfeather.dev/) & [Dan Fandino](http://wiredhistory.com/)
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 9/30/2021*
 

@@ -1,6 +1,6 @@
 # Google My Maps
-
 Created by [Zach Francis](https://redfeather.dev/)
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
 
 *Last Updated: 12/04/2020*
 
