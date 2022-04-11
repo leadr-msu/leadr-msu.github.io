@@ -7,7 +7,6 @@ Created by [Zach Francis](https://redfeather.dev/)
 ## Overview
 TAGS stands for [Twitter Archiving Google Sheet](https://tags.hawksey.info/get-tags/). TAGS is a Twitter scraping tool which lets you automatically collect tweets into a google sheet. You can collect Tweets from specific people, a particular hashtag (#), or search terms.
 
-
 ## Getting TAGS Running
 In order to get TAGS you will need to have a Google Account and a Twitter Account. Once you have those accounts, you will need to create a TAGS Google Sheet and set up access to Twitter.
 
