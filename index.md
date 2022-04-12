@@ -22,6 +22,7 @@ You may browse our guides by the following categories:
 - [Logging into Omeka](https://leadr-msu.github.io/guides/logging-into-omeka.html)
 - [Omeka S](https://leadr-msu.github.io/guides/omeka-s.html)
 - [WordPress Introductory Resources](https://leadr-msu.github.io/guides/wordpress.html)
+- [Microsoft Sway Guide](https://leadr-msu.github.io/guides/microsoft-sway.html)
 
 <h2 id="lab">Lab Equipment</h2>
 - [Choosing a Camcorder for Research](https://leadr-msu.github.io/guides/camcorders.html)
