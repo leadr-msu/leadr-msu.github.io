@@ -1,6 +1,6 @@
 # Introductory Guide to Kepler.gl
 Created by Alyssa Lopez
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 2/11/2019*
 
