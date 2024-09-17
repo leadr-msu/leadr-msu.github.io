@@ -1,6 +1,6 @@
 # So You Want to Start Web Mapping?
 Created by [Zach Francis](https://redfeather.dev/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 12/04/2020*
 
