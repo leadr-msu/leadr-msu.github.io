@@ -1,6 +1,6 @@
 # Visualizing Data with Voyant
 Created by [Zach Francis](https://redfeather.dev/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 2/26/2020*
 
