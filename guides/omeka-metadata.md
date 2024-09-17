@@ -1,6 +1,6 @@
 # Omeka Metadata Guide
 Created by [Daniel Fandino](http://wiredhistory.com/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 10/1/2021*
 
