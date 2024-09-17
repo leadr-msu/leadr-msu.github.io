@@ -1,6 +1,6 @@
 # Conference Poster Guide
 Created by [Daniel Fandino](https://wiredhistory.com/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 05/10/2020*
 
