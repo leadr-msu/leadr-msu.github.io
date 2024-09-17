@@ -1,6 +1,6 @@
 # Logging into Omeka for the First Time
 Created by [Zach Francis](https://redfeather.dev/) and [Dan Fandino](http://wiredhistory.com/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 3/28/2021*
 
