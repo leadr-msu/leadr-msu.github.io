@@ -1,6 +1,6 @@
 # Managing Data in MSU Domains
 Created by [Daniel Fandino](https://wiredhistory.com/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 11/01/2021*
 
