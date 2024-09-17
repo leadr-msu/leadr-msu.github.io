@@ -1,6 +1,6 @@
 # MediaSpace Introductory Resources
 Created by [Daniel Fandino](http://wiredhistory.com/) with contributions by Brian Geyer and [Zach Francis](https://redfeather.dev/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 1/24/2022*
 
