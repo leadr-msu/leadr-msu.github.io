@@ -1,6 +1,6 @@
 # Audio Recording At Home
 Created by [Dr. Alice Lynn McMichael](https://amcmichael.commons.gc.cuny.edu/) & Updated by [J. Andrella](http://jenniferandrella.com/) and [Daniel Fandino](http://wiredhistory.com/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 6/7/2021*
 
