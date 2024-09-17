@@ -1,6 +1,6 @@
 # Czurtech Scanner Guide
 Created by [Autumn Painter](http://autumnpainter.com/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 9/18/2018*
 Created by Autumn Painter
