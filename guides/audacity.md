@@ -1,6 +1,6 @@
 # Editing and Recording Audio with Audacity
 This guide is prepared by Daniel Fandino with contributions by Sara Bijani and Alyssa Lopez
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 1/25/2022*
 
