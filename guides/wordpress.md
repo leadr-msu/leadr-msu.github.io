@@ -1,6 +1,6 @@
 # WordPress Introductory Resources
 Created by [Zach Francis](https://redfeather.dev/), Brian Geyer, and [Dan Fandino](https://wiredhistory.com/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated 12/16/2021*
 
