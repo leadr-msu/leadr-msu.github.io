@@ -1,6 +1,6 @@
 # 3D Printing Guide
 Created by Autumn Painter and Brian Samuel Geyer
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 3/30/2018* - Needs Updating - Most Links are dead
 
