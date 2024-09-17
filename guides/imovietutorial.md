@@ -1,6 +1,6 @@
 # iMovie Tutorial
 Created by Dawson McCall and updated by Daniel Fandino
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated 12/16/2017*
 
