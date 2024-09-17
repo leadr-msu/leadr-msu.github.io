@@ -1,6 +1,6 @@
 # Photogrammetry - Data Collection Tutorial
 Created by Jack A. Biggs
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 4/9/2019*
 
