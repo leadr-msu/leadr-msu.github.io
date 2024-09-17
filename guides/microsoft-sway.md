@@ -1,6 +1,6 @@
 # LEADR Microsoft Sway Guide
 Created by [Jen Andrella](https://jenniferandrella.com/)
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 4/11/2021*
 
