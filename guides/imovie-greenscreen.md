@@ -1,6 +1,6 @@
 # iMovie Tutorial: Adding Images and Videos to Green Screen Footage:
 Created by Alyssa Lopez
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 12/17/2017*
 
