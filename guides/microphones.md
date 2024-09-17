@@ -1,6 +1,6 @@
 # Using LEADR Microphones to Record Audio
 Created by Sara Bijani and Alyssa Lopez
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 10/19/2021*
 
