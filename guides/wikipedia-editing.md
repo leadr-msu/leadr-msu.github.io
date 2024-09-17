@@ -1,6 +1,6 @@
 # Wikipedia Editing
 Created by Brian Samuel Geyer and Brandon Locke
-<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Alice Lynn McMichael*
+<br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
 *Last Updated: 3/30/2018*
 
