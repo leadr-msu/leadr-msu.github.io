@@ -41,7 +41,6 @@ You may browse our guides by the following categories:
 - [3D Printing Guide](https://leadr-msu.github.io/guides/3D-printing.html)
 - [Photogrammetry - Data Collection](https://leadr-msu.github.io/guides/photogrammetry-data-collection.html)
 - [Photogrammetry - Data Processing](https://leadr-msu.github.io/guides/photogrammetry-data-processing.html)
-  - [Photogrammetry - Mask Creation](https://leadr-msu.github.io/guides/photogrammetry-mask-creation.html)
 
 <h2 id=programming>Data and Coding</h2>
 - [Active Citations](https://leadr-msu.github.io/guides/active-citations.html)
@@ -70,3 +69,4 @@ You may browse our guides by the following categories:
 - [HST 390 Course Guide - TimelineJS - History of International Relations](https://leadr-msu.github.io/archived/timelinejs-hst390-international-relations.html)
 - [TE 991 Course Guide - Oral Histories](https://leadr-msu.github.io/archived/oral-history-publication-te991.html)
 - [ISS 310 Course Guide - Visualizing Public Data - Eating Industrial](https://leadr-msu.github.io/archived/visualizing-public-data-eating-industrial.html)
+- [Photogrammetry - Mask Creation](https://leadr-msu.github.io/archived/photogrammetry-mask-creation.html)
