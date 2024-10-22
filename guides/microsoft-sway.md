@@ -23,11 +23,10 @@ Microsoft Sway is a presentation software for creating and sharing interactive p
     * **Images**: Add an image from either a saved file on your computer or use the Bing search in the right panel to find a stock photo. When you select an image, be sure to add a caption describing the image and its source in the content block. Note that having a separate image block may make the image appear larger than if it was paired directly with text; for this reason, use a higher resolution jpg or png image file if possible. In the upper right corner of the content block, there is an option to “Focus” and select a focal point for your image OR select the box that says “the entire image is important”. Selecting a focal point will have the public-facing viewer zoom in and out on the image automatically.
     * **Embed content**: Embed a video, image, map or audio in these steps:
     * a. Copy the content’s embed code, which you can find by selecting the Share option or its equivalent. The code should look similar to this: <iframe width="560" height="315"… </iframe>.
-    * b. Click the + icon at the bottom of any existing card.
-    * c. Click Media, and then select Embed.
-    * d. Paste your embed code to the new Embed Card that appears in the Storyline.
-    * If you are pasting in a URL it **must** contain the secure prefix "https://".
-    * Be sure to add a caption describing the embed, its source, and/or a transcription in the content block.
+      b. Click the + icon at the bottom of any existing card.
+      c. Click Media, and then select Embed.
+      d. Paste your embed code to the new Embed Card that appears in the Storyline.
+    * If you are pasting in a URL it **must** contain the secure prefix "https://". Be sure to add a caption describing the embed, its source, and/or a transcription in the content block.
     * **Group**: This content block option enables you to create a collage, stack, or slider-enabled comparison of photos.
 2. When adding your content into the storyboard, think about the narrative that you are trying to build. What is your chronology? Major points? Arrangement of evidence? All of these elements will contribute to strong storytelling.
     * **Editing/removing content blocks**: Every content block has an option to delete it by clicking the trash icon in the upper right corner. If you wish to change the order of your blocks, you can drag them by hovering your cursor over the border of the block and moving it to another space. You can also drag a content block onto another content block and combine them.
