@@ -1,8 +1,8 @@
 # LEADR Microsoft Sway Guide
-Created by [Jen Andrella](https://jenniferandrella.com/)
+Created by [Jen Andrella](https://jenniferandrella.com/) and updated by Gillian Macdonald
 <br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
-*Last Updated: 4/11/2021*
+*Last Updated: 10/22/2024*
 
 ## Overview
 Microsoft Sway is a presentation software for creating and sharing interactive presentations, newsletters, posters, and more. Transform your data and content into an immersive experience for your viewers. Sway presentations can be created by individuals or groups with a variety of sharing and embed capabilities.
@@ -21,7 +21,13 @@ Microsoft Sway is a presentation software for creating and sharing interactive p
 1. **Content block options**: There are several options for building your content in Sway. A block (essentially a page or a “slide”) can be comprised of a heading (larger font), paragraph text, images, “stack” (photo/file collage), or file upload (PDF, audio, video, etc.). Note the menu options under “suggested”, “text”, “media”, and “group” can offer you more choices for the types of content you wish to create.
     * **Text**: Choose between “Heading 1” and “Text”, which alters the size of the font. Options at the top of the text block include bold, italics, bullet-pointed lists, numbered lists, and hyperlinks (to link text to an external website). You can set the “emphasis” of text to be larger, in other words, increasing the font size of the text. You can also add an image to be paired with the text directly (the size may appear differently than having a separate image content block).
     * **Images**: Add an image from either a saved file on your computer or use the Bing search in the right panel to find a stock photo. When you select an image, be sure to add a caption describing the image and its source in the content block. Note that having a separate image block may make the image appear larger than if it was paired directly with text; for this reason, use a higher resolution jpg or png image file if possible. In the upper right corner of the content block, there is an option to “Focus” and select a focal point for your image OR select the box that says “the entire image is important”. Selecting a focal point will have the public-facing viewer zoom in and out on the image automatically.
-    * **Audio**: Add an audio file from either a saved file on your computer, or record your own audio if your computer has microphone access. Be sure to add a caption describing the audio, its source, and/or a transcription in the content block.
+    * **Embed content**: Embed a video, image, map or audio in these steps:
+    * a. Copy the content’s embed code, which you can find by selecting the Share option or its equivalent. The code should look similar to this: <iframe width="560" height="315"… </iframe>.
+    * b. Click the + icon at the bottom of any existing card.
+    * c. Click Media, and then select Embed.
+    * d. Paste your embed code to the new Embed Card that appears in the Storyline.
+    * If you are pasting in a URL it **must** contain the secure prefix "https://".
+    * Be sure to add a caption describing the embed, its source, and/or a transcription in the content block.
     * **Group**: This content block option enables you to create a collage, stack, or slider-enabled comparison of photos.
 2. When adding your content into the storyboard, think about the narrative that you are trying to build. What is your chronology? Major points? Arrangement of evidence? All of these elements will contribute to strong storytelling.
     * **Editing/removing content blocks**: Every content block has an option to delete it by clicking the trash icon in the upper right corner. If you wish to change the order of your blocks, you can drag them by hovering your cursor over the border of the block and moving it to another space. You can also drag a content block onto another content block and combine them.
