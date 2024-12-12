@@ -3,7 +3,7 @@ Created by [Dan Fandino](http://wiredhistory.com/)
 <br> Updated by Marissa Knaak
 <br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
-*Last Updated: 10/15/2021*
+*Last Updated: 12/12/2024*
 
 ## Overview
 This handout will guide you through the basics of formatting footnote citations in Omeka. Omeka allows for the limited use of [HTML](https://en.wikipedia.org/wiki/HTML) (Hypertext Markup Language) to add annotations and additional typographic elements to plain text. Adding HTML markup to numbers in text will allow students to properly document their work with superscript citations that emulate traditional print citations.
