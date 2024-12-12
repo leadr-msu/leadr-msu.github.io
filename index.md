@@ -15,11 +15,11 @@ You may browse our guides by the following categories:
 - [Zoom](https://leadr-msu.github.io/guides/zoom.html)
 
 <h2 id="content">Content Management</h2>
-- [Omeka Footnotes Using HTML](https://leadr-msu.github.io/guides/omeka-footnotes.html)
-- [Omeka Items and Exhibits](https://leadr-msu.github.io/guides/omeka-items-and-exhibits.html)
-- [Omeka Pages](https://leadr-msu.github.io/guides/omeka-pages.html)
-- [Omeka Metadata Guide](https://leadr-msu.github.io/guides/omeka-metadata.html)
 - [Logging into Omeka](https://leadr-msu.github.io/guides/logging-into-omeka.html)
+- [Omeka Items and Exhibits](https://leadr-msu.github.io/guides/omeka-items-and-exhibits.html)
+- [Omeka Metadata Guide](https://leadr-msu.github.io/guides/omeka-metadata.html)
+- [Omeka Pages](https://leadr-msu.github.io/guides/omeka-pages.html)
+- [Omeka Footnotes Using HTML](https://leadr-msu.github.io/guides/omeka-footnotes.html)
 - [Omeka S](https://leadr-msu.github.io/guides/omeka-s.html)
 - [WordPress Introductory Resources](https://leadr-msu.github.io/guides/wordpress.html)
 - [Microsoft Sway Guide](https://leadr-msu.github.io/guides/microsoft-sway.html)
