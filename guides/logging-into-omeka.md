@@ -17,8 +17,8 @@ Your instructor will provide a class register to LEADR from which we will send y
 * This will bring you to the User Activation page where you can enter in a secure password for your account. After entering in your password click Activate to create your account.
   * *Note*: make sure your password is something secure that you will remember. It is possible to reset a password, but it can be stressful when deadlines are due. <br><br><img style="border:1px solid black" class="center" src="img/logging-into-omeka/omeka_login_2.png" width="60%"><br><br>
 * You will now be able to log into Omeka using your MSU net ID and the password you just created. Click the Log in button after entering your information.
-  * **Important Note**: if you need to find your website's login page, type in “/admin” at the end of your site’s url. <br><br><img style="border:1px solid black" class="center" src="img/logging-into-omeka/omeka_login_3.png" width="60%"><br><br>
-* Logging in should bring you to the Omeka Dashboard shown below. <br><br><img style="border:1px solid black" class="center" src="img/logging-into-omeka/omeka_login_4.png" width="80%"><br><br>
+  * **Important Note**: if you need to find your website's login page, type in “/admin” at the end of your site’s url. <br><br><img style="border:1px solid black" class="center" src="img/logging-into-omeka/LEADR-Tutorial_OmekaLogin.png" width="60%"><br><br>
+* Logging in should bring you to the Omeka Dashboard shown below. <br><br><img style="border:1px solid black" class="center" src="img/logging-into-omeka/LEADR-Tutorial_OmekaDashboard.png" width="80%"><br><br>
 
 ## Subsequent Logins
 * To avoid losing track of your site, it is recommended that you bookmark your Project’s URL into your web browser. Alternatively, you may always come back to this handout.
