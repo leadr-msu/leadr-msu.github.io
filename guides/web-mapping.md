@@ -1,4 +1,4 @@
-# So You Want to Start Web Mapping?
+# Do You Want to Start Web Mapping?
 Created by [Zach Francis](https://redfeather.dev/)
 <br>*Maintained by [LEADR](http://leadr.msu.edu/) under the direction of Gillian Macdonald*
 
